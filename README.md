@@ -57,9 +57,9 @@ The developers will try to make a Linux version at some point.
 ### Not Currently Planned
 
 * [Tilt Brush](http://store.steampowered.com/app/327140/) - 
-  [will "look into it"](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha))
+  [will "look into it"](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha)
 * [Job Simulator](http://store.steampowered.com/app/448280) - 
-  ["no announcement"](https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598))
+  ["no announcement"](https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598)
 * [5089](http://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436)
 * [Sublevel Zero](http://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416)
 * [Racket: Nx](https://steamcommunity.com/app/428080/discussions/0/133258593391051295/)
