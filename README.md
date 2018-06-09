@@ -35,7 +35,7 @@ The developers will try to make a Linux version at some point.
 * [Left Hand Path](http://store.steampowered.com/app/488760/LeftHand_Path/) - 
   [dev post](https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3)
 * [Climbey](http://store.steampowered.com/app/520010) - 
-  (["I do plan on looking into it further but it's not very high priority"](https://steamcommunity.com/app/520010/discussions/0/133257959063050510/)
+  ["I do plan on looking into it further but it's not very high priority"](https://steamcommunity.com/app/520010/discussions/0/133257959063050510/)
 * [QuiVr](http://store.steampowered.com/app/489380) - 
   ["happy to hit the 'build linux' button and see what happens"](https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588)
 * [Legend of Dungeon](http://store.steampowered.com/app/238280) - 
@@ -49,7 +49,7 @@ The developers will try to make a Linux version at some point.
 * [Rubber Ball VR](http://store.steampowered.com/app/603630) - 
   [We definitely want support for Linux.](https://steamcommunity.com/app/603630/discussions/0/135511027321191213/?tscn=1489131665#c135511027322804196)
 * [Pierhead Arcade](http://store.steampowered.com/app/435490) - 
-  ["I'll see what I can do"](http://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768))
+  ["I'll see what I can do"](http://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768)
 * [High Fidelity](http://store.steampowered.com/app/390540/) - 
   [Github](https://github.com/highfidelity/hifi/issues/10098)
 * [Till Dawn](http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html)
