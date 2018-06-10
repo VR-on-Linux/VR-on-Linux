@@ -7,7 +7,7 @@ to find whether they actually support VR on Linux.
 ### Confirmed Working
 
 * [BallisticNG](https://store.steampowered.com/app/473770/) -
-  [not officially supported but does work](https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/)
+  [not officially supported yet but does work](https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/)
 * [Destinations](https://store.steampowered.com/app/453170/)
 * [DOTA2](https://store.steampowered.com/app/570/)
 * [Dungeon Hero](https://store.steampowered.com/app/366810)
