@@ -26,7 +26,8 @@ to find whether they actually support VR on Linux.
 * [Serious Sam VR: The First Encounter](https://store.steampowered.com/app/552450/) - 
   [dev post](https://steamcommunity.com/games/552450/announcements/detail/508182627702316801)
 * [Serious Sam VR: The Second Encounter](https://store.steampowered.com/app/552460/)
-* [SoundStage VR](https://github.com/ChristophHaag/soundstagevr) - [Linux build](https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz)
+* [SoundStage VR](https://github.com/ChristophHaag/soundstagevr) - 
+  [Linux build](https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Vivecraft](http://www.vivecraft.org/)
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
