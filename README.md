@@ -91,6 +91,10 @@ The developers will try to make a Linux version at some point.
 
 ----
  
-### Acknowledgements
+# Acknowledgements
  
-* [Forum thread where Teq first compiled the list](https://steamcommunity.com/app/250820/discussions/5/133257959064016658/)
+* Steam user [Teq](https://steamcommunity.com/id/toq) for compiling 
+  [the original list here](https://steamcommunity.com/app/250820/discussions/5/133257959064016658/)
+* Valve for [SteamVR for Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) 
+  and [the forum](https://steamcommunity.com/app/250820/discussions/5/)
+* Players like you
