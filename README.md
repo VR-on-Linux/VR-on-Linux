@@ -32,7 +32,6 @@ to find whether they actually support VR on Linux.
 * [Vivecraft](http://www.vivecraft.org/)
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 
-
 ### Confirmed Planned
 
 The developers will try to make a Linux version at some point.
@@ -57,6 +56,13 @@ The developers will try to make a Linux version at some point.
 * [Till Dawn](http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html)
 * [vkQuakeVR](https://github.com/felixrg/vkQuakeVR) - 
   [dev in progress](https://github.com/felixrg/vkQuakeVR/commit/4202aad566c63d07231aa7ff539056fc9d3d5852)
+
+### Confirmed Not Working
+
+No developer response yet.
+
+* [Distance](https://store.steampowered.com/app/233610) - 
+  [Forum thread](https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972)
 
 ### Not Currently Planned
 
