@@ -1,7 +1,7 @@
 # VR Software Status
 
 Objective: Investigate software such as 
-[these games on Steam](https://store.steampowered.com/search/?vrsupport=101&os=linux) 
+[these games on Steam](https://store.steampowered.com/search?vrsupport=401%2C402&os=linux) 
 to find whether they actually support VR on Linux.
 
 ### Confirmed Working
