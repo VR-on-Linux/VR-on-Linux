@@ -71,6 +71,7 @@ No developer response yet.
 * [Job Simulator](http://store.steampowered.com/app/448280) - 
   ["no announcement"](https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598)
 * [Legend of Luca](http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383)
+* [Hot Dogs, Horseshoes, and Hand Grenades](https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support)
 * [Racket: Nx](https://steamcommunity.com/app/428080/discussions/0/133258593391051295/)
 * [Raw Data](https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004)
 * [Sublevel Zero](http://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416)
