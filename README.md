@@ -12,6 +12,8 @@ to find whether they actually support VR on Linux.
 * [Dungeon Hero](https://store.steampowered.com/app/366810)
 * [Everspace](https://store.steampowered.com/app/396750/EVERSPACE/) - 
   [dev](https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274)
+* [Exokit](https://github.com/webmixedreality/exokit) - 
+  [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/3)
 * [High Fidelity](https://store.steampowered.com/app/390540/) - 
   [github](https://github.com/highfidelity/hifi/issues/10098#issuecomment-323548033)
 * [Locomancer](https://store.steampowered.com/app/490250/)
@@ -27,6 +29,7 @@ to find whether they actually support VR on Linux.
 * [Serious Sam VR: The Second Encounter](https://store.steampowered.com/app/552460/)
 * [SoundStage VR](https://github.com/ChristophHaag/soundstagevr) - 
   [Linux build](https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz)
+* [sphereFACE](https://store.steampowered.com/app/485680/sphereFACE/) - [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/2)
 * [SteamVR Home](https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095) 
   (formerly Destinations)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
