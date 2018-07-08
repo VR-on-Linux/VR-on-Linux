@@ -8,7 +8,6 @@ to find whether they actually support VR on Linux.
 
 * [BallisticNG](https://store.steampowered.com/app/473770/) -
   [not officially supported yet but does work](https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/)
-* [Destinations](https://store.steampowered.com/app/453170/)
 * [DOTA2](https://store.steampowered.com/app/570/)
 * [Dungeon Hero](https://store.steampowered.com/app/366810)
 * [Everspace](https://store.steampowered.com/app/396750/EVERSPACE/) - 
@@ -28,6 +27,7 @@ to find whether they actually support VR on Linux.
 * [Serious Sam VR: The Second Encounter](https://store.steampowered.com/app/552460/)
 * [SoundStage VR](https://github.com/ChristophHaag/soundstagevr) - 
   [Linux build](https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz)
+* SteamVR Home Beta (formerly Destinations)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Vivecraft](http://www.vivecraft.org/)
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
@@ -72,6 +72,7 @@ No developer response yet.
   ["no announcement"](https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598)
 * [Legend of Luca](http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383)
 * [Hot Dogs, Horseshoes, and Hand Grenades](https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support)
+  (H3VR)
 * [Racket: Nx](https://steamcommunity.com/app/428080/discussions/0/133258593391051295/)
 * [Raw Data](https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004)
 * [Sublevel Zero](http://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416)
