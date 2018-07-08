@@ -2,7 +2,8 @@
 
 Objective: Investigate software such as 
 [these games on Steam](https://store.steampowered.com/search?vrsupport=401%2C402&os=linux) 
-to find whether they actually support VR on Linux.
+to find whether they actually support VR on Linux. Please post [what issues you 
+have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 
 ### Confirmed Working
 
