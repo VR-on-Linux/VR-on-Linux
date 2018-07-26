@@ -16,7 +16,7 @@ have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 * [Exokit](https://github.com/webmixedreality/exokit) - 
   [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/3)
 * [High Fidelity](https://store.steampowered.com/app/390540/) - 
-  [Github for Linux VR](https://github.com/ChristophHaag/hifi)
+  [Enabling VR on Linux](https://github.com/ChristophHaag/hifi)
 * [Gaia Sky VR](https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme) - 
   [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/4)
 * [Locomancer](https://store.steampowered.com/app/490250/)
