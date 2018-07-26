@@ -17,6 +17,8 @@ have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
   [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/3)
 * [High Fidelity](https://store.steampowered.com/app/390540/) - 
   [github](https://github.com/highfidelity/hifi/issues/10098#issuecomment-323548033)
+* [Gaia Sky VR](https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme) - 
+  [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/4)
 * [Locomancer](https://store.steampowered.com/app/490250/)
 * [Munch VR](https://store.steampowered.com/app/549000/) - 
   [announcement](https://steamcommunity.com/games/549000/announcements/detail/254855783331915882)
