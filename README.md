@@ -1,65 +1,47 @@
 # VR Software Status
 
-Objective: Investigate software such as 
-[these games on Steam](https://store.steampowered.com/search?vrsupport=401%2C402&os=linux) 
-to find whether they actually support VR on Linux. Please post [what issues you 
-have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
+Objective: Investigate software such as [these games on Steam][Steam store link]
+to find whether they actually support VR on Linux. Please post
+[what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 
 ### Confirmed Working
 
-* [BallisticNG](https://store.steampowered.com/app/473770/) -
-  [not officially supported yet but does work](https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/)
+* [BallisticNG][ballisticng] -
+  [not officially supported yet but does work][ballisticng thread]
 * [DOTA2](https://store.steampowered.com/app/570/)
 * [Dungeon Hero](https://store.steampowered.com/app/366810)
-* [Everspace](https://store.steampowered.com/app/396750/EVERSPACE/) - 
-  [dev](https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274)
-* [Exokit](https://github.com/webmixedreality/exokit) - 
-  [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/3)
-* [High Fidelity](https://store.steampowered.com/app/390540/) - 
-  [Enabling VR on Linux](https://github.com/ChristophHaag/hifi)
-* [Gaia Sky VR](https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme) - 
-  [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/4)
+* [Everspace][everspace] - [dev comment][everspace dev]
+* [Exokit][exokit] - [Issue][exokit issue]
+* [High Fidelity][high fidelity] - [Enabling VR on Linux][hifi linux]
+* [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
 * [Locomancer](https://store.steampowered.com/app/490250/)
-* [Munch VR](https://store.steampowered.com/app/549000/) - 
-  [announcement](https://steamcommunity.com/games/549000/announcements/detail/254855783331915882)
-* [Polynomial 2](https://store.steampowered.com/app/379420/Polynomial_2__Universe_of_the_Music/) - 
-  [discussion](https://steamcommunity.com/app/379420/discussions/0/135512305401923487/?tscn=1501357291#c1471966894875192367)
+* [Munch VR][munch vr] - [announcement][munch vr announce]
+* [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
 * [Serious Sam Fusion 2017](http://store.steampowered.com/app/564310)
-* [Serious Sam 3 VR: BFE](https://store.steampowered.com/app/567670/Serious_Sam_3_VR_BFE/)
-* [Serious Sam VR: The First Encounter](https://store.steampowered.com/app/552450/) - 
-  [dev post](https://steamcommunity.com/games/552450/announcements/detail/508182627702316801)
-* [Serious Sam VR: The Second Encounter](https://store.steampowered.com/app/552460/)
-* [SoundStage VR](https://github.com/ChristophHaag/soundstagevr) - 
-  [Linux build](https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz)
-* [sphereFACE](https://store.steampowered.com/app/485680/sphereFACE/) - [Issue](https://gitlab.com/yaomtc/VR-on-Linux/issues/2)
-* [SteamVR Home](https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095) 
-  (formerly Destinations)
+* [Serious Sam 3 VR: BFE][serious sam 3]
+* [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
+* [Serious Sam VR: The Second Encounter][serious sam vr2]
+* [SoundStage VR][soundstage vr] - [Linux build](soundstage linux)
+* [sphereFACE][sphereface] - [Issue][sphereface issue]
+* [SteamVR Home][steamvr home] (formerly Destinations)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Vivecraft](http://www.vivecraft.org/)
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 
 ### Confirmed Planned
 
-The developers will try to make a Linux version at some point.
+The developers will try to make a Linux version at some point. May or may not be
+released.
 
-* [Climbey](http://store.steampowered.com/app/520010) - 
-  ["I do plan on looking into it further but it's not very high priority"](https://steamcommunity.com/app/520010/discussions/0/133257959063050510/)
-* [cyubeVR](https://store.steampowered.com/app/619500/cyubeVR/)
-* [Duck Force](http://store.steampowered.com/app/511690) - 
-  [should have a demo](http://steamcommunity.com/app/511690/discussions/0/343785574533821511/?tscn=1488389901#c133258593383841944)
-* [High Fidelity](http://store.steampowered.com/app/390540/) - 
-  [Github](https://github.com/highfidelity/hifi/issues/10098)
-* [Holodance](http://store.steampowered.com/app/422860/) - 
-  ["just a question of when"](https://www.reddit.com/r/Vive/comments/5wb2u3/now_the_steamvr_is_in_beta_for_linux_will_game/de92pg7/)
-* [Left Hand Path](http://store.steampowered.com/app/488760/LeftHand_Path/) - 
-  [dev post](https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3)
-* [Legend of Dungeon](http://store.steampowered.com/app/238280) - 
-  ["I'll do what I can with the next update"](https://steamcommunity.com/app/238280/discussions/0/135509823662970415/)
-* [Pierhead Arcade](http://store.steampowered.com/app/435490) - 
-  ["I'll see what I can do"](http://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768)
-* [QuiVr](http://store.steampowered.com/app/489380) - 
-  ["happy to hit the 'build linux' button and see what happens"](https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588)
+* [Climbey][climbey] - ["but it's not very high priority"][climbey dev]
+* [cyubeVR](https://store.steampowered.com/app/619500/)
+* [Duck Force][duck force] - [should have a demo][duck force dev]
+* [Holodance][holodance] - ["just a question of when"][holodance dev]
+* [Left-Hand Path][left hand path] - [dev post][left hand post]
+* [Legend of Dungeon][legend of dungeon] - [dev post][legend dev]
+* [Pierhead Arcade][pierhead] - [dev post][pierhead dev]
+* [QuiVr][quivr] - [dev post](quivr dev)
 * [Till Dawn](http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html)
 * [vkQuakeVR](https://github.com/felixrg/vkQuakeVR) - 
   [dev in progress](https://github.com/felixrg/vkQuakeVR/commit/4202aad566c63d07231aa7ff539056fc9d3d5852)
@@ -99,10 +81,13 @@ No developer response yet.
 * Oculus Rift development kits (DK1, DK2) - 
   [ArchWiki](https://wiki.archlinux.org/index.php/Oculus_Rift)
 
-### Not Currently Planned
+### Unofficial OpenHMD Support
 
-* Oculus Rift - should gain unofficial support from 
-  [OpenHMD](http://www.openhmd.net/) in the future
+[These currently lack positional tracking functionality][openhmd], and not as many games 
+support OpenHMD yet. But for developers, it's a great option.
+
+* Oculus Rift
+* 
 
 ----
  
@@ -113,3 +98,43 @@ No developer response yet.
 * Valve for [SteamVR for Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) 
   and [the forum](https://steamcommunity.com/app/250820/discussions/5/)
 * Players like you
+
+  [steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
+  [ballisticng]: https://store.steampowered.com/app/473770/
+  [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
+  [everspace]: https://store.steampowered.com/app/396750/EVERSPACE/
+  [everspace dev]: https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274
+  [exokit]: https://github.com/webmixedreality/exokit
+  [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
+  [high fidelity]: https://store.steampowered.com/app/390540/
+  [hifi linux]: https://github.com/ChristophHaag/hifi
+  [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
+  [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
+  [munch vr]: https://store.steampowered.com/app/549000/
+  [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
+  [polynomial 2]: https://store.steampowered.com/app/379420/
+  [polynomial 2 thread]: https://steamcommunity.com/app/379420/discussions/0/135512305401923487/?tscn=1501357291#c1471966894875192367
+  [serious sam 3]: https://store.steampowered.com/app/567670/Serious_Sam_3_VR_BFE/
+  [serious sam vr1]: https://store.steampowered.com/app/552450/
+  [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
+  [serious sam vr2]: https://store.steampowered.com/app/552460/
+  [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
+  [soundstage linux]: https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz
+  [sphereface]: https://store.steampowered.com/app/485680/sphereFACE/
+  [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
+  [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
+  [climbey]: http://store.steampowered.com/app/520010
+  [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/
+  [duck force]: http://store.steampowered.com/app/511690
+  [duck force dev]: http://steamcommunity.com/app/511690/discussions/0/343785574533821511/?tscn=1488389901#c133258593383841944
+  [holodance]: http://store.steampowered.com/app/422860/
+  [holodance dev]: https://www.reddit.com/r/Vive/comments/5wb2u3/now_the_steamvr_is_in_beta_for_linux_will_game/de92pg7/
+  [left hand path]: http://store.steampowered.com/app/488760/
+  [left hand post]: https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3
+  [legend of dungeon]: http://store.steampowered.com/app/238280
+  [legend dev]: https://steamcommunity.com/app/238280/discussions/0/135509823662970415/
+  [pierhead]: http://store.steampowered.com/app/435490
+  [pierhead dev]: http://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
+  [quivr]: http://store.steampowered.com/app/489380
+  [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
+  [openhmd]: http://www.openhmd.net/index.php/devices/
