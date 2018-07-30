@@ -1,3 +1,7 @@
+<!--If it's a short line, feel free to use the [link text](URL) format.
+For longer lines, please use the [link text][link reference name], and
+put the URL after its name in the bottom section with the others.-->
+
 # VR Software Status
 
 Objective: Investigate software such as [these games on Steam][Steam store link]
@@ -6,13 +10,12 @@ to find whether they actually support VR on Linux. Please post
 
 ### Confirmed Working
 
-* [BallisticNG][ballisticng] -
-  [not officially supported yet but does work][ballisticng thread]
+* [BallisticNG][ballisticng] - [discussion][ballisticng thread]
 * [DOTA2](https://store.steampowered.com/app/570/)
 * [Dungeon Hero](https://store.steampowered.com/app/366810)
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Exokit][exokit] - [Issue][exokit issue]
-* [High Fidelity][high fidelity] - [Enabling VR on Linux][hifi linux]
+* [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
 * [Locomancer](https://store.steampowered.com/app/490250/)
 * [Munch VR][munch vr] - [announcement][munch vr announce]
@@ -24,9 +27,10 @@ to find whether they actually support VR on Linux. Please post
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
 * [SoundStage VR][soundstage vr] - [Linux build](soundstage linux)
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
-* [SteamVR Home][steamvr home] (formerly Destinations)
+* [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Vivecraft](http://www.vivecraft.org/)
+* [vkQuakeVR][vkquakevr]
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 
 ### Confirmed Planned
@@ -34,40 +38,34 @@ to find whether they actually support VR on Linux. Please post
 The developers will try to make a Linux version at some point. May or may not be
 released.
 
-* [Climbey][climbey] - ["but it's not very high priority"][climbey dev]
-* [cyubeVR](https://store.steampowered.com/app/619500/)
-* [Duck Force][duck force] - [should have a demo][duck force dev]
-* [Holodance][holodance] - ["just a question of when"][holodance dev]
+* [Climbey][climbey] - [dev comment][climbey dev]
+* [cyubeVR][cyubevr] - [dev post][cyubevr post]
+* [Holodance][holodance] - [dev comment][holodance dev]
 * [Left-Hand Path][left hand path] - [dev post][left hand post]
 * [Legend of Dungeon][legend of dungeon] - [dev post][legend dev]
 * [Pierhead Arcade][pierhead] - [dev post][pierhead dev]
-* [QuiVr][quivr] - [dev post](quivr dev)
-* [Till Dawn](http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html)
-* [vkQuakeVR](https://github.com/felixrg/vkQuakeVR) - 
-  [dev in progress](https://github.com/felixrg/vkQuakeVR/commit/4202aad566c63d07231aa7ff539056fc9d3d5852)
+* [QuiVr][quivr] - [dev post][quivr dev]
+* [Till Dawn][till dawn]
 
 ### Confirmed Not Working
 
 No developer response yet.
 
-* [Distance](https://store.steampowered.com/app/233610) - 
-  [Forum thread](https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972)
+* [Distance][distance] - [mod comment][distance thread]
 
 ### Not Currently Planned
 
-* [5089](http://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436)
-* [Accounting](https://steamcommunity.com/app/518580/discussions/0/133258092241829803/)
-* [Job Simulator](http://store.steampowered.com/app/448280) - 
-  ["no announcement"](https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598)
-* [Legend of Luca](http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383)
-* [Hot Dogs, Horseshoes, and Hand Grenades](https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support)
-  (H3VR)
-* [Racket: Nx](https://steamcommunity.com/app/428080/discussions/0/133258593391051295/)
-* [Raw Data](https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004)
-* [Sublevel Zero](http://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416)
-* [Subnautica](http://steamcommunity.com/app/264710/discussions/0/490123938436996887/)
-* [Tilt Brush](http://store.steampowered.com/app/327140/) - 
-  [will "look into it"](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha)
+* [5089][5089 post]
+* [Accounting][accounting post]
+* [Duck Force][duck force dev]
+* [Job Simulator][job sim post]
+* [Legend of Luca][legend luca post]
+* [Hot Dogs, Horseshoes, and Hand Grenades (H3VR)][h3vr post]
+* [Racket: Nx][racket nx post]
+* [Raw Data][raw data post]
+* [Sublevel Zero][sublevel zero post]
+* [Subnautica][subnautica post]
+* [Tilt Brush][tilt brush post]
 
 ----
 
@@ -75,11 +73,8 @@ No developer response yet.
 
 ### Confirmed Working
 
-* HTC Vive - 
-  [SteamVR for Linux Github](https://github.com/ValveSoftware/SteamVR-for-Linux)
-  (development release)
-* Oculus Rift development kits (DK1, DK2) - 
-  [ArchWiki](https://wiki.archlinux.org/index.php/Oculus_Rift)
+* HTC Vive - [SteamVR for Linux Github][steamvr linux github] (development beta)
+* Oculus Rift development kits (DK1, DK2) - [ArchWiki][archwiki rift]
 
 ### Unofficial OpenHMD Support
 
@@ -95,13 +90,14 @@ many games support OpenHMD yet.
  
 # Acknowledgements
  
-* Steam user [Teq](https://steamcommunity.com/id/toq) for compiling 
-  [the original list here](https://steamcommunity.com/app/250820/discussions/5/133257959064016658/)
-* Valve for [SteamVR for Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) 
-  and [the forum](https://steamcommunity.com/app/250820/discussions/5/)
+* Steam user [Teq][teq] for compiling [the original list here][old list]
+* Valve for [SteamVR for Linux][steamvr linux github] and [the forum][forum]
 * Players like you
 
+<!--Web Addresses (will not display)-->
+
   [steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
+  
   [ballisticng]: https://store.steampowered.com/app/473770/
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
   [everspace]: https://store.steampowered.com/app/396750/EVERSPACE/
@@ -125,10 +121,14 @@ many games support OpenHMD yet.
   [sphereface]: https://store.steampowered.com/app/485680/sphereFACE/
   [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
+  [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
+  
   [climbey]: http://store.steampowered.com/app/520010
-  [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/
+  [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
+  [cyubevr]: https://store.steampowered.com/app/619500/
+  [cyubevr post]: https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/
   [duck force]: http://store.steampowered.com/app/511690
-  [duck force dev]: http://steamcommunity.com/app/511690/discussions/0/343785574533821511/?tscn=1488389901#c133258593383841944
+  [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
   [holodance]: http://store.steampowered.com/app/422860/
   [holodance dev]: https://www.reddit.com/r/Vive/comments/5wb2u3/now_the_steamvr_is_in_beta_for_linux_will_game/de92pg7/
   [left hand path]: http://store.steampowered.com/app/488760/
@@ -139,4 +139,28 @@ many games support OpenHMD yet.
   [pierhead dev]: http://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
   [quivr]: http://store.steampowered.com/app/489380
   [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
+  [till dawn]: http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html
+  
+  [distance]: https://store.steampowered.com/app/233610/
+  [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
+  
+  [5089 post]: http://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
+  [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
+  [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
+  [legend luca post]: http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
+  [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
+  [racket nx post]: https://steamcommunity.com/app/428080/discussions/0/133258593391051295/
+  [raw data post]: https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004
+  [sublevel zero post]: http://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
+  [subnautica post]: http://steamcommunity.com/app/264710/discussions/0/490123938436996887/
+  [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
+  
+  [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
+  
+  [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
+  
   [openhmd]: http://www.openhmd.net/index.php/devices/
+  
+  [teq]: https://steamcommunity.com/id/toq
+  [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
+  [forum]: https://steamcommunity.com/app/250820/discussions/5/
