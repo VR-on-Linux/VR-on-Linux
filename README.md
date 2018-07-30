@@ -21,7 +21,7 @@ to find whether they actually support VR on Linux. Please post
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
-* [Serious Sam Fusion 2017](http://store.steampowered.com/app/564310)
+* [Serious Sam Fusion 2017](https://store.steampowered.com/app/564310)
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
@@ -123,36 +123,36 @@ many games support OpenHMD yet.
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
   
-  [climbey]: http://store.steampowered.com/app/520010
+  [climbey]: httpS://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
   [cyubevr]: https://store.steampowered.com/app/619500/
   [cyubevr post]: https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/
-  [duck force]: http://store.steampowered.com/app/511690
+  [duck force]: https://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
-  [holodance]: http://store.steampowered.com/app/422860/
+  [holodance]: https://store.steampowered.com/app/422860/
   [holodance dev]: https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756
-  [left hand path]: http://store.steampowered.com/app/488760/
+  [left hand path]: https://store.steampowered.com/app/488760/
   [left hand post]: https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3
-  [legend of dungeon]: http://store.steampowered.com/app/238280
+  [legend of dungeon]: https://store.steampowered.com/app/238280
   [legend dev]: https://steamcommunity.com/app/238280/discussions/0/135509823662970415/
-  [pierhead]: http://store.steampowered.com/app/435490
-  [pierhead dev]: http://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
-  [quivr]: http://store.steampowered.com/app/489380
-  [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
+  [pierhead]: https://store.steampowered.com/app/435490
+  [pierhead dev]: https://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
+  [quivr]: https://store.steampowered.com/app/489380
+  [quivr dev]: httpss://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
   [till dawn]: http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html
   
   [distance]: https://store.steampowered.com/app/233610/
   [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
   
-  [5089 post]: http://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
+  [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
   [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
-  [legend luca post]: http://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
+  [legend luca post]: https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
   [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
   [racket nx post]: https://steamcommunity.com/app/428080/discussions/0/133258593391051295/
   [raw data post]: https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004
-  [sublevel zero post]: http://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
-  [subnautica post]: http://steamcommunity.com/app/264710/discussions/0/490123938436996887/
+  [sublevel zero post]: https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
+  [subnautica post]: https://steamcommunity.com/app/264710/discussions/0/490123938436996887/
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
   
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
