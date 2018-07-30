@@ -130,7 +130,7 @@ many games support OpenHMD yet.
   [duck force]: http://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
   [holodance]: http://store.steampowered.com/app/422860/
-  [holodance dev]: https://www.reddit.com/r/Vive/comments/5wb2u3/now_the_steamvr_is_in_beta_for_linux_will_game/de92pg7/
+  [holodance dev]: https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756
   [left hand path]: http://store.steampowered.com/app/488760/
   [left hand post]: https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3
   [legend of dungeon]: http://store.steampowered.com/app/238280
