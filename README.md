@@ -83,11 +83,13 @@ No developer response yet.
 
 ### Unofficial OpenHMD Support
 
-[These currently lack positional tracking functionality][openhmd], and not as many games 
-support OpenHMD yet. But for developers, it's a great option.
+[These currently lack positional tracking functionality][openhmd], and not as
+many games support OpenHMD yet.
 
+* Microsoft Mixed Reality
 * Oculus Rift
-* 
+* PSVR
+* Samsung GearVR
 
 ----
  
