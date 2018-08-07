@@ -1,4 +1,4 @@
-Here's how you can help!
+Here is how you can help!
 
  * Anyone can:
    * Provide links to tests that people have posted elsewhere.
@@ -7,7 +7,7 @@ Here's how you can help!
  * If you have access to a VR headset, you can:
    * Test software or hardware for Linux VR compatibility.
      * Whether it works fine, works but has issues, or doesn't work at all, you
-       can post an [issue][issues] for it. After that, I could also add you as
+       can post an [issue][issues] for it. After that, we can also add you as
        a maintainer, if you wished to edit the README directly.
  * If you don't have access to a VR headset, you can:
    * Gift a VR application to someone who does, and is willing to test in Linux.
