@@ -123,7 +123,7 @@ many games support OpenHMD yet.
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
   
-  [climbey]: httpS://store.steampowered.com/app/520010
+  [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
   [cyubevr]: https://store.steampowered.com/app/619500/
   [cyubevr post]: https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/
@@ -138,7 +138,7 @@ many games support OpenHMD yet.
   [pierhead]: https://store.steampowered.com/app/435490
   [pierhead dev]: https://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
   [quivr]: https://store.steampowered.com/app/489380
-  [quivr dev]: httpss://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
+  [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
   [till dawn]: http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html
   
   [distance]: https://store.steampowered.com/app/233610/
