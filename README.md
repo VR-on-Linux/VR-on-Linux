@@ -25,7 +25,7 @@ to find whether they actually support VR on Linux. Please post
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
-* [SoundStage VR][soundstage vr] - [Linux build](soundstage-linux)
+* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux]
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
 * [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
