@@ -117,7 +117,7 @@ many games support OpenHMD yet.
   [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
   [serious sam vr2]: https://store.steampowered.com/app/552460/
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
-  [soundstage linux]: https://haagch.frickel.club/files/soundstage-fixed-2017.3.0p2.tar.xz
+  [soundstage linux]: /issues/5#note_93726156
   [sphereface]: https://store.steampowered.com/app/485680/sphereFACE/
   [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
