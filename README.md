@@ -25,7 +25,7 @@ to find whether they actually support VR on Linux. Please post
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
-* [SoundStage VR][soundstage vr] - [Linux build](soundstage linux)
+* [SoundStage VR][soundstage vr] - [Linux build](soundstage-linux)
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
 * [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
@@ -117,7 +117,7 @@ many games support OpenHMD yet.
   [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
   [serious sam vr2]: https://store.steampowered.com/app/552460/
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
-  [soundstage linux]: /issues/5#note_93726156
+  [soundstage-linux]: /issues/5#note_93726156
   [sphereface]: https://store.steampowered.com/app/485680/sphereFACE/
   [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
