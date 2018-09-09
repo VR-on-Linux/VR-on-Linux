@@ -30,6 +30,7 @@ to find whether they actually support VR on Linux. Please post
 * [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Vivecraft](http://www.vivecraft.org/)
+* [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
 * [vkQuakeVR][vkquakevr]
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 
@@ -87,9 +88,9 @@ many games support OpenHMD yet.
 * Samsung GearVR
 
 ----
- 
+
 # Acknowledgements
- 
+
 * Steam user [Teq][teq] for compiling [the original list here][old list]
 * Valve for [SteamVR for Linux][steamvr linux github] and [the forum][forum]
 * Players like you
@@ -97,7 +98,7 @@ many games support OpenHMD yet.
 <!--Web Addresses (will not display)-->
 
   [steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
-  
+
   [ballisticng]: https://store.steampowered.com/app/473770/
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
   [everspace]: https://store.steampowered.com/app/396750/EVERSPACE/
@@ -122,7 +123,9 @@ many games support OpenHMD yet.
   [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
-  
+  [xplane 11.26]: https://store.steampowered.com/app/269950/XPlane_11/
+  [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
+
   [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
   [cyubevr]: https://store.steampowered.com/app/619500/
@@ -140,10 +143,10 @@ many games support OpenHMD yet.
   [quivr]: https://store.steampowered.com/app/489380
   [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
   [till dawn]: http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html
-  
+
   [distance]: https://store.steampowered.com/app/233610/
   [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
-  
+
   [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
   [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
@@ -154,13 +157,13 @@ many games support OpenHMD yet.
   [sublevel zero post]: https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
   [subnautica post]: https://steamcommunity.com/app/264710/discussions/0/490123938436996887/
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
-  
+
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
-  
+
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
-  
+
   [openhmd]: http://www.openhmd.net/index.php/devices/
-  
+
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
