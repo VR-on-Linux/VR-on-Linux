@@ -29,6 +29,7 @@ to find whether they actually support VR on Linux. Please post
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
 * [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
+* [Universe Sandbox 2](universe sandbox 2) - [discussion](universe sandbox 2 discussion)
 * [Vivecraft](http://www.vivecraft.org/)
 * [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
 * [vkQuakeVR][vkquakevr]
@@ -125,7 +126,9 @@ many games support OpenHMD yet.
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
   [xplane 11.26]: https://store.steampowered.com/app/269950/XPlane_11/
   [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
-
+  [universe sandbox 2]: https://store.steampowered.com/app/230290/Universe_Sandbox/
+  [universe sandbox 2 discussion]: https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727
+  
   [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
   [cyubevr]: https://store.steampowered.com/app/619500/
