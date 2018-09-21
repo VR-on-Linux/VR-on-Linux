@@ -29,7 +29,7 @@ to find whether they actually support VR on Linux. Please post
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
 * [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
-* [Universe Sandbox 2](universe sandbox 2) - [discussion](universe sandbox 2 discussion)
+* [Universe Sandbox 2][universe sandbox 2] - [discussion][universe sandbox 2 discussion]
 * [Vivecraft](http://www.vivecraft.org/)
 * [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
 * [vkQuakeVR][vkquakevr]
