@@ -8,8 +8,8 @@ Objective: Investigate software such as [these games on Steam][Steam store link]
 to find whether they actually support VR on Linux. Please post
 [what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 
-Make sure to use the latest graphics drivers and kernel available to you. (AMD 
-users: Mesa 18.2 or later; Nvidia users: version 396 or later)
+Make sure to use the latest graphics drivers and Linux kernel available to you.
+(AMD: Mesa 18.2; Nvidia: version 396 or later; Linux: 4.15 or later)
 
 ### Confirmed Working
 
