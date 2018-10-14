@@ -8,6 +8,9 @@ Objective: Investigate software such as [these games on Steam][Steam store link]
 to find whether they actually support VR on Linux. Please post
 [what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 
+Make sure to use the latest graphics drivers and kernel available to you. (AMD 
+users: Mesa 18.2 or later; Nvidia users: version 396 or later)
+
 ### Confirmed Working
 
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
@@ -17,8 +20,7 @@ to find whether they actually support VR on Linux. Please post
 * [Exokit][exokit] - [Issue][exokit issue]
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
-* [Google Earth VR][google earth vr] 
-  (use Proton 3.16+ in SteamPlay with latest graphics driver)
+* [Google Earth VR][google earth vr]
 * [Locomancer](https://store.steampowered.com/app/490250/)
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
@@ -31,7 +33,8 @@ to find whether they actually support VR on Linux. Please post
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
 * [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
-* [Universe Sandbox 2][universe sandbox 2] - [discussion][universe sandbox 2 discussion]
+* [Universe Sandbox 2][universe sandbox 2] - 
+  [discussion][universe sandbox 2 discussion]
 * [Vivecraft](http://www.vivecraft.org/)
 * [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
 * [vkQuakeVR][vkquakevr]
@@ -100,7 +103,7 @@ many games support OpenHMD yet.
 
 <!--Web Addresses (will not display)-->
 
-  [steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
+  [Steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
 
   [ballisticng]: https://store.steampowered.com/app/473770/
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
