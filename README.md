@@ -17,6 +17,8 @@ to find whether they actually support VR on Linux. Please post
 * [Exokit][exokit] - [Issue][exokit issue]
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
+* [Google Earth VR][google earth vr] 
+  (use Proton 3.16+ in SteamPlay with latest graphics driver)
 * [Locomancer](https://store.steampowered.com/app/490250/)
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
@@ -107,6 +109,7 @@ many games support OpenHMD yet.
   [exokit]: https://github.com/webmixedreality/exokit
   [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
   [high fidelity]: https://store.steampowered.com/app/390540/
+  [google earth vr]: https://store.steampowered.com/app/348250/Google_Earth_VR/
   [hifi linux]: https://github.com/ChristophHaag/hifi
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
   [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
