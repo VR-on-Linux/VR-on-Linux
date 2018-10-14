@@ -9,7 +9,7 @@ to find whether they actually support VR on Linux. Please post
 [what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 
 Make sure to use the latest graphics drivers and Linux kernel available to you.
-(At a minimum, Linux 4.15 with Mesa 18.2 (AMD) or Nvidia version 396.)
+At a minimum, Linux 4.15 with Mesa 18.2 (AMD) or Nvidia version 396.
 
 ### Confirmed Working
 
