@@ -11,8 +11,8 @@ to find whether they actually support VR on Linux. Please post
 Make sure to use the latest graphics drivers and Linux kernel available to you.
 At a minimum, Linux 4.15 with Mesa 18.2 (AMD) or Nvidia version 396.
 
-Also check out the [VR tag on ProtonDB](https://www.protondb.com/) for games not
-listed here that may work with Proton.
+Also check out the [VR tag on ProtonDB][protondb tag] for games not listed here 
+that may work with Proton.
 
 ### Confirmed Working
 
@@ -110,6 +110,7 @@ many games support OpenHMD yet.
 
   [Steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
   [whitelist]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
+  [protondb tag]: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
 <!--Confirmed Working-->
   [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
