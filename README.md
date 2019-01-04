@@ -11,16 +11,21 @@ to find whether they actually support VR on Linux. Please post
 Make sure to use the latest graphics drivers and Linux kernel available to you.
 At a minimum, Linux 4.15 with Mesa 18.2 (AMD) or Nvidia version 396.
 
+Also check out the [VR tag on ProtonDB](https://www.protondb.com/) for games not
+listed here that may work with Proton.
+
 ### Confirmed Working
 
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
+* [Beat Saber][beat saber] - on [Steam Play whitelist][whitelist]
 * [DOTA2](https://store.steampowered.com/app/570/)
+* [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
 * [Dungeon Hero](https://store.steampowered.com/app/366810)
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Exokit][exokit] - [Issue][exokit issue]
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
-* [Google Earth VR][google earth vr]
+* [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
 * [Locomancer](https://store.steampowered.com/app/490250/)
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
@@ -104,46 +109,49 @@ many games support OpenHMD yet.
 <!--Web Addresses (will not display)-->
 
   [Steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
-
-  [ballisticng]: https://store.steampowered.com/app/473770/
+  [whitelist]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
+<!--Confirmed Working-->
+  [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
-  [everspace]: https://store.steampowered.com/app/396750/EVERSPACE/
+  [beat saber]: https://store.steampowered.com/app/620980
+  [doom vfr]: https://store.steampowered.com/app/650000
+  [everspace]: https://store.steampowered.com/app/396750
   [everspace dev]: https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274
   [exokit]: https://github.com/webmixedreality/exokit
   [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
-  [high fidelity]: https://store.steampowered.com/app/390540/
-  [google earth vr]: https://store.steampowered.com/app/348250/Google_Earth_VR/
+  [high fidelity]: https://store.steampowered.com/app/390540
+  [google earth vr]: https://store.steampowered.com/app/348250
   [hifi linux]: https://github.com/ChristophHaag/hifi
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
   [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
-  [munch vr]: https://store.steampowered.com/app/549000/
+  [munch vr]: https://store.steampowered.com/app/549000
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
-  [polynomial 2]: https://store.steampowered.com/app/379420/
+  [polynomial 2]: https://store.steampowered.com/app/379420
   [polynomial 2 thread]: https://steamcommunity.com/app/379420/discussions/0/135512305401923487/?tscn=1501357291#c1471966894875192367
-  [serious sam 3]: https://store.steampowered.com/app/567670/Serious_Sam_3_VR_BFE/
-  [serious sam vr1]: https://store.steampowered.com/app/552450/
+  [serious sam 3]: https://store.steampowered.com/app/567670
+  [serious sam vr1]: https://store.steampowered.com/app/552450
   [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
-  [serious sam vr2]: https://store.steampowered.com/app/552460/
+  [serious sam vr2]: https://store.steampowered.com/app/552460
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
   [soundstage-linux]: /issues/5#note_93726156
-  [sphereface]: https://store.steampowered.com/app/485680/sphereFACE/
+  [sphereface]: https://store.steampowered.com/app/485680
   [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
   [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
-  [xplane 11.26]: https://store.steampowered.com/app/269950/XPlane_11/
+  [xplane 11.26]: https://store.steampowered.com/app/269950
   [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
-  [universe sandbox 2]: https://store.steampowered.com/app/230290/Universe_Sandbox/
+  [universe sandbox 2]: https://store.steampowered.com/app/230290
   [universe sandbox 2 discussion]: https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727
-  
+<!--Confirmed Planned-->
   [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
-  [cyubevr]: https://store.steampowered.com/app/619500/
+  [cyubevr]: https://store.steampowered.com/app/619500
   [cyubevr post]: https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/
   [duck force]: https://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
-  [holodance]: https://store.steampowered.com/app/422860/
+  [holodance]: https://store.steampowered.com/app/422860
   [holodance dev]: https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756
-  [left hand path]: https://store.steampowered.com/app/488760/
+  [left hand path]: https://store.steampowered.com/app/488760
   [left hand post]: https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3
   [legend of dungeon]: https://store.steampowered.com/app/238280
   [legend dev]: https://steamcommunity.com/app/238280/discussions/0/135509823662970415/
@@ -152,10 +160,10 @@ many games support OpenHMD yet.
   [quivr]: https://store.steampowered.com/app/489380
   [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
   [till dawn]: http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html
-
-  [distance]: https://store.steampowered.com/app/233610/
+<!--Confirmed Not Working-->
+  [distance]: https://store.steampowered.com/app/233610
   [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
-
+<!--Not Currently Planned-->
   [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
   [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
@@ -166,13 +174,11 @@ many games support OpenHMD yet.
   [sublevel zero post]: https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
   [subnautica post]: https://steamcommunity.com/app/264710/discussions/0/490123938436996887/
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
-
-  [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
-
+<!--VR Hardware Status-->
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
-
+  [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
-
+<!--Acknowledgements-->
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
