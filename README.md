@@ -85,7 +85,7 @@ No developer response yet.
 
 ### Confirmed Working
 
-* HTC Vive - [SteamVR for Linux Github][steamvr linux github] (development beta)
+* HTC Vive/Vive Pro and Valve Index via SteamVR - [SteamVR for Linux Github][steamvr linux github] (development beta)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki][archwiki rift]
 
 ### Unofficial OpenHMD Support
