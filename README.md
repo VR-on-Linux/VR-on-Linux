@@ -9,7 +9,9 @@ to find whether they actually support VR on Linux. Please post
 [what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
 
 Make sure to use the latest graphics drivers and Linux kernel available to you.
-At a minimum, Linux 4.15 with Mesa 18.2 (AMD) or Nvidia version 396.
+At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is 
+required for the SteamVR beta. Linux kernel 4.15 is recommended. [For more
+details on SteamVR, click here.][steamvr linux github]
 
 Also check out the [VR tag on ProtonDB][protondb tag] for games not listed here 
 that may work with Proton.
@@ -86,7 +88,8 @@ No developer response yet.
 
 ### Confirmed Working
 
-* HTC Vive/Vive Pro and Valve Index via SteamVR - [SteamVR for Linux Github][steamvr linux github] (development beta)
+* HTC Vive/Vive Pro and Valve Index via SteamVR - 
+  [SteamVR for Linux Github][steamvr linux github] (development beta)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki][archwiki rift]
 
 ### Unofficial OpenHMD Support
