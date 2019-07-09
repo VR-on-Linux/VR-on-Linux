@@ -44,6 +44,7 @@ that may work with Proton.
 * [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
 * [vkQuakeVR][vkquakevr]
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
+* [ZED][zed] - [dev post][zed-vr]
 
 ### Confirmed Planned
 
@@ -143,6 +144,8 @@ many games support OpenHMD yet.
   [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
   [universe sandbox 2]: https://store.steampowered.com/app/230290
   [universe sandbox 2 discussion]: https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727
+  [zed]: https://store.steampowered.com/app/953370/ZED/
+  [zed-vr]: https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/
 <!--Confirmed Planned-->
   [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
