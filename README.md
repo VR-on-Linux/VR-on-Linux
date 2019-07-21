@@ -102,6 +102,8 @@ many games support OpenHMD yet.
 * PSVR
 * Samsung GearVR
 
+Also check out [Monado][Monado], the free and open source OpenXR implementation.
+
 ----
 
 # Acknowledgements
@@ -185,6 +187,7 @@ many games support OpenHMD yet.
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
+  [Monado]: httpds://monado.dev
 <!--Acknowledgements-->
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
