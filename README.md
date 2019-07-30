@@ -5,20 +5,23 @@ put the URL after its name in the bottom section with the others.-->
 # VR Software Status
 
 Objective: Investigate software such as [these games on Steam][Steam store link]
-to find whether they actually support VR on Linux. Please post
+to find whether they actually support virtual reality (VR) on Linux. Please post
 [what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
+
+This document is VR-focused, but augmented reality (AR) applications will also
+be included. (Together, VR and AR are known as XR.)
 
 Make sure to use the latest graphics drivers and Linux kernel available to you.
 At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is 
-required for the SteamVR beta. Linux kernel 4.15 is recommended. [For more
-details on SteamVR, click here.][steamvr linux github]
+required for the SteamVR beta. Linux kernel 4.15 is recommended. For more
+details on SteamVR, [click here.][steamvr linux github]
 
 Also check out the [VR tag on ProtonDB][protondb tag] for games not listed here 
 that may work with Proton.
 
 ### Confirmed Working
 
-#### Games
+##### Games
 
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
 * [Beat Saber][beat saber] - on [Steam Play whitelist][whitelist]
@@ -46,15 +49,18 @@ that may work with Proton.
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 * [ZED][zed] - [dev post][zed-vr]
 
-#### Other Software
+##### Other Software
 
-* [Exokit][exokit] - [Issue][exokit issue]
-* [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
-* [Monado][monado]
-* [SteamVR][steamvr linux github]
-* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux]
-* [Unity](https://unity.com/)
-* [xrdesktop][xrdesktop] - [Announcement][xrdesktop post]
+* [Exokit][exokit] - [Issue][exokit issue] - VR/AR/XR engine for JavaScript
+* [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue] - 3D universe application
+* [Godot][godot] - open source game engine, requires [plugin][godot plugin]
+* [Monado][monado] - open source OpenXR runtime - [blog post][monado post]
+* [SteamVR][steamvr linux github] - Valve's VR software system
+* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
+* [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
+* [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
+* [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the
+  Linux desktop in XR
 
 ### Confirmed Planned
 
@@ -161,10 +167,16 @@ Also check out [Monado][monado], the free and open source OpenXR implementation.
   [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
   [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
-  [xrdesktop]: https://gitlab.freedesktop.org/xrdesktop/xrdesktop
-  [xrdesktop post]: https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html
+  [godot]: https://godotengine.org/
+  [godot plugin]: https://github.com/GodotVR/godot_openvr
+  [monado]: httpds://monado.dev
+  [monado post]: https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
   [soundstage-linux]: /issues/5#note_93726156
+  [unity]: https://unity.com/
+  [unreal]: https://www.unrealengine.com/
+  [xrdesktop]: https://gitlab.freedesktop.org/xrdesktop/xrdesktop
+  [xrdesktop post]: https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html
 <!--Confirmed Planned-->
   [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
@@ -203,7 +215,6 @@ Also check out [Monado][monado], the free and open source OpenXR implementation.
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
-  [monado]: httpds://monado.dev
 <!--Acknowledgements-->
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
