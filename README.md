@@ -18,17 +18,17 @@ that may work with Proton.
 
 ### Confirmed Working
 
+#### Games
+
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
 * [Beat Saber][beat saber] - on [Steam Play whitelist][whitelist]
-* [DOTA2](https://store.steampowered.com/app/570/)
+* [DOTA2][dota2]    
 * [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
-* [Dungeon Hero](https://store.steampowered.com/app/366810)
+* [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
-* [Exokit][exokit] - [Issue][exokit issue]
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
-* [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
 * [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
-* [Locomancer](https://store.steampowered.com/app/490250/)
+* [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
@@ -36,9 +36,7 @@ that may work with Proton.
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
-* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux]
 * [sphereFACE][sphereface] - [Issue][sphereface issue]
-* [SteamVR Home][steamvr home]
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Universe Sandbox 2][universe sandbox 2] - 
   [discussion][universe sandbox 2 discussion]
@@ -47,6 +45,16 @@ that may work with Proton.
 * [vkQuakeVR][vkquakevr]
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 * [ZED][zed] - [dev post][zed-vr]
+
+#### Other Software
+
+* [Exokit][exokit] - [Issue][exokit issue]
+* [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue]
+* [Monado][monado]
+* [SteamVR][steamvr linux github]
+* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux]
+* [Unity](https://unity.com/)
+* [xrdesktop][xrdesktop] - [Announcement][xrdesktop post]
 
 ### Confirmed Planned
 
@@ -103,7 +111,7 @@ many games support OpenHMD yet.
 * PSVR
 * Samsung GearVR
 
-Also check out [Monado][Monado], the free and open source OpenXR implementation.
+Also check out [Monado][monado], the free and open source OpenXR implementation.
 
 ----
 
@@ -118,20 +126,19 @@ Also check out [Monado][Monado], the free and open source OpenXR implementation.
   [Steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
   [whitelist]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
   [protondb tag]: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
-<!--Confirmed Working-->
+<!--Confirmed Working: Games-->
   [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
   [beat saber]: https://store.steampowered.com/app/620980
   [doom vfr]: https://store.steampowered.com/app/650000
+  [dota2]: https://store.steampowered.com/app/570/
+  [dungeon hero]: https://store.steampowered.com/app/366810
   [everspace]: https://store.steampowered.com/app/396750
   [everspace dev]: https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274
-  [exokit]: https://github.com/webmixedreality/exokit
-  [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
-  [high fidelity]: https://store.steampowered.com/app/390540
   [google earth vr]: https://store.steampowered.com/app/348250
+  [high fidelity]: https://store.steampowered.com/app/390540
   [hifi linux]: https://github.com/ChristophHaag/hifi
-  [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
-  [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
+  [locomancer]: https://store.steampowered.com/app/490250/
   [munch vr]: https://store.steampowered.com/app/549000
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
   [polynomial 2]: https://store.steampowered.com/app/379420
@@ -140,11 +147,8 @@ Also check out [Monado][Monado], the free and open source OpenXR implementation.
   [serious sam vr1]: https://store.steampowered.com/app/552450
   [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
   [serious sam vr2]: https://store.steampowered.com/app/552460
-  [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
-  [soundstage-linux]: /issues/5#note_93726156
   [sphereface]: https://store.steampowered.com/app/485680
   [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
-  [steamvr home]: https://steamcommunity.com/games/250820/announcements/detail/1256913672017157095
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
   [xplane 11.26]: https://store.steampowered.com/app/269950
   [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
@@ -152,6 +156,15 @@ Also check out [Monado][Monado], the free and open source OpenXR implementation.
   [universe sandbox 2 discussion]: https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727
   [zed]: https://store.steampowered.com/app/953370/ZED/
   [zed-vr]: https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/
+<!--Confirmed Working: Other Software-->
+  [exokit]: https://github.com/webmixedreality/exokit
+  [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
+  [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
+  [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
+  [xrdesktop]: https://gitlab.freedesktop.org/xrdesktop/xrdesktop
+  [xrdesktop post]: https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html
+  [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
+  [soundstage-linux]: /issues/5#note_93726156
 <!--Confirmed Planned-->
   [climbey]: https://store.steampowered.com/app/520010
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
@@ -190,7 +203,7 @@ Also check out [Monado][Monado], the free and open source OpenXR implementation.
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
-  [Monado]: httpds://monado.dev
+  [monado]: httpds://monado.dev
 <!--Acknowledgements-->
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
