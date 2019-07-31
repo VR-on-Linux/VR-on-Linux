@@ -118,6 +118,7 @@ many games support OpenHMD yet.
 * Samsung GearVR
 
 Also check out [Monado][monado], the free and open source OpenXR implementation.
+It relies on OpenHMD for some devices.
 
 ----
 
