@@ -170,7 +170,7 @@ It relies on OpenHMD for some devices.
   [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
   [godot]: https://godotengine.org/
   [godot plugin]: https://github.com/GodotVR/godot_openvr
-  [monado]: httpds://monado.dev
+  [monado]: https://monado.dev
   [monado post]: https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
   [soundstage-linux]: /issues/5#note_93726156
