@@ -54,7 +54,7 @@ that may work with Proton.
 * [Exokit][exokit] - [Issue][exokit issue] - VR/AR/XR engine for JavaScript
 * [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue] - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
-* [Monado][monado] - open source OpenXR runtime - [blog post][monado post]
+* [Monado][monado] - [blog post][monado post] - open source OpenXR runtime
 * [SteamVR][steamvr linux github] - Valve's VR software system
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
