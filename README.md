@@ -87,6 +87,7 @@ No developer response yet.
 
 * [5089][5089 post]
 * [Accounting][accounting post]
+* [Budget Cuts 2][bc2 post]
 * [Duck Force][duck force dev]
 * [Job Simulator][job sim post]
 * [Legend of Luca][legend luca post]
@@ -204,6 +205,7 @@ It relies on OpenHMD for some devices.
 <!--Not Currently Planned-->
   [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
   [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
+  [bc2 post]: https://steamcommunity.com/app/1092430/discussions/0/1693843461177999079/#c1738882605425299335
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
   [legend luca post]: https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
   [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
