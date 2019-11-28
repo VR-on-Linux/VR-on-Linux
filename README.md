@@ -85,8 +85,8 @@ No developer response yet.
 
 ### Not Currently Planned
 
-Some have good [Proton][proton] compatibility, but are not 
-[whitelisted][whitelist].
+Some have excellent (Platinum) [Proton][proton] compatibility, but are not 
+[whitelisted][whitelist]. Others have more "mixed" results, but often work well.
 
 * [5089][5089 post]
 * [Accounting (Legacy)][accounting post] (Accounting+: [Platinum][accounting+])
@@ -94,8 +94,8 @@ Some have good [Proton][proton] compatibility, but are not
 * [Duck Force][duck force dev]
 * [Job Simulator][job sim post] ([Platinum][job sim protondb])
 * [Legend of Luca][legend luca post]
-* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr post]
-* [Racket: Nx][racket nx post]
+* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr post] ([mixed][h3vr protondb])
+* [Racket: Nx][racket nx post] ([mixed](https://www.protondb.com/app/428080))
 * [Raw Data][raw data post]
 * [Sublevel Zero][sublevel zero post]
 * [Subnautica][subnautica post]
@@ -215,6 +215,7 @@ It relies on OpenHMD for some devices.
   [job sim protondb]: https://www.protondb.com/app/448280
   [legend luca post]: https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
   [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
+  [h3vr protondb]: https://www.protondb.com/app/450540
   [racket nx post]: https://steamcommunity.com/app/428080/discussions/0/133258593391051295/
   [raw data post]: https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004
   [sublevel zero post]: https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
