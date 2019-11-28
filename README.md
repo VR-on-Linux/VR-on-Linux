@@ -17,7 +17,7 @@ required for the SteamVR beta. Linux kernel 4.15 is recommended. For more
 details on SteamVR, [click here.][steamvr linux github]
 
 Also check out the [VR tag on ProtonDB][protondb tag] for games not listed here 
-that may work with Proton.
+that may work with [Proton][proton].
 
 ### Confirmed Working
 
@@ -85,13 +85,16 @@ No developer response yet.
 
 ### Not Currently Planned
 
+Some have good [Proton][proton] compatibility, but are not 
+[whitelisted][whitelist].
+
 * [5089][5089 post]
-* [Accounting][accounting post]
+* [Accounting (Legacy)][accounting post] (Accounting+: [Platinum][accounting+])
 * [Budget Cuts 2][bc2 post]
 * [Duck Force][duck force dev]
-* [Job Simulator][job sim post]
+* [Job Simulator][job sim post] ([Platinum][job sim protondb])
 * [Legend of Luca][legend luca post]
-* [Hot Dogs, Horseshoes, and Hand Grenades (H3VR)][h3vr post]
+* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr post]
 * [Racket: Nx][racket nx post]
 * [Raw Data][raw data post]
 * [Sublevel Zero][sublevel zero post]
@@ -134,6 +137,7 @@ It relies on OpenHMD for some devices.
   [Steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
   [whitelist]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
   [protondb tag]: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
+  [proton]: https://github.com/ValveSoftware/Proton/
 <!--Confirmed Working: Games-->
   [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
@@ -205,8 +209,10 @@ It relies on OpenHMD for some devices.
 <!--Not Currently Planned-->
   [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
   [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
+  [accounting+]: https://www.protondb.com/app/927270
   [bc2 post]: https://steamcommunity.com/app/1092430/discussions/0/1693843461177999079/#c1738882605425299335
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
+  [job sim protondb]: https://www.protondb.com/app/448280
   [legend luca post]: https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
   [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
   [racket nx post]: https://steamcommunity.com/app/428080/discussions/0/133258593391051295/
