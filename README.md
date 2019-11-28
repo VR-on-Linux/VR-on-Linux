@@ -54,7 +54,8 @@ that may work with [Proton][proton].
 * [Exokit][exokit] - [Issue][exokit issue] - VR/AR/XR engine for JavaScript
 * [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue] - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
-* [Monado][monado] - [blog post][monado post] - open source OpenXR runtime
+* [Monado][monado] - [blog post][monado post] - free and open source
+  [OpenXR][openxr] runtime
 * [SteamVR][steamvr linux github] - Valve's VR software system
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
@@ -121,8 +122,8 @@ many games support OpenHMD yet.
 * PSVR
 * Samsung GearVR
 
-Also check out [Monado][monado], the free and open source OpenXR implementation.
-It relies on OpenHMD for some devices.
+Also check out [Monado][monado], the free and open source [OpenXR][openxr]
+implementation. It relies on OpenHMD for some devices.
 
 ----
 
@@ -177,6 +178,7 @@ It relies on OpenHMD for some devices.
   [godot plugin]: https://github.com/GodotVR/godot_openvr
   [monado]: https://monado.dev
   [monado post]: https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html
+  [openxr]: https://www.khronos.org/openxr/
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
   [soundstage-linux]: /issues/5#note_93726156
   [unity]: https://unity.com/
