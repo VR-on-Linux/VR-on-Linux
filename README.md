@@ -33,6 +33,7 @@ that may work with [Proton][proton].
 * [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
 * [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
+* [Neos VR][neos vr] - [announcement][neos vr post]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
 * [Serious Sam Fusion 2017](https://store.steampowered.com/app/564310)
@@ -154,6 +155,8 @@ implementation. It relies on OpenHMD for some devices.
   [locomancer]: https://store.steampowered.com/app/490250/
   [munch vr]: https://store.steampowered.com/app/549000
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
+  [neos vr]: https://store.steampowered.com/app/740250/Neos_VR/
+  [neos vr post]: https://store.steampowered.com/newshub/app/740250/view/3300515414498852519
   [polynomial 2]: https://store.steampowered.com/app/379420
   [polynomial 2 thread]: https://steamcommunity.com/app/379420/discussions/0/135512305401923487/?tscn=1501357291#c1471966894875192367
   [serious sam 3]: https://store.steampowered.com/app/567670
