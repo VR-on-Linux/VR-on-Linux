@@ -29,7 +29,7 @@ that may work with [Proton][proton].
 * [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
-* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
+* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [Issue](#11)
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
 * [Locomancer][locomancer]
