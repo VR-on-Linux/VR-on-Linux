@@ -29,7 +29,7 @@ that may work with [Proton][proton].
 * [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
-* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [Issue](#11)
+* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
 * [Locomancer][locomancer]
@@ -41,7 +41,7 @@ that may work with [Proton][proton].
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
-* [sphereFACE][sphereface] - [Issue](#2)
+* [sphereFACE][sphereface] - [issue](#2)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Universe Sandbox 2][universe sandbox 2] - 
   [discussion][universe sandbox 2 discussion]
@@ -53,8 +53,8 @@ that may work with [Proton][proton].
 
 ##### Other Software
 
-* [Exokit][exokit] - [Issue](#3) - VR/AR/XR engine for JavaScript
-* [Gaia Sky VR][gaia sky vr] - [Issue](#4) - 3D universe application
+* [Exokit][exokit] - [issue](#3) - VR/AR/XR engine for JavaScript
+* [Gaia Sky VR][gaia sky vr] - [issue](#4) - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
 * [Monado][monado] - [blog post][monado post] - free and open source
   [OpenXR][openxr] runtime
