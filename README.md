@@ -29,7 +29,7 @@ that may work with [Proton][proton].
 * [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
-* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announcement]
+* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
 * [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
 * [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
 * [Locomancer][locomancer]
@@ -152,7 +152,7 @@ implementation. It relies on OpenHMD for some devices.
   [everspace dev]: https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274
   [google earth vr]: https://store.steampowered.com/app/348250
   [hl alyx]: https://store.steampowered.com/app/546560/HalfLife_Alyx/
-  [hl alyx announcement]: https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078
+  [hl alyx announce]: https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078
   [high fidelity]: https://store.steampowered.com/app/390540
   [hifi linux]: https://github.com/ChristophHaag/hifi
   [locomancer]: https://store.steampowered.com/app/490250/
