@@ -41,7 +41,7 @@ that may work with [Proton][proton].
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
-* [sphereFACE][sphereface] - [Issue][sphereface issue]
+* [sphereFACE][sphereface] - [Issue](#2)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Universe Sandbox 2][universe sandbox 2] - 
   [discussion][universe sandbox 2 discussion]
@@ -53,8 +53,8 @@ that may work with [Proton][proton].
 
 ##### Other Software
 
-* [Exokit][exokit] - [Issue][exokit issue] - VR/AR/XR engine for JavaScript
-* [Gaia Sky VR][gaia sky vr] - [Issue][gaia sky issue] - 3D universe application
+* [Exokit][exokit] - [Issue](#3) - VR/AR/XR engine for JavaScript
+* [Gaia Sky VR][gaia sky vr] - [Issue](#4) - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
 * [Monado][monado] - [blog post][monado post] - free and open source
   [OpenXR][openxr] runtime
@@ -167,7 +167,6 @@ implementation. It relies on OpenHMD for some devices.
   [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
   [serious sam vr2]: https://store.steampowered.com/app/552460
   [sphereface]: https://store.steampowered.com/app/485680
-  [sphereface issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/2
   [vkquakevr]: https://github.com/VsevolodGolovanov/vkQuakeVR
   [xplane 11.26]: https://store.steampowered.com/app/269950
   [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
@@ -177,9 +176,7 @@ implementation. It relies on OpenHMD for some devices.
   [zed-vr]: https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/
 <!--Confirmed Working: Other Software-->
   [exokit]: https://github.com/webmixedreality/exokit
-  [exokit issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/3
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
-  [gaia sky issue]: https://gitlab.com/yaomtc/VR-on-Linux/issues/4
   [godot]: https://godotengine.org/
   [godot plugin]: https://github.com/GodotVR/godot_openvr
   [monado]: https://monado.dev
