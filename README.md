@@ -127,6 +127,9 @@ many games support OpenHMD yet.
 Also check out [Monado][monado], the free and open source [OpenXR][openxr]
 implementation. It relies on OpenHMD for some devices.
 
+If you want official Linux support for the Oculus Rift, [add your vote 
+here.][rift vote] If you want, leave a comment, too (but be nice!)
+
 ----
 
 # Acknowledgements
@@ -230,6 +233,7 @@ implementation. It relies on OpenHMD for some devices.
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
+  [rift vote]: https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support
 <!--Acknowledgements-->
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
