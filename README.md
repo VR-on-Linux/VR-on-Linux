@@ -62,6 +62,8 @@ that may work with [Proton][proton].
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
+* [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR
+  games) on your VR headset
 * [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the
   Linux desktop in XR
 
@@ -189,6 +191,7 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [soundstage-linux]: /issues/5#note_93726156
   [unity]: https://unity.com/
   [unreal]: https://www.unrealengine.com/
+  [vr-video]: https://git.dec05eba.com/vr-video-player/about/
   [xrdesktop]: https://gitlab.freedesktop.org/xrdesktop/xrdesktop
   [xrdesktop post]: https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html
 <!--Confirmed Planned-->
