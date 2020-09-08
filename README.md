@@ -24,6 +24,7 @@ that may work with [Proton][proton].
 ##### Games
 
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
+* [Balloonatics][balloonatics]
 * [Beat Saber][beat saber] - on [Steam Play whitelist][whitelist]
 * [DOTA2][dota2]    
 * [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
@@ -150,6 +151,7 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
 <!--Confirmed Working: Games-->
   [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
+  [balloonatics]: https://store.steampowered.com/app/744600/Balloonatics/
   [beat saber]: https://store.steampowered.com/app/620980
   [doom vfr]: https://store.steampowered.com/app/650000
   [dota2]: https://store.steampowered.com/app/570/
