@@ -62,6 +62,7 @@ that may work with [Proton][proton].
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
+* [Vircadia](https://vircadia.com) - [issue](#13) - open-source social VR metaverse
 * [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR
   games) on your VR headset
 * [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the
