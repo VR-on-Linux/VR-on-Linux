@@ -31,7 +31,7 @@ that may work with [Proton][proton].
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
-* [High Fidelity][high fidelity] - [enabling VR on Linux][hifi linux]
+* ~~[High Fidelity][high fidelity]~~ ([shut down](#14), see Vircadia below)
 * [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
 * [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
@@ -63,7 +63,8 @@ that may work with [Proton][proton].
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
-* [Vircadia](https://vircadia.com) - [issue](#13) - open-source social VR metaverse
+* [Vircadia](https://vircadia.com) - [issues](#13) - open-source social VR 
+  metaverse, successor of High Fidelity
 * [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR
   games) on your VR headset
 * [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the
@@ -84,7 +85,7 @@ released.
 * [QuiVr][quivr] - [dev post][quivr dev]
 * [Till Dawn][till dawn]
 
-### Confirmed Not Working
+### Confirmed Not Working (Natively)
 
 No developer response yet.
 
