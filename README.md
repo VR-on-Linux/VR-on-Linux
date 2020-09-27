@@ -4,9 +4,11 @@ put the URL after its name in the bottom section with the others.-->
 
 # VR Software Status
 
-Objective: Investigate software such as [these games on Steam][Steam store link]
-to find whether they actually support virtual reality (VR) on Linux. Please post
-[what issues you have here](https://gitlab.com/yaomtc/VR-on-Linux/issues).
+Objective: Investigate software such as 
+[these **native** titles on Steam][Steam store link] to find whether they 
+actually support virtual reality (VR) on Linux. In addition, [Steam Play]
+whitelisted [software] will also be tracked. Please post 
+[what issues you have here][issues].
 
 This document is VR-focused, but augmented reality (AR) applications will also
 be included. (Together, VR and AR are known as XR.)
@@ -25,14 +27,14 @@ that may work with [Proton][proton].
 
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
 * [Balloonatics][balloonatics]
-* [Beat Saber][beat saber] - on [Steam Play whitelist][whitelist]
+* [Beat Saber][beat saber] - on Steam Play whitelist
 * [DOTA2][dota2]    
-* [Doom VFR][doom vfr] - on [Steam Play whitelist][whitelist]
+* [Doom VFR][doom vfr] - on Steam Play whitelist
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
 * ~~[High Fidelity][high fidelity]~~ ([shut down](#14), see Vircadia below)
-* [Google Earth VR][google earth vr]  - on [Steam Play whitelist][whitelist]
+* [Google Earth VR][google earth vr]  - on Steam Play whitelist
 * [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Neos VR][neos vr] - [announcement][neos vr post]
@@ -146,7 +148,9 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
 <!--Web Addresses (will not display)-->
 
   [Steam store link]: https://store.steampowered.com/search?vrsupport=401%2C402&os=linux
-  [whitelist]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
+  [Steam Play]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
+  [software]: https://www.protondb.com/explore?page=0&selectedFilters=userTags&selectedFilters=whitelisted&selectedTags=VR
+  [issues]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues
   [protondb tag]: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
   [proton]: https://github.com/ValveSoftware/Proton/
 <!--Confirmed Working: Games-->
