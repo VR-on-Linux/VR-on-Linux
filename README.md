@@ -84,7 +84,6 @@ released.
 * [Legend of Dungeon][legend of dungeon] - [dev post][legend dev]
 * [Pierhead Arcade][pierhead] - [dev post][pierhead dev]
 * [QuiVr][quivr] - [dev post][quivr dev]
-* [Till Dawn][till dawn]
 
 ### Confirmed Not Working (Natively)
 
@@ -222,7 +221,6 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [pierhead dev]: https://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
   [quivr]: https://store.steampowered.com/app/489380
   [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
-  [till dawn]: http://isenmann.blogspot.de/2017/08/till-dawn-first-pre-alpha-version.html
 <!--Confirmed Not Working-->
   [distance]: https://store.steampowered.com/app/233610
   [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
