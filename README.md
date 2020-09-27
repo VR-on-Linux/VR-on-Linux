@@ -15,10 +15,10 @@ be included. (Together, VR and AR are known as XR.)
 
 Make sure to use the latest graphics drivers and Linux kernel available to you.
 At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is 
-required for the SteamVR beta. Linux kernel 4.15 is recommended. For more
-details on SteamVR, [click here.][steamvr linux github]
+required for the SteamVR beta. For more details on SteamVR for Linux, 
+[click here.][steamvr linux github]
 
-Also check out the [VR tag on ProtonDB][protondb tag] for games not listed here 
+Also see [PROTON.md] for games not listed here 
 that may work with [Proton][proton].
 
 ### Confirmed Working
@@ -95,17 +95,18 @@ No developer response yet.
 
 ### Not Currently Planned
 
-Some have excellent (Platinum) [Proton][proton] compatibility, but are not 
-[whitelisted][whitelist]. Others have more "mixed" results, but often work well.
+Some have great [Proton][proton] compatibility, but are not 
+whitelisted. Others have more mixed results, but may work well. See [PROTON.md]
+for more info.
 
 * [5089][5089 post]
 * [Accounting (Legacy)][accounting post] (Accounting+: [Platinum][accounting+])
 * [Budget Cuts 2][bc2 post]
 * [Duck Force][duck force dev]
-* [Job Simulator][job sim post] ([Platinum][job sim protondb])
+* [Job Simulator][job sim post]
 * [Legend of Luca][legend luca post]
-* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr post] ([mixed][h3vr protondb])
-* [Racket: Nx][racket nx post] ([mixed](https://www.protondb.com/app/428080))
+* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr post]
+* [Racket: Nx][racket nx post]
 * [Raw Data][raw data post]
 * [Sublevel Zero][sublevel zero post]
 * [Subnautica][subnautica post]
@@ -153,6 +154,7 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [issues]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues
   [protondb tag]: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
   [proton]: https://github.com/ValveSoftware/Proton/
+  [PROTON.md]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/blob/master/PROTON.md
 <!--Confirmed Working: Games-->
   [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
@@ -209,7 +211,7 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [cyubevr post]: https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/
   [duck force]: https://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
-  [groove gunner]:https://store.steampowered.com/app/976930
+  [groove gunner]: https://store.steampowered.com/app/976930
   [groove gunner dev]: https://www.gamingonlinux.com/articles/vr-rhythm-game-groove-gunner-looks-insane-and-its-coming-to-linux.14511
   [holodance]: https://store.steampowered.com/app/422860
   [holodance dev]: https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756
@@ -231,10 +233,8 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [accounting+]: https://www.protondb.com/app/927270
   [bc2 post]: https://steamcommunity.com/app/1092430/discussions/0/1693843461177999079/#c1738882605425299335
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
-  [job sim protondb]: https://www.protondb.com/app/448280
   [legend luca post]: https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
   [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
-  [h3vr protondb]: https://www.protondb.com/app/450540
   [racket nx post]: https://steamcommunity.com/app/428080/discussions/0/133258593391051295/
   [raw data post]: https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004
   [sublevel zero post]: https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
