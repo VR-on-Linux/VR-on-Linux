@@ -18,8 +18,7 @@ At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is
 required for the SteamVR beta. For more details on SteamVR for Linux, 
 [click here.][steamvr linux github]
 
-Also see [PROTON.md] for games not listed here 
-that may work with [Proton][proton].
+Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 
 ### Confirmed Working
 
