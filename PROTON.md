@@ -3,7 +3,7 @@ are "VR Supported", as opposed to VR Only, and most people testing these games
 will not be able to test VR. SpaceEngine, for example, needs VR verified.-->
 
 This list contains many VR titles which are *not* whitelisted or native (so you
-will not get support from Valve or the developers) but do have a Gold or
+will not get support from Valve or the game developers) but do have a Gold or
 Platinum rating on ProtonDB.
 
 "Gold" or "Platinum" are reflective of how many good ratings there are versus
@@ -13,7 +13,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 
 * [Aircar] - [Platinum][Aircar PDB]
 * [Anyland] - [Platinum][Anyland PDB]
-* [Arizone Sunshine] - [Gold][Arizona Sunshine PDB]
+* [Arizona Sunshine] - [Gold][Arizona Sunshine PDB]
 * [Blade & Sorcery][B&S] - [Gold][B&S PDB]
 * [Boneworks] - [Gold][Boneworks PDB]
 * [Budget Cuts] - [Gold][Budget Cuts PDB]
@@ -26,7 +26,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Job Simulator] - [Gold][Job Simulator PDB]
 * [Karnage Chronicles] - [Platinum][Karnage Chronicles PDB]
 * [Lazerbait] - [Platinum][Lazerbait PDB]
-* [Monster Girl Island: Prologue][MGI:P] - [Gold][MGI:P PDB] (Sexual content)
+* [Monster Girl Island: Prologue (sexual content)][MGI:P] - [Gold][MGI:P PDB]
 * [Moss] - [Platinum][Moss PDB]
 * [Pistol Whip] - [Gold][Pistol Whip PDB]
 * [Racket: Nx] - [Gold][Racket: Nx PDB]
@@ -37,7 +37,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [The Elder Scrolls V: Skyrim VR][TESV:SVR] - [Gold][TESV:SVR PDB]
 * [The Room VR: A Dark Matter][TRVR:ADM] - [Gold][TRVR:ADM PDB]
 * [The Thrill of the Fight - VR Boxing][TTotF] - [Gold][TTotF PDB]
-* [The Walking Dead: Saints & Sinners][TWWS&S] - [Gold][TWDS&S PDB]
+* [The Walking Dead: Saints & Sinners][TWDS&S] - [Gold][TWDS&S PDB]
 * [Thumper] - [Platinum][Thumper PDB]
 * [Until You Fall][UYF] - [Platinum][UYF PDB]
 * [Vacation Simulator] - [Gold][Vacation Simulator PDB]
@@ -50,8 +50,8 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 [Aircar PDB]: https://www.protondb.com/app/1073390
 [Anyland]: https://store.steampowered.com/app/505700
 [Anyland PDB]: https://www.protondb.com/app/505700
-[Arizone Sunshine]: https://store.steampowered.com/app/342180
-[Arizone Sunshine PDB]: https://www.protondb.com/app/342180
+[Arizona Sunshine]: https://store.steampowered.com/app/342180
+[Arizona Sunshine PDB]: https://www.protondb.com/app/342180
 [B&S]: https://store.steampowered.com/app/629730
 [B&S PDB]: https://www.protondb.com/app/629730
 [Boneworks]: https://store.steampowered.com/app/823500
