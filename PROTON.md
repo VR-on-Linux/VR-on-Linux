@@ -14,6 +14,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Aircar] - [Platinum][Aircar PDB]
 * [Anyland] - [Platinum][Anyland PDB]
 * [Arizona Sunshine] - [Gold][Arizona Sunshine PDB]
+* [Assetto Corsa] - [Gold][Assetto Corsa PDB] - [Needs alt launcher](#16)
 * [Blade & Sorcery][B&S] - [Gold][B&S PDB]
 * [Boneworks] - [Gold][Boneworks PDB]
 * [Budget Cuts] - [Gold][Budget Cuts PDB]
@@ -28,6 +29,8 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Lazerbait] - [Platinum][Lazerbait PDB]
 * [Monster Girl Island: Prologue (sexual content)][MGI:P] - [Gold][MGI:P PDB]
 * [Moss] - [Platinum][Moss PDB]
+* [No Man's Sky] - [Gold][No Man's Sky PDB] - 
+  [Do not use experimental branch](#15)
 * [Pistol Whip] - [Gold][Pistol Whip PDB]
 * [Racket: Nx] - [Gold][Racket: Nx PDB]
 * [Rick and Morty: Virtual Rick-ality][RaM:VR] - [Gold][RaM:VR PDB]
@@ -52,6 +55,8 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 [Anyland PDB]: https://www.protondb.com/app/505700
 [Arizona Sunshine]: https://store.steampowered.com/app/342180
 [Arizona Sunshine PDB]: https://www.protondb.com/app/342180
+[Assetto Corsa]: https://store.steampowered.com/app/244210
+[Assetto Corsa PDB]: https://www.protondb.com/app/244210
 [B&S]: https://store.steampowered.com/app/629730
 [B&S PDB]: https://www.protondb.com/app/629730
 [Boneworks]: https://store.steampowered.com/app/823500
@@ -80,6 +85,8 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 [MGI:P PDB]: https://www.protondb.com/app/943700
 [Moss]: https://store.steampowered.com/app/846470
 [Moss PDB]: https://www.protondb.com/app/846470
+[No Man's Sky]: https://store.steampowered.com/app/275850
+[No Man's Sky PDB]: https://www.protondb.com/app/275850
 [Pistol Whip]: https://store.steampowered.com/app/1079800
 [Pistol Whip PDB]: https://www.protondb.com/app/1079800
 [Racket: Nx]: https://store.steampowered.com/app/428080
