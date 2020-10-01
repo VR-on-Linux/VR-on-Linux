@@ -27,6 +27,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [CUSTOM ORDER MAID 3D2 It's a Night Magic][COM3D2] - [Gold][COM3D2 PDB]*
 * [Down the Rabbit Hole] - [Platinum][DtRH PDB]
 * [Duck Season] - [Gold][Duck Season PDB]
+* [Elite Dangerous] - [Gold][ED PDB]
 * [Five Nights at Freddy's: Help Wanted][FNAF:HW] - [Gold][FNAF:HW PDB]
 * [Gal*Gun VR] - [Gold][Gal*Gun VR PDB]
 * [GORN] - [Gold][GORN PDB]
@@ -107,6 +108,8 @@ performance.
   [Duck Season PDB]: https://www.protondb.com/app/503580
 [Down the Rabbit Hole]: https://store.steampowered.com/app/1215270
   [DtRH PDB]: https://www.protondb.com/app/1215270
+[Elite Dangerous]: https://store.steampowered.com/app/359320
+  [ED PDB]: https://www.protondb.com/app/359320
 [FNAF:HW]: https://store.steampowered.com/app/732690
   [FNAF:HW PDB]: https://www.protondb.com/app/732690
 [Gal*Gun VR]: https://store.steampowered.com/app/678520
