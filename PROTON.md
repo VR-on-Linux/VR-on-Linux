@@ -43,6 +43,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [OhShape] - [Platinum][OhShape PDB]
 * [Operation Warcade VR] - [Gold][Operation Warcade VR PDB]
 * [OrbusVR: Reborn] - [Gold][OrbusVR: Reborn PDB]
+* [Phasmophobia] - [Gold][Phasmophobia PDB]*
 * [Pistol Whip] - [Gold][Pistol Whip PDB]
 * [Project CARS 2] - [Platinum][Project CARS 2 PDB]*
 * [Racket: Nx] - [Gold][Racket: Nx PDB]
@@ -140,6 +141,8 @@ performance.
   [Operation Warcade VR PDB]: https://www.protondb.com/app/639270
 [OrbusVR: Reborn]: https://store.steampowered.com/app/746930
   [OrbusVR: Reborn PDB]: https://www.protondb.com/app/746930
+[Phasmophobia]: https://store.steampowered.com/app/739630
+  [Phasmophobia PDB]: https://www.protondb.com/app/739630
 [Pistol Whip]: https://store.steampowered.com/app/1079800
   [Pistol Whip PDB]: https://www.protondb.com/app/1079800
 [Project CARS 2]: https://store.steampowered.com/app/378860
