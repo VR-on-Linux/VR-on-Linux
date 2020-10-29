@@ -34,6 +34,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
 * ~~[High Fidelity][high fidelity]~~ ([shut down](#14), see Vircadia below)
 * [Google Earth VR][google earth vr]  - on Steam Play whitelist
+* [Groove Gunner][groove gunner]
 * [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Neos VR][neos vr] - [announcement][neos vr post]
@@ -78,7 +79,6 @@ released.
 
 * [Climbey][climbey] - [dev comment][climbey dev]
 * [cyubeVR][cyubevr] - [dev post][cyubevr post]
-* [Groove Gunner][groove gunner] - [dev comment][groove gunner dev]
 * [Holodance][holodance] - [dev comment][holodance dev]
 * [Left-Hand Path][left hand path] - [dev post][left hand post]
 * [Legend of Dungeon][legend of dungeon] - [dev post][legend dev]
@@ -210,7 +210,6 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [duck force]: https://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
   [groove gunner]: https://store.steampowered.com/app/976930
-  [groove gunner dev]: https://www.gamingonlinux.com/articles/vr-rhythm-game-groove-gunner-looks-insane-and-its-coming-to-linux.14511
   [holodance]: https://store.steampowered.com/app/422860
   [holodance dev]: https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756
   [left hand path]: https://store.steampowered.com/app/488760
