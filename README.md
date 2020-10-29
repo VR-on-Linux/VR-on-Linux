@@ -4,18 +4,18 @@ put the URL after its name in the bottom section with the others.-->
 
 # VR Software Status
 
-Objective: Investigate software such as 
-[these **native** titles on Steam][Steam store link] to find whether they 
+Objective: Investigate software such as
+[these **native** titles on Steam][Steam store link] to find whether they
 actually support virtual reality (VR) on Linux. In addition, [Steam Play]
-whitelisted [software] will also be tracked. Please post 
+whitelisted [software] will also be tracked. Please post
 [what issues you have here][issues].
 
 This document is VR-focused, but augmented reality (AR) applications will also
 be included. (Together, VR and AR are known as XR.)
 
 Make sure to use the latest graphics drivers and Linux kernel available to you.
-At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is 
-required for the SteamVR beta. For more details on SteamVR for Linux, 
+At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is
+required for the SteamVR beta. For more details on SteamVR for Linux,
 [click here.][steamvr linux github]
 
 Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
@@ -27,13 +27,14 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [BallisticNG][ballisticng] - [discussion][ballisticng thread]
 * [Balloonatics][balloonatics]
 * [Beat Saber][beat saber] - on Steam Play whitelist
-* [DOTA2][dota2]    
+* [DOTA2][dota2]
 * [Doom VFR][doom vfr] - on Steam Play whitelist
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
 * ~~[High Fidelity][high fidelity]~~ ([shut down](#14), see Vircadia below)
 * [Google Earth VR][google earth vr]  - on Steam Play whitelist
+* [Groove Gunner][groove gunner]
 * [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Neos VR][neos vr] - [announcement][neos vr post]
@@ -45,7 +46,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
 * [sphereFACE][sphereface] - [issue](#2)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
-* [Universe Sandbox 2][universe sandbox 2] - 
+* [Universe Sandbox 2][universe sandbox 2] -
   [discussion][universe sandbox 2 discussion]
 * [Vivecraft](http://www.vivecraft.org/)
 * [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
@@ -64,7 +65,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
-* [Vircadia](https://vircadia.com) - [issues](#13) - open-source social VR 
+* [Vircadia](https://vircadia.com) - [issues](#13) - open-source social VR
   metaverse, successor of High Fidelity
 * [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR
   games) on your VR headset
@@ -78,7 +79,6 @@ released.
 
 * [Climbey][climbey] - [dev comment][climbey dev]
 * [cyubeVR][cyubevr] - [dev post][cyubevr post]
-* [Groove Gunner][groove gunner] - [dev comment][groove gunner dev]
 * [Holodance][holodance] - [dev comment][holodance dev]
 * [Left-Hand Path][left hand path] - [dev post][left hand post]
 * [Legend of Dungeon][legend of dungeon] - [dev post][legend dev]
@@ -93,7 +93,7 @@ No developer response yet.
 
 ### Not Currently Planned
 
-Some have great [Proton][proton] compatibility, but are not 
+Some have great [Proton][proton] compatibility, but are not
 whitelisted. Others have more mixed results, but may work well. See [PROTON.md]
 for more info.
 
@@ -116,7 +116,7 @@ for more info.
 
 ### Confirmed Working
 
-* HTC Vive/Vive Pro and Valve Index via SteamVR - 
+* HTC Vive/Vive Pro and Valve Index via SteamVR -
   [SteamVR for Linux Github][steamvr linux github] (development beta)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki][archwiki rift]
 
@@ -133,7 +133,7 @@ many games support OpenHMD yet.
 Also check out [Monado][monado], the free and open source [OpenXR][openxr]
 implementation. It relies on OpenHMD for some devices.
 
-If you want official Linux support for the Oculus Rift, [add your vote 
+If you want official Linux support for the Oculus Rift, [add your vote
 here.][rift vote] If you want, leave a comment, too (but be nice!)
 
 ----
@@ -210,7 +210,6 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [duck force]: https://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
   [groove gunner]: https://store.steampowered.com/app/976930
-  [groove gunner dev]: https://www.gamingonlinux.com/articles/vr-rhythm-game-groove-gunner-looks-insane-and-its-coming-to-linux.14511
   [holodance]: https://store.steampowered.com/app/422860
   [holodance dev]: https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756
   [left hand path]: https://store.steampowered.com/app/488760
