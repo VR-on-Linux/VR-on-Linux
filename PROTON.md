@@ -27,7 +27,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [CUSTOM ORDER MAID 3D2 It's a Night Magic][COM3D2] - [Gold][COM3D2 PDB]*
 * [Down the Rabbit Hole] - [Platinum][DtRH PDB]
 * [Duck Season] - [Gold][Duck Season PDB]
-* [Elite Dangerous] - [Gold][ED PDB]
+* [Elite Dangerous] - [Gold][ED PDB]*
 * [Five Nights at Freddy's: Help Wanted][FNAF:HW] - [Gold][FNAF:HW PDB]
 * [Gal*Gun VR] - [Gold][Gal*Gun VR PDB]
 * [GORN] - [Gold][GORN PDB]
