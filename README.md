@@ -142,6 +142,7 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
 
 * Steam user [Teq][teq] for compiling [the original list here][old list]
 * Valve for [SteamVR for Linux][steamvr linux github] and [the forum][forum]
+* Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
 * Players like you
 
 <!--Web Addresses (will not display)-->
@@ -245,3 +246,5 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
+  [/r/linux_gaming]: https://www.reddit.com/r/linux_gaming
+  [/r/virtualreality_linux]: https://www.reddit.com/r/virtualreality_linux
