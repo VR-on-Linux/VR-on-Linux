@@ -118,6 +118,11 @@ for more info.
 
 * HTC Vive/Vive Pro and Valve Index via SteamVR -
   [SteamVR for Linux Github][steamvr linux github] (development beta)
+    * [Bluetooth does not work][bluetooth]
+        * [No power management for base stations][base station issue]
+          * v1 workaround: [lhctrl]
+          * v2: [lh2ctrl], [lighthouse_pm], [lighthouse-v2-manager]
+    * [Index camera does not work][index camera]
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki][archwiki rift]
 
 ### Unofficial OpenHMD Support
@@ -126,7 +131,7 @@ for more info.
 many games support OpenHMD yet.
 
 * Microsoft Mixed Reality
-* Oculus Rift
+* Oculus Rift CV1
 * PSVR
 * Samsung GearVR
 
@@ -135,6 +140,15 @@ implementation. It relies on OpenHMD for some devices.
 
 If you want official Linux support for the Oculus Rift, [add your vote
 here.][rift vote] If you want, leave a comment, too (but be nice!)
+
+### Graphics Cards 
+
+On Linux, Nvidia graphics cards lack driver support for high priority compute 
+queue, so for async reprojection/motion smoothing on Linux, an AMD card is
+needed. 
+
+* [Nvidia Developer Forum thread][nvidia forum thread]
+* [SteamVR issue][async nvidia]
 
 ----
 
@@ -239,9 +253,20 @@ here.][rift vote] If you want, leave a comment, too (but be nice!)
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
 <!--VR Hardware Status-->
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
+  [base station issue]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
+  [lhctrl]: https://github.com/risa2000/lhctrl
+  [lh2ctrl]: https://github.com/risa2000/lh2ctrl
+  [lighthouse_pm]: https://github.com/jeroen1602/lighthouse_pm
+  [lighthouse-v2-manager]: https://github.com/nouser2013/lighthouse-v2-manager
+  [bluetooth]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96
+  [index camera]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
   [rift vote]: https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support
+<!--Graphics Cards-->
+  [nvidia forum thread]: https://forums.developer.nvidia.com/t/support-for-async-reprojection/123382
+  [async nvidia]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/214
+  
 <!--Acknowledgements-->
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
