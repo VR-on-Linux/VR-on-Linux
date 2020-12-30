@@ -28,6 +28,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Down the Rabbit Hole] - [Platinum][DtRH PDB]
 * [Duck Season] - [Gold][Duck Season PDB]
 * [Elite Dangerous] - [Gold][ED PDB]*
+* [Fallout 4 VR] - [Gold][FO4 PDB]
 * [Five Nights at Freddy's: Help Wanted][FNAF:HW] - [Gold][FNAF:HW PDB]
 * [Gal*Gun VR] - [Gold][Gal*Gun VR PDB]
 * [GORN] - [Gold][GORN PDB]
@@ -111,6 +112,8 @@ performance.
   [DtRH PDB]: https://www.protondb.com/app/1215270
 [Elite Dangerous]: https://store.steampowered.com/app/359320
   [ED PDB]: https://www.protondb.com/app/359320
+[Fallout 4 VR]: https://store.steampowered.com/app/611660
+  [FO4 PDB]: https://www.protondb.com/app/611660
 [FNAF:HW]: https://store.steampowered.com/app/732690
   [FNAF:HW PDB]: https://www.protondb.com/app/732690
 [Gal*Gun VR]: https://store.steampowered.com/app/678520
