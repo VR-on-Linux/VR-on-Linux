@@ -2,7 +2,8 @@ Original thread:
 
 https://www.reddit.com/r/vive_vr/comments/kqjgzp/last_day_of_the_steam_winter_sale_heres_my/
 
-Adding Linux compatibility notes.
+Adding Linux compatibility notes. **Prices only apply until the end of the sale on January 5th 
+at 10am CST.** Will remove prices later.    
 
 # Bargain Price Tier
 
