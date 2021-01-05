@@ -12,6 +12,7 @@ likely to work. Regardless, tweaks may be required, and updates may change how
 well it works with Proton, so be sure to read the reviews on ProtonDB.
 
 * [Accounting+] - [Platinum][Accounting+ PDB]
+* [A Fisherman's Tale] - [Gold][A Fisherman's Tale PDB]
 * [A-Tech Cybernetic VR][ATCVR] - [Platinum][ATCVR PDB]
 * [Aircar] - [Platinum][Aircar PDB]
 * [Anyland] - [Platinum][Anyland PDB]
@@ -30,20 +31,24 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Elite Dangerous] - [Gold][ED PDB]*
 * [Fallout 4 VR] - [Gold][FO4 PDB]
 * [Five Nights at Freddy's: Help Wanted][FNAF:HW] - [Gold][FNAF:HW PDB]
+* [FORM] - [Platinum][FORM PDB]
 * [Gal*Gun VR] - [Gold][Gal*Gun VR PDB]
 * [GORN] - [Gold][GORN PDB]
 * [Hot Dogs, Horseshoes & Hand Grenades][H3VR] - [Gold][H3VR PDB]
 * [I Expect You To Die][IEYTD] - [Gold][IEYTD PDB]
+* [In Death] - [Platinum][In Death PDB]
 * [Jet Island] - [Platinum][Jet Island PDB]
 * [Job Simulator] - [Gold][Job Simulator PDB]
 * [Karnage Chronicles] - [Platinum][Karnage Chronicles PDB]
 * [Lazerbait] - [Platinum][Lazerbait PDB]
+* [Mini Motor Racing X] - [Platinum][Mini Motor Racing X PDB]
 * [Moss] - [Platinum][Moss PDB]
 * [No Man's Sky] - [Gold][No Man's Sky PDB]* - 
   [Do not use experimental branch](#15)
 * [OhShape] - [Platinum][OhShape PDB]
 * [Operation Warcade VR] - [Gold][Operation Warcade VR PDB]
 * [OrbusVR: Reborn] - [Gold][OrbusVR: Reborn PDB]
+* [Payday 2] - [Platinum][Payday 2 PDB]*
 * [Phasmophobia] - [Gold][Phasmophobia PDB]*
 * [Pistol Whip] - [Gold][Pistol Whip PDB]
 * [Project CARS 2] - [Platinum][Project CARS 2 PDB]*
@@ -63,20 +68,27 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [The Thrill of the Fight - VR Boxing][TTotF] - [Gold][TTotF PDB]
 * [The Walking Dead: Saints & Sinners][TWDS&S] - [Gold][TWDS&S PDB]
 * [Thumper] - [Platinum][Thumper PDB]
+* [Transpose] - [Platinum][Transpose PDB]
 * [Until You Fall][UYF] - [Platinum][UYF PDB]
 * [Vacation Simulator] - [Gold][Vacation Simulator PDB]
+* [Vox Machinae] - [Platinum][Vox Machinae PDB]
 * [VRChat] - [Gold][VRChat PDB]*
 * [VR Paradise (sexual content)][VR Paradise] - [Platinum][VR Paradise PDB]
 * [VR The Diner Duo] - [Platinum][VR The Diner Duo PDB]
 * [VTOL VR] - [Gold][VTOL VR PDB]
+* [Westworld Awakening] - [Gold][Westworld Awakening PDB]
 * [Windlands] - [Platinum][Windlands PDB]
 * [Zero Caliber VR] - [Gold][Zero Caliber VR PDB]
 
 **VR Supported* title, not VR Only. Most reviews likely do not reflect VR 
 performance.
 
+<!-- Link URLs -->
+
 [Accounting+]: https://store.steampowered.com/app/927270
   [Accounting+ PDB]: https://www.protondb.com/app/927270
+[A Fisherman's Tale]: https://store.steampowered.com/app/559330
+  [A Fisherman's Tale]: https://www.protondb.com/app/559330
 [ATCVR]: https://store.steampowered.com/app/578210
   [ATCVR PDB]: https://www.protondb.com/app/578210
 [Aircar]: https://store.steampowered.com/app/1073390
@@ -116,6 +128,8 @@ performance.
   [FO4 PDB]: https://www.protondb.com/app/611660
 [FNAF:HW]: https://store.steampowered.com/app/732690
   [FNAF:HW PDB]: https://www.protondb.com/app/732690
+[FORM]: https://store.steampowered.com/app/408520
+  [FORM PDB]: https://www.protondb.com/app/408520
 [Gal*Gun VR]: https://store.steampowered.com/app/678520
   [Gal*Gun VR PDB]: https://www.protondb.com/app/678520
 [GORN]: https://store.steampowered.com/app/578620
@@ -124,6 +138,8 @@ performance.
   [H3VR PDB]: https://www.protondb.com/app/450540
 [IEYTD]: https://store.steampowered.com/app/587430
   [IEYTD PDB]: https://www.protondb.com/app/587430
+[In Death]: https://store.steampowered.com/app/605450
+  [In Death PDB]: https://www.protondb.com/app/605450
 [Jet Island]: https://store.steampowered.com/app/587220
   [Jet Island PDB]: https://www.protondb.com/app/587220
 [Job Simulator]: https://store.steampowered.com/app/448280
@@ -134,6 +150,8 @@ performance.
   [Lazerbait PDB]: https://www.protondb.com/app/529150
 [MGI:P]: https://store.steampowered.com/app/943700
   [MGI:P PDB]: https://www.protondb.com/app/943700
+[Mini Motor Racing X]: https://store.steampowered.com/1303990
+  [Mini Motor Racing X PDB]: https://www.protondb.com/app/1303990
 [Moss]: https://store.steampowered.com/app/846470
   [Moss PDB]: https://www.protondb.com/app/846470
 [No Man's Sky]: https://store.steampowered.com/app/275850
@@ -146,6 +164,8 @@ performance.
   [OrbusVR: Reborn PDB]: https://www.protondb.com/app/746930
 [Phasmophobia]: https://store.steampowered.com/app/739630
   [Phasmophobia PDB]: https://www.protondb.com/app/739630
+[Payday 2]: https://store.steampowered.com/app/218620
+  [Payday 2 PDB]: https://www.protondb.com/app/218620
 [Pistol Whip]: https://store.steampowered.com/app/1079800
   [Pistol Whip PDB]: https://www.protondb.com/app/1079800
 [Project CARS 2]: https://store.steampowered.com/app/378860
@@ -168,12 +188,12 @@ performance.
   [Synth Riders PDB]: https://www.protondb.com/app/885000
 [Tabletop Simulator]: https://store.steampowered.com/app/286160
   [Tabletop Simulator PDB]: https://www.protondb.com/app/286160
+[TESV:SVR]: https://store.steampowered.com/app/611670
+  [TESV:SVR PDB]: https://www.protondb.com/app/611670
 [Tilt Brush]: https://store.steampowered.com/app/327140
   [Tilt Brush PDB]: https://www.protondb.com/app/327140
 [TO THE TOP]: https://store.steampowered.com/app/509250
   [TO THE TOP PDB]: https://www.protondb.com/app/509250
-[TESV:SVR]: https://store.steampowered.com/app/611670
-  [TESV:SVR PDB]: https://www.protondb.com/app/611670
 [TRVR:ADM]: https://store.steampowered.com/app/1104380
   [TRVR:ADM PDB]: https://www.protondb.com/app/1104380
 [TTotF]: https://store.steampowered.com/app/494150
@@ -182,10 +202,14 @@ performance.
   [TWDS&S PDB]: https://www.protondb.com/app/916840
 [Thumper]: https://store.steampowered.com/app/356400
   [Thumper PDB]: https://www.protondb.com/app/356400
+[Transpose]: https://store.steampowered.com/app/835950
+  [Transpose PDB]: https://www.protondb.com/app/835950
 [UYF]: https://store.steampowered.com/app/858260
   [UYF PDB]: https://www.protondb.com/app/858260
 [Vacation Simulator]: https://store.steampowered.com/app/726830
   [Vacation Simulator PDB]: https://www.protondb.com/app/726830
+[Vox Machinae]: https://store.steampowered.com/app/334540
+  [Vox Machinae PDB]: https://www.protondb.com/app/334540
 [VRChat]: https://store.steampowered.com/app/438100
   [VRChat PDB]: https://www.protondb.com/app/438100
 [VR Paradise]: https://store.steampowered.com/app/896890
@@ -194,6 +218,8 @@ performance.
   [VR The Diner Duo PDB]: https://www.protondb.com/app/530120
 [VTOL VR]: https://store.steampowered.com/app/667970
   [VTOL VR PDB]: https://www.protondb.com/app/667970
+[Westworld Awakening]: https://store.steampowered.com/app/1133320
+  [Westworld Awakening PDB]: https://www.protondb.com/app/1133320
 [Windlands]: https://store.steampowered.com/app/428370
   [Windlands PDB]: https://www.protondb.com/app/428370
 [Zero Caliber VR]: https://store.steampowered.com/app/877200
