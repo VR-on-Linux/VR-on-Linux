@@ -69,7 +69,6 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [The Walking Dead: Saints & Sinners][TWDS&S] - [Gold][TWDS&S PDB]
 * [Thumper] - [Platinum][Thumper PDB]
 * [Transpose] - [Platinum][Transpose PDB]
-* [Until You Fall][UYF] - [Platinum][UYF PDB]
 * [Vacation Simulator] - [Gold][Vacation Simulator PDB]
 * [Vox Machinae] - [Platinum][Vox Machinae PDB]
 * [VRChat] - [Gold][VRChat PDB]*
@@ -79,6 +78,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Westworld Awakening] - [Gold][Westworld Awakening PDB]
 * [Windlands] - [Platinum][Windlands PDB]
 * [Zero Caliber VR] - [Gold][Zero Caliber VR PDB]
+<!--* [Until You Fall][UYF] - [Platinum][UYF PDB]-->
 
 **VR Supported* title, not VR Only. Most reviews likely do not reflect VR 
 performance.
