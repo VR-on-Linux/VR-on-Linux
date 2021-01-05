@@ -88,7 +88,7 @@ performance.
 [Accounting+]: https://store.steampowered.com/app/927270
   [Accounting+ PDB]: https://www.protondb.com/app/927270
 [A Fisherman's Tale]: https://store.steampowered.com/app/559330
-  [A Fisherman's Tale]: https://www.protondb.com/app/559330
+  [A Fisherman's Tale PDB]: https://www.protondb.com/app/559330
 [ATCVR]: https://store.steampowered.com/app/578210
   [ATCVR PDB]: https://www.protondb.com/app/578210
 [Aircar]: https://store.steampowered.com/app/1073390
