@@ -123,7 +123,7 @@ Adding Linux compatibility notes.
 |[Marble Land](https://store.steampowered.com/app/503280/Marble_Land/)                                |?         |No tests yet                                                                                    |
 |[Combat Tested](https://store.steampowered.com/app/750010/Combat_Tested/)                            |?         |No tests yet                                                                                    |
 |[Blind](https://store.steampowered.com/app/406860/Blind/)                                            |Yes       |[Proton](https://www.protondb.com/app/406860)                                                   |
-|[Adapt or Perish](https://store.steampowered.com/app/870730/Adapt_or_Perish/)                        |?         |Native, no info on OS compatibility for VR                                                      |
+|[Adapt or Perish](https://store.steampowered.com/app/870730/Adapt_or_Perish/)                        |--         |Unity version used lacks VR support on Linux                                                   |
 |[Pinball FX2 VR](https://store.steampowered.com/app/547590/Pinball_FX2_VR/)                          |--        |[ProtonDB](https://www.protondb.com/app/547590)                                                 |
 |[Assetto Corsa](https://store.steampowered.com/app/347990/Assetto_Corsa__Dream_Pack_1/)              |Yes       |[Proton](https://www.protondb.com/app/244210) ([needs alt launcher](https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/16))|
 |[Seeking Dawn](https://store.steampowered.com/app/859340/Seeking_Dawn/)                              |Yes       |[Proton](https://www.protondb.com/app/859340)                                                   |
