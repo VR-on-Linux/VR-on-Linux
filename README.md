@@ -5,7 +5,7 @@ put the URL after its name in the bottom section with the others.-->
 # VR Software Status
 
 Objective: Investigate software such as
-[these **native** titles on Steam][Steam store link] to find whether they
+[these native titles on Steam][Steam store link] to find whether they
 actually support virtual reality (VR) on Linux. In addition, [Steam Play]
 whitelisted [software] will also be tracked. Please post
 [what issues you have here][issues].
@@ -31,13 +31,14 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Doom VFR][doom vfr] - on Steam Play whitelist
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
-* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issue](#11)
+* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce]
 * ~~[High Fidelity][high fidelity]~~ ([shut down](#14), see Vircadia below)
 * [Google Earth VR][google earth vr]  - on Steam Play whitelist
 * [Groove Gunner][groove gunner]
 * [Locomancer][locomancer]
 * [Munch VR][munch vr] - [announcement][munch vr announce]
 * [Neos VR][neos vr] - [announcement][neos vr post]
+* [OpenMW (VR fork)][openmw] - [issue][openmw issue]
 * [Polynomial 2][polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
 * [Serious Sam Fusion 2017](https://store.steampowered.com/app/564310)
@@ -157,6 +158,7 @@ needed.
 * Steam user [Teq][teq] for compiling [the original list here][old list]
 * Valve for [SteamVR for Linux][steamvr linux github] and [the forum][forum]
 * Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
+* IRC channel [#vronlinux] on [freenode.net](https://freenode.net/)
 * Players like you
 
 <!--Web Addresses (will not display)-->
@@ -188,6 +190,8 @@ needed.
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
   [neos vr]: https://store.steampowered.com/app/740250/Neos_VR/
   [neos vr post]: https://store.steampowered.com/newshub/app/740250/view/3300515414498852519
+  [openmw]: https://gitlab.com/madsbuvi/openmw
+  [openmw issue]: https://gitlab.com/madsbuvi/openmw/-/issues/33#note_441945362
   [polynomial 2]: https://store.steampowered.com/app/379420
   [polynomial 2 thread]: https://steamcommunity.com/app/379420/discussions/0/135512305401923487/?tscn=1501357291#c1471966894875192367
   [serious sam 3]: https://store.steampowered.com/app/567670
@@ -273,3 +277,4 @@ needed.
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
   [/r/linux_gaming]: https://www.reddit.com/r/linux_gaming
   [/r/virtualreality_linux]: https://www.reddit.com/r/virtualreality_linux
+  [#vronlinux]: https://webchat.freenode.net/?channels=vronlinux
