@@ -54,6 +54,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Project CARS 2] - [Platinum][Project CARS 2 PDB]*
 * [Racket: Nx] - [Gold][Racket: Nx PDB]
 * [Red Matter] - [Gold][Red Matter PDB]
+* [Redout: Enhanced Edition] - [Gold][Redout: Enhanced Edition PDB]*
 * [Rick and Morty: Virtual Rick-ality][RaM:VR] - [Gold][RaM:VR PDB]
 * [Space Pirate Trainer][SPT] - [Platinum][SPT PDB]
 * [Sprint Vector] - [Gold][Sprint Vector PDB]
@@ -78,7 +79,6 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Westworld Awakening] - [Gold][Westworld Awakening PDB]
 * [Windlands] - [Platinum][Windlands PDB]
 * [Zero Caliber VR] - [Gold][Zero Caliber VR PDB]
-* [Redout: Enhanced Edition] - [Gold][Redout: Enhanced Edition PDB]
 <!--* [Until You Fall][UYF] - [Platinum][UYF PDB]-->
 
 **VR Supported* title, not VR Only. Most reviews likely do not reflect VR 
@@ -175,6 +175,8 @@ performance.
   [Racket: Nx PDB]: https://www.protondb.com/app/428080
 [Red Matter]: https://store.steampowered.com/app/966680
   [Red Matter PDB]: https://www.protondb.com/app/966680
+[Redout: Enhanced Edition]: https://store.steampowered.com/app/517710
+  [Redout: Enhanced Edition PDB]: https://www.protondb.com/app/517710
 [RaM:VR]: https://store.steampowered.com/app/469610
   [RaM:VR PDB]: https://www.protondb.com/app/469610
 [SPT]: https://store.steampowered.com/app/418650
@@ -225,5 +227,3 @@ performance.
   [Windlands PDB]: https://www.protondb.com/app/428370
 [Zero Caliber VR]: https://store.steampowered.com/app/877200
   [Zero Caliber VR PDB]: https://www.protondb.com/app/877200
-[Redout: Enhanced Edition]: https://store.steampowered.com/app/517710
-  [Redout: Enhanced Edition PDB]: https://www.protondb.com/app/517710
