@@ -78,6 +78,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Westworld Awakening] - [Gold][Westworld Awakening PDB]
 * [Windlands] - [Platinum][Windlands PDB]
 * [Zero Caliber VR] - [Gold][Zero Caliber VR PDB]
+* [Redout: Enhanced Edition] - [Gold][Redout: Enhanced Edition PDB]
 <!--* [Until You Fall][UYF] - [Platinum][UYF PDB]-->
 
 **VR Supported* title, not VR Only. Most reviews likely do not reflect VR 
@@ -224,3 +225,5 @@ performance.
   [Windlands PDB]: https://www.protondb.com/app/428370
 [Zero Caliber VR]: https://store.steampowered.com/app/877200
   [Zero Caliber VR PDB]: https://www.protondb.com/app/877200
+[Redout: Enhanced Edition]: https://store.steampowered.com/app/517710
+  [Redout: Enhanced Edition PDB]: https://www.protondb.com/app/517710
