@@ -4,7 +4,7 @@ will not be able to test VR. SpaceEngine, for example, needs VR verified.-->
 
 This list contains many VR titles which are *not* whitelisted or native (so you
 will not get support from Valve or the game developers) but do have a Gold or
-Platinum rating on ProtonDB.
+Platinum rating on ProtonDB, or were otherwise confirmed to work well.
 
 "Gold" or "Platinum" are reflective of how many good ratings there are versus
 poor ratings overall. "Platinum" is the best, and means the software is most
@@ -59,6 +59,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Space Pirate Trainer][SPT] - [Platinum][SPT PDB]
 * [Sprint Vector] - [Gold][Sprint Vector PDB]
 * [Star Trek: Bridge Crew] - [Gold][ST:BC PDB]*
+* [Subnautica] - [Instructions][Subnautica Instructions]*
 * [SUPERHOT VR] - [Platinum][SUPERHOT VR PDB]
 * [Synth Riders] - [Gold][Synth Riders PDB]
 * [Tabletop Simulator] - [Platinum][Tabletop Simulator PDB]*
@@ -185,6 +186,8 @@ performance.
   [Sprint Vector PDB]: https://www.protondb.com/app/590690
 [Star Trek: Bridge Crew]: https://store.steampowered.com/app/527100
   [ST:BC PDB]: https://www.protondb.com/app/527100
+[Subnautica]: https://www.epicgames.com/store/en-US/p/subnautica
+  [Subnautica Instructions]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/18
 [SUPERHOT VR]: https://store.steampowered.com/app/617830
   [SUPERHOT VR PDB]: https://www.protondb.com/app/617830
 [Synth Riders]: https://store.steampowered.com/app/885000
