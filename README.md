@@ -62,6 +62,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
 * [Monado][monado] - [blog post][monado post] - free and open source
   [OpenXR][openxr] runtime
+* [Open Brush][openbrush] - fork of the open sourced 3D painting app Tilt Brush
 * [SteamVR][steamvr linux github] - Valve's VR software system
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
@@ -214,6 +215,7 @@ needed.
   [monado]: https://monado.dev
   [monado post]: https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html
   [openxr]: https://www.khronos.org/openxr/
+  [openbrush]: https://github.com/icosa-gallery/open-brush#readme
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
   [soundstage-linux]: /issues/5#note_93726156
   [unity]: https://unity.com/
