@@ -80,7 +80,7 @@ Adding Linux compatibility notes.
 # Mid Price Tier
 
 |**Game**                                                                                |**Linux?**|**Details**                                                                                     |
-|----------------------------------------------------------------------------------------|----- ----|------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
 |[**Groundhog Day: Like Father Like Son**](https://store.steampowered.com/app/1087500)   |--        |[ProtonDB](https://www.protondb.com/app/1087500)                                                |
 |[**HORIZON VANGUARD**](https://store.steampowered.com/app/598740)                       |?         |[No tests yet](https://www.protondb.com/app/598740)                                             |
 |[**Fujii**](https://store.steampowered.com/app/589040)                                  |Yes       |[Proton](https://www.protondb.com/app/589040)                                                   |
