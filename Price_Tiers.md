@@ -131,7 +131,7 @@ Adding Linux compatibility notes.
 # Mid-er Price Tier
 
 |**Game**                                                                                |**Linux?**|**Details**                                                                                     |
-|----------------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
 |[**Pavlov VR**](https://store.steampowered.com/app/555160)                              |Yes       |[Proton](https://www.protondb.com/app/555160)                                                   |
 |[**Vertigo Remastered**](https://store.steampowered.com/app/1318090)                    |Yes       |[Proton](https://www.protondb.com/app/1318090)                                                  |
 |[**Budget Cuts 2: Mission Insolvency**](https://store.steampowered.com/app/1092430)     |Yes       |[Proton](https://www.protondb.com/app/1092430)                                                  |
@@ -148,7 +148,7 @@ Adding Linux compatibility notes.
 |[**Falcon Age**](https://store.steampowered.com/app/1075080)                            |Yes       |[Proton](https://www.protondb.com/app/1075080)                                                  |
 |[Gadgeteer](https://store.steampowered.com/app/746560)                                  |?         |[No tests yet](https://www.protondb.com/app/746560)                                             |
 |[Ironwolf VR](https://store.steampowered.com/app/552080)                                |Yes       |[Proton](https://www.protondb.com/app/552080)                                                   |
-|[Hotel RnR](https://store.steampowered.com/app/1011290)                                 |?         |[No tests yet](https://www.protondb.com/app/                                                    |
+|[Hotel RnR](https://store.steampowered.com/app/1011290)                                 |?         |[No tests yet](https://www.protondb.com/app/1011290)                                            |
 |[Duck Season](https://store.steampowered.com/app/503580)                                |Yes       |[Proton](https://www.protondb.com/app/503580)                                                   |
 |[Down the Rabbit Hole](https://store.steampowered.com/app/1215270)                      |Yes       |[Proton](https://www.protondb.com/app/1215270)                                                  |
 |[3dSen VR](https://store.steampowered.com/app/954280)                                   |Yes       |[Proton](https://www.protondb.com/app/954280)                                                   |
