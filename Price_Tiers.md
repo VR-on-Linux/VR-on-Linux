@@ -47,7 +47,7 @@ Adding Linux compatibility notes.
 |----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
 |[**Apex Construct**](https://store.steampowered.com/app/694090)                         |?         |[No tests yet](https://www.protondb.com/app/694090)                                             |
 |[**FORM**](https://store.steampowered.com/app/408520)                                   |Yes       |[Proton](https://www.protondb.com/app/408520)                                                   |
-|[**NIGHTSTAR: Alliance**](https://store.steampowered.com/app/864970)                    |?         |[No tests yet](https://www.protondb.com/app/864970/                                             |
+|[**NIGHTSTAR: Alliance**](https://store.steampowered.com/app/864970)                    |?         |[No tests yet](https://www.protondb.com/app/864970/)                                            |
 |[**Blasters of the Universe**](https://store.steampowered.com/app/490490)               |Yes       |[Proton](https://www.protondb.com/app/490490)                                                   |
 |[**FREEDIVER: Triton Down**](https://store.steampowered.com/app/995230)                 |Yes       |[Proton](https://www.protondb.com/app/995230)                                                   |
 |[**Keep Talking and Nobody Explodes**](https://store.steampowered.com/app/341800)       |Yes       |[Proton](https://www.protondb.com/app/341800)                                                   |
