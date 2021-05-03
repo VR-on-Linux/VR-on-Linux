@@ -81,7 +81,7 @@ Adding Linux compatibility notes.
 
 |**Game**                                                                                 |**Linux?**|**Details**                                                                                     |
 |-----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
-|[**Groundhog Day: Like Father Like Son**](https://store.steampowered.com/app/1087500/    |--        |[ProtonDB](https://www.protondb.com/app/1087500)                                                |
+|[**Groundhog Day: Like Father Like Son**](https://store.steampowered.com/app/1087500/)   |--        |[ProtonDB](https://www.protondb.com/app/1087500)                                                |
 |[**HORIZON VANGUARD**](https://store.steampowered.com/app/598740/)                       |?         |No tests yet                                                                                    |
 |[**Fujii**](https://store.steampowered.com/app/589040/)                                  |Yes       |[Proton](https://www.protondb.com/app/589040)                                                   |
 |[**Garden of the Sea**](https://store.steampowered.com/app/1086850/)                     |Yes       |[Proton](https://www.protondb.com/app/1086850)                                                  |
@@ -186,7 +186,7 @@ Adding Linux compatibility notes.
 |-----------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
 |[**Half-Life: Alyx**](https://store.steampowered.com/app/546560/)                        |Yes       |Native                                                                                          |
 |[**Boneworks**](https://store.steampowered.com/app/823500/)                              |Yes       |[Proton](https://www.protondb.com/app/823500)                                                   |
-|[**The Walking Dead: Saints & Sinners**](https://store.steampowered.com/app/916840/      |Yes       |[Proton](https://www.protondb.com/app/916840)                                                   |
+|[**The Walking Dead: Saints & Sinners**](https://store.steampowered.com/app/916840/)     |Yes       |[Proton](https://www.protondb.com/app/916840)                                                   |
 |[**Vacation Simulator**](https://store.steampowered.com/app/726830/)                     |Yes       |[Proton](https://www.protondb.com/app/726830)                                                   |
 |[**No Man's Sky**](https://store.steampowered.com/app/275850/)                           |Yes       |[Proton](https://www.protondb.com/app/1001140)* ([Don’t use experimental branch](https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/15))|
 |[**Hot Dogs, Horseshoes, and Hand Grenades**](https://store.steampowered.com/app/450540/)|Yes       |[Proton](https://www.protondb.com/app/450540)                                                   |
