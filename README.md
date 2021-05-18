@@ -99,18 +99,17 @@ Some have great [Proton][proton] compatibility, but are not
 whitelisted. Others have more mixed results, but may work well. See [PROTON.md]
 for more info.
 
-* [5089][5089 post]
-* [Accounting (Legacy)][accounting post] (Accounting+: [Platinum][accounting+])
-* [Budget Cuts 2][bc2 post]
-* [Duck Force][duck force dev]
-* [Job Simulator][job sim post]
-* [Legend of Luca][legend luca post]
-* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr post]
-* [Racket: Nx][racket nx post]
-* [Raw Data][raw data post]
-* [Sublevel Zero][sublevel zero post]
-* [Subnautica][subnautica post]
-* [Tilt Brush][tilt brush post]
+* [5089] - [dev post][5089 post]
+* [Budget Cuts 2] - [dev post][bc2 post]
+* [Duck Force] - [duck force dev]
+* [Job Simulator] - [dev post][job sim post]
+* [Legend of Luca] - [dev post][legend luca post]
+* [Hot Dogs, Horseshoes, and Hand Grenades][h3vr] - [dev post][h3vr post]
+* [Racket: Nx] - [dev post][racket nx post]
+* [Raw Data] - [dev post][raw data post]
+* [Sublevel Zero] - [dev post][sublevel zero post]
+* [Subnautica] - [dev post][subnautica post]
+* [Tilt Brush] - [dev post][tilt brush post]
 
 ----
 
@@ -228,7 +227,7 @@ needed.
   [climbey dev]: https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022
   [cyubevr]: https://store.steampowered.com/app/619500
   [cyubevr post]: https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/
-  [duck force]: https://store.steampowered.com/app/511690
+  [Duck Force]: https://store.steampowered.com/app/511690
   [duck force dev]: https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890
   [groove gunner]: https://store.steampowered.com/app/976930
   [holodance]: https://store.steampowered.com/app/422860
@@ -245,17 +244,25 @@ needed.
   [distance]: https://store.steampowered.com/app/233610
   [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
 <!--Not Currently Planned-->
+  [5089]: https://store.steampowered.com/app/414510
   [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
-  [accounting post]: https://steamcommunity.com/app/518580/discussions/0/133258092241829803/
-  [accounting+]: https://www.protondb.com/app/927270
+  [Budget Cuts 2]: https://store.steampowered.com/app/1092430/
   [bc2 post]: https://steamcommunity.com/app/1092430/discussions/0/1693843461177999079/#c1738882605425299335
+  [Job Simulator]: https://store.steampowered.com/app/448280/
   [job sim post]: https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598
+  [Legend of Luca]: https://store.steampowered.com/app/433600/
   [legend luca post]: https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383
+  [h3vr]: https://store.steampowered.com/app/450540/
   [h3vr post]: https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support
+  [Racket: Nx]: https://store.steampowered.com/app/428080/
   [racket nx post]: https://steamcommunity.com/app/428080/discussions/0/133258593391051295/
+  [Raw Data]: https://store.steampowered.com/app/436320/
   [raw data post]: https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004
+  [Sublevel Zero]: https://store.steampowered.com/app/327880/
   [sublevel zero post]: https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416
+  [Subnautica]: https://store.steampowered.com/app/264710/
   [subnautica post]: https://steamcommunity.com/app/264710/discussions/0/490123938436996887/
+  [Tilt Brush]: https://store.steampowered.com/app/327140/
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
 <!--VR Hardware Status-->
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
