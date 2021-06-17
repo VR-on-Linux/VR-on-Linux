@@ -24,7 +24,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Borderlands 2 VR] - [Platinum][Borderlands 2 VR PDB]
 * [BOXVR] - [Gold][BOXVR PDB]
 * [Budget Cuts] - [Gold][Budget Cuts PDB]
-* [COMPOUND] - [Gold][COMPOUND PDB]
+* [COMPOUND] - [Platinum][COMPOUND PDB]
 * [CUSTOM ORDER MAID 3D2 It's a Night Magic][COM3D2] - [Gold][COM3D2 PDB]*
 * [Down the Rabbit Hole] - [Platinum][DtRH PDB]
 * [Duck Season] - [Gold][Duck Season PDB]
@@ -38,7 +38,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [I Expect You To Die][IEYTD] - [Gold][IEYTD PDB]
 * [In Death] - [Platinum][In Death PDB]
 * [Jet Island] - [Platinum][Jet Island PDB]
-* [Job Simulator] - [Gold][Job Simulator PDB]
+* [Job Simulator] - [Platinum][Job Simulator PDB]
 * [Karnage Chronicles] - [Platinum][Karnage Chronicles PDB]
 * [Lazerbait] - [Platinum][Lazerbait PDB]
 * [Mini Motor Racing X] - [Platinum][Mini Motor Racing X PDB]
