@@ -32,7 +32,6 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce]
-* ~~[High Fidelity][high fidelity]~~ ([shut down](#14), see Vircadia below)
 * [Google Earth VR][google earth vr]  - on Steam Play whitelist
 * [Groove Gunner][groove gunner]
 * [Locomancer][locomancer]
@@ -183,8 +182,6 @@ needed.
   [google earth vr]: https://store.steampowered.com/app/348250
   [hl alyx]: https://store.steampowered.com/app/546560/HalfLife_Alyx/
   [hl alyx announce]: https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078
-  [high fidelity]: https://store.steampowered.com/app/390540
-  [hifi linux]: https://github.com/ChristophHaag/hifi
   [locomancer]: https://store.steampowered.com/app/490250/
   [munch vr]: https://store.steampowered.com/app/549000
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
