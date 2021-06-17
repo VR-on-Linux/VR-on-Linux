@@ -72,7 +72,6 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Thumper] - [Platinum][Thumper PDB]
 * [Transpose] - [Platinum][Transpose PDB]
 * [Vacation Simulator] - [Gold][Vacation Simulator PDB]
-#* [Vox Machinae] - [Platinum][Vox Machinae PDB] (Removed for recent bad tests)
 * [VRChat] - [Gold][VRChat PDB]*
 * [VR Paradise (sexual content)][VR Paradise] - [Platinum][VR Paradise PDB]
 * [VR The Diner Duo] - [Platinum][VR The Diner Duo PDB]
@@ -81,6 +80,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Windlands] - [Platinum][Windlands PDB]
 * [Zero Caliber VR] - [Gold][Zero Caliber VR PDB]
 <!--* [Until You Fall][UYF] - [Platinum][UYF PDB]-->
+<!--* [Vox Machinae] - [Platinum][Vox Machinae PDB] (Removed for recent bad tests)-->
 
 **VR Supported* title, not VR Only. Most reviews likely do not reflect VR 
 performance.
