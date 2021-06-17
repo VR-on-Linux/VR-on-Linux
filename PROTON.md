@@ -22,7 +22,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Blade & Sorcery][B&S] - [Gold][B&S PDB]
 * [Boneworks] - [Gold][Boneworks PDB]
 * [Borderlands 2 VR] - [Platinum][Borderlands 2 VR PDB]
-* [BOXVR] - [Platinum][BOXVR PDB]
+* [BOXVR] - [Gold][BOXVR PDB]
 * [Budget Cuts] - [Gold][Budget Cuts PDB]
 * [COMPOUND] - [Gold][COMPOUND PDB]
 * [CUSTOM ORDER MAID 3D2 It's a Night Magic][COM3D2] - [Gold][COM3D2 PDB]*
@@ -48,7 +48,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [OhShape] - [Platinum][OhShape PDB]
 * [Operation Warcade VR] - [Gold][Operation Warcade VR PDB]
 * [OrbusVR: Reborn] - [Gold][OrbusVR: Reborn PDB]
-* [Payday 2] - [Platinum][Payday 2 PDB]*
+* [Payday 2] - [Gold][Payday 2 PDB]*
 * [Phasmophobia] - [Gold][Phasmophobia PDB]*
 * [Pistol Whip] - [Gold][Pistol Whip PDB]
 * [Project CARS 2] - [Platinum][Project CARS 2 PDB]*
@@ -72,7 +72,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Thumper] - [Platinum][Thumper PDB]
 * [Transpose] - [Platinum][Transpose PDB]
 * [Vacation Simulator] - [Gold][Vacation Simulator PDB]
-* [Vox Machinae] - [Platinum][Vox Machinae PDB]
+#* [Vox Machinae] - [Platinum][Vox Machinae PDB] (Removed for recent bad tests)
 * [VRChat] - [Gold][VRChat PDB]*
 * [VR Paradise (sexual content)][VR Paradise] - [Platinum][VR Paradise PDB]
 * [VR The Diner Duo] - [Platinum][VR The Diner Duo PDB]
