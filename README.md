@@ -141,14 +141,27 @@ implementation. It relies on OpenHMD for some devices.
 If you want official Linux support for the Oculus Rift, [add your vote
 here.][rift vote] If you want, leave a comment, too (but be nice!)
 
+### Unofficial ALVR Support (Experimental)
+
+Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air 
+Light VR).
+
+> Stream VR games from your PC to your headset via Wi-Fi.\
+> ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated 
+  Rendering for a smoother experience.\
+> All games that work with an Oculus Rift (s) should work with ALVR. 
+
+ALVR currently supports:
+
+* Oculus Quest
+* Oculus Quest 2
+* Oculus Go (no controller)
+
 ### Graphics Cards 
 
-On Linux, Nvidia graphics cards lack driver support for high priority compute 
-queue, so for async reprojection/motion smoothing on Linux, an AMD card is
-needed. 
-
-* [Nvidia Developer Forum thread][nvidia forum thread]
-* [SteamVR issue][async nvidia]
+Both NVIDIA and AMD graphics cards are now fully supported. For Nvidia users, 
+be sure to have at least the NVIDIA 470.42.01 driver installed, available since 
+June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
 
 ----
 
