@@ -52,6 +52,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Phasmophobia] - [Gold][Phasmophobia PDB]*
 * [Pistol Whip] - [Gold][Pistol Whip PDB]
 * [Project CARS 2] - [Platinum][Project CARS 2 PDB]*
+* [Psychonauts in the Rhombus of Ruin] - [Platinum][Psychonauts PDB]
 * [Racket: Nx] - [Gold][Racket: Nx PDB]
 * [Red Matter] - [Gold][Red Matter PDB]
 * [Redout: Enhanced Edition] - [Gold][Redout: Enhanced Edition PDB]*
@@ -59,7 +60,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Space Pirate Trainer][SPT] - [Platinum][SPT PDB]
 * [Sprint Vector] - [Gold][Sprint Vector PDB]
 * [Star Trek: Bridge Crew] - [Gold][ST:BC PDB]*
-* [Subnautica] - [Instructions][Subnautica Instructions]*
+* [Subnautica] - [Instructions][Subnautica Guide]*
 * [SUPERHOT VR] - [Platinum][SUPERHOT VR PDB]
 * [Synth Riders] - [Gold][Synth Riders PDB]
 * [Tabletop Simulator] - [Platinum][Tabletop Simulator PDB]*
@@ -80,7 +81,7 @@ well it works with Proton, so be sure to read the reviews on ProtonDB.
 * [Windlands] - [Platinum][Windlands PDB]
 * [Zero Caliber VR] - [Gold][Zero Caliber VR PDB]
 <!--* [Until You Fall][UYF] - [Platinum][UYF PDB]-->
-<!--* [Vox Machinae] - [Platinum][Vox Machinae PDB] (Removed for recent bad tests)-->
+<!--* [Vox Machinae] - [Platinum][Vox Machinae PDB] (Removed for bad tests)-->
 
 **VR Supported* title, not VR Only. Most reviews likely do not reflect VR 
 performance.
@@ -172,6 +173,8 @@ performance.
   [Pistol Whip PDB]: https://www.protondb.com/app/1079800
 [Project CARS 2]: https://store.steampowered.com/app/378860
   [Project CARS 2 PDB]: https://www.protondb.com/app/378860
+[Psychonauts in the Rhombus of Ruin]: https://store.steampowered.com/app/788690
+  [Psychonauts PDB]: https://www.protondb.com/app/788690
 [Racket: Nx]: https://store.steampowered.com/app/428080
   [Racket: Nx PDB]: https://www.protondb.com/app/428080
 [Red Matter]: https://store.steampowered.com/app/966680
@@ -187,7 +190,7 @@ performance.
 [Star Trek: Bridge Crew]: https://store.steampowered.com/app/527100
   [ST:BC PDB]: https://www.protondb.com/app/527100
 [Subnautica]: https://www.epicgames.com/store/en-US/p/subnautica
-  [Subnautica Instructions]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/18
+  [Subnautica Guide]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/18
 [SUPERHOT VR]: https://store.steampowered.com/app/617830
   [SUPERHOT VR PDB]: https://www.protondb.com/app/617830
 [Synth Riders]: https://store.steampowered.com/app/885000
