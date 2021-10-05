@@ -170,7 +170,7 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
 * Steam user [Teq][teq] for compiling [the original list here][old list]
 * Valve for [SteamVR for Linux][steamvr linux github] and [the forum][forum]
 * Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
-* IRC channel [#vronlinux] on [freenode.net](https://freenode.net/)
+* IRC channel [#vronlinux] on [irc.libera.chat](https://libera.chat/)
 * Players like you
 
 <!--Web Addresses (will not display)-->
@@ -296,4 +296,4 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
   [/r/linux_gaming]: https://www.reddit.com/r/linux_gaming
   [/r/virtualreality_linux]: https://www.reddit.com/r/virtualreality_linux
-  [#vronlinux]: https://webchat.freenode.net/?channels=vronlinux
+  [#vronlinux]: https://web.libera.chat/#vronlinux
