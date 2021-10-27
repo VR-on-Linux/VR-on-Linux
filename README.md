@@ -31,6 +31,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Doom VFR][doom vfr] - on Steam Play whitelist
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
+* [Fake Racing][fakeracing]
 * [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce]
 * [Google Earth VR][google earth vr]  - on Steam Play whitelist
 * [Groove Gunner][groove gunner]
@@ -192,6 +193,7 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [dungeon hero]: https://store.steampowered.com/app/366810
   [everspace]: https://store.steampowered.com/app/396750
   [everspace dev]: https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274
+  [fakeracing]: https://store.steampowered.com/app/1481600/Fake_Racing/
   [google earth vr]: https://store.steampowered.com/app/348250
   [hl alyx]: https://store.steampowered.com/app/546560/HalfLife_Alyx/
   [hl alyx announce]: https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078
