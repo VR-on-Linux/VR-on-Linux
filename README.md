@@ -60,6 +60,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Exokit][exokit] - [issue](#3) - VR/AR/XR engine for JavaScript
 * [Gaia Sky VR][gaia sky vr] - [issue](#4) - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
+* [libsurvive][libsurvive] - open source Lighthouse tracking system
 * [Monado][monado] - [blog post][monado post] - free and open source
   [OpenXR][openxr] runtime
 * [Open Brush][openbrush] - fork of the open sourced 3D painting app Tilt Brush
@@ -223,6 +224,7 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
   [godot]: https://godotengine.org/
   [godot plugin]: https://github.com/GodotVR/godot_openvr
+  [libsurvive]: https://github.com/cntools/libsurvive
   [monado]: https://monado.dev
   [monado post]: https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html
   [openxr]: https://www.khronos.org/openxr/
