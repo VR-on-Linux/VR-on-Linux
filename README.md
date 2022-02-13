@@ -65,6 +65,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
   [OpenXR][openxr] runtime
 * [Open Brush][openbrush] - [Linux builds][openbrush builds] - fork of the open 
   sourced 3D painting app Tilt Brush
+* [Simula][simula] - VR window manager for Linux that runs on top of Godot
 * [SteamVR][steamvr linux github] - Valve's VR software system
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
@@ -185,7 +186,9 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [protondb tag]: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
   [proton]: https://github.com/ValveSoftware/Proton/
   [PROTON.md]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/blob/master/PROTON.md
+
 <!--Confirmed Working: Games-->
+
   [ballisticng]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
   [balloonatics]: https://store.steampowered.com/app/744600/Balloonatics/
@@ -220,7 +223,9 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [universe sandbox 2 discussion]: https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727
   [zed]: https://store.steampowered.com/app/953370/ZED/
   [zed-vr]: https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/
+
 <!--Confirmed Working: Other Software-->
+
   [exokit]: https://github.com/webmixedreality/exokit
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
   [godot]: https://godotengine.org/
@@ -231,6 +236,7 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [openxr]: https://www.khronos.org/openxr/
   [openbrush]: https://github.com/icosa-gallery/open-brush#readme
   [openbrush builds]: https://openbrush.itch.io/openbrush
+  [simula]: https://github.com/SimulaVR/Simula
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
   [soundstage-linux]: /issues/5#note_93726156
   [unity]: https://unity.com/
@@ -256,10 +262,14 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [pierhead dev]: https://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768
   [quivr]: https://store.steampowered.com/app/489380
   [quivr dev]: https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588
+
 <!--Confirmed Not Working-->
+
   [distance]: https://store.steampowered.com/app/233610
   [distance thread]: https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972
+  
 <!--Not Currently Planned-->
+
   [5089]: https://store.steampowered.com/app/414510
   [5089 post]: https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436
   [Budget Cuts 2]: https://store.steampowered.com/app/1092430/
@@ -280,7 +290,9 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [subnautica post]: https://steamcommunity.com/app/264710/discussions/0/490123938436996887/
   [Tilt Brush]: https://store.steampowered.com/app/327140/
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
+
 <!--VR Hardware Status-->
+
   [steamvr linux github]: https://github.com/ValveSoftware/SteamVR-for-Linux
   [base station issue]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
   [lhctrl]: https://github.com/risa2000/lhctrl
@@ -292,11 +304,14 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
   [rift vote]: https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support
+
 <!--Graphics Cards-->
+
   [nvidia forum thread]: https://forums.developer.nvidia.com/t/support-for-async-reprojection/123382
   [async nvidia]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/214
   
 <!--Acknowledgements-->
+
   [teq]: https://steamcommunity.com/id/toq
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
