@@ -57,7 +57,9 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 
 ##### Other Software
 
+* [Blender][blender] - open source 3D graphics software (modeling, animation...)
 * [Exokit][exokit] - [issue](#3) - VR/AR/XR engine for JavaScript
+* [FreeCAD][freecad] OpenXR fork - open source CAD modeling software
 * [Gaia Sky VR][gaia sky vr] - [issue](#4) - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
 * [libsurvive][libsurvive] - open source Lighthouse tracking system
@@ -70,7 +72,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unity][unity] - proprietary game engine; OpenVR works on Linux since 2017.3
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
-* [Vircadia](https://vircadia.com) - [issues](#13) - open-source social VR
+* [Vircadia](https://vircadia.com) - [issues](#13) - open source social VR
   metaverse, successor of High Fidelity
 * [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR
   games) on your VR headset
@@ -226,7 +228,9 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
 
 <!--Confirmed Working: Other Software-->
 
+  [blender]: https://www.blender.org/
   [exokit]: https://github.com/webmixedreality/exokit
+  [freecad]: https://github.com/kwahoo2/FreeCAD/releases
   [gaia sky vr]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
   [godot]: https://godotengine.org/
   [godot plugin]: https://github.com/GodotVR/godot_openvr
