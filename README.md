@@ -69,10 +69,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
   sourced 3D painting app Tilt Brush
 * [Simula][simula] - VR window manager for Linux that runs on top of Godot
 * [SteamVR][steamvr linux github] - Valve's VR software system
-* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
-<!-- [Unity][unity] - proprietary game engine; OpenVR works on Linux -->
-<!-- A previous version of Unity worked with OpenVR on Linux, but Valve's Unity
-XR plugin needs fixing before this can be uncommented. See [unity xr] -->
+* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app<!-- * [Unity][unity] - proprietary game engine; OpenVR works on Linux (A previous version of Unity worked with OpenVR on Linux, but Valve's Unity XR plugin needs fixing before this can be uncommented. See [unity xr]) -->
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
 * [Vircadia](https://vircadia.com) - [issues](#13) - open source social VR
   metaverse, successor of High Fidelity
