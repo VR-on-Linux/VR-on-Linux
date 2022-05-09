@@ -1,22 +1,12 @@
-<!--If it's a short line, feel free to use the [link text](URL) format.
-For longer lines, please use the [link text][link reference name], and
-put the URL after its name in the bottom section with the others.-->
+<!--For a short line, feel free to use the [link text](URL) format. For longer lines, you may want to use the [link text][link reference name], and put the URL after its name in the bottom section with the others.-->
 
 # VR Software Status
 
-Objective: Investigate software such as
-[these native titles on Steam][Steam store link] to find whether they
-actually support virtual reality (VR) on Linux. In addition, [Steam Play]
-whitelisted [software] will also be tracked. Please post
-[what issues you have here][issues].
+Objective: Investigate software such as [these native titles on Steam][Steam store link] to find whether they actually support virtual reality (VR) on Linux. In addition, [Steam Play] whitelisted [software] will also be tracked. Please post [what issues you have here][issues].
 
-This document is VR-focused, but augmented reality (AR) applications will also
-be included. (Together, VR and AR are known as XR.)
+This document is VR-focused, but augmented reality (AR) applications will also be included. (Together, VR and AR are known as XR.)
 
-Make sure to use the latest graphics drivers and Linux kernel available to you.
-At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is
-required for the SteamVR beta. For more details on SteamVR for Linux,
-[click here.][steamvr linux github]
+Make sure to use the latest graphics drivers and Linux kernel available to you. At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is required for the SteamVR beta. For more details on SteamVR for Linux, [click here.][steamvr linux github]
 
 Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 
@@ -47,8 +37,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
 * [sphereFACE][sphereface] - [issue](#2)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
-* [Universe Sandbox 2][universe sandbox 2] -
-  [discussion][universe sandbox 2 discussion]
+* [Universe Sandbox 2][universe sandbox 2] - [discussion][universe sandbox 2 discussion]
 * [Vivecraft](http://www.vivecraft.org/)
 * [X-Plane 11.26][xplane 11.26] - [discussion][xplane discussion]
 * [vkQuakeVR][vkquakevr]
@@ -63,25 +52,19 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Gaia Sky VR][gaia sky vr] - [issue](#4) - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
 * [libsurvive][libsurvive] - open source Lighthouse tracking system
-* [Monado][monado] - [blog post][monado post] - free and open source
-  [OpenXR][openxr] runtime
-* [Open Brush][openbrush] - [Linux builds][openbrush builds] - fork of the open 
-  sourced 3D painting app Tilt Brush
+* [Monado][monado] - [blog post][monado post] - free and open source [OpenXR][openxr] runtime
+* [Open Brush][openbrush] - [Linux builds][openbrush builds] - fork of the open sourced 3D painting app Tilt Brush
 * [Simula][simula] - VR window manager for Linux that runs on top of Godot
 * [SteamVR][steamvr linux github] - Valve's VR software system
 * [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app<!-- * [Unity][unity] - proprietary game engine; OpenVR works on Linux (A previous version of Unity worked with OpenVR on Linux, but Valve's Unity XR plugin needs fixing before this can be uncommented. See [unity xr]) -->
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
-* [Vircadia](https://vircadia.com) - [issues](#13) - open source social VR
-  metaverse, successor of High Fidelity
-* [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR
-  games) on your VR headset
-* [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the
-  Linux desktop in XR
+* [Vircadia](https://vircadia.com) - [issues](#13) - open source social VR metaverse, successor of High Fidelity
+* [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
+* [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the Linux desktop in XR
 
 ### Confirmed Planned
 
-The developers will try to make a Linux version at some point. May or may not be
-released.
+The developers will try to make a Linux version at some point. May or may not be released.
 
 * [Climbey][climbey] - [dev comment][climbey dev]
 * [cyubeVR][cyubevr] - [dev post][cyubevr post]
@@ -99,9 +82,7 @@ No developer response yet.
 
 ### Not Currently Planned
 
-Some have great [Proton][proton] compatibility, but are not
-whitelisted. Others have more mixed results, but may work well. See [PROTON.md]
-for more info.
+Some have great [Proton][proton] compatibility, but are not whitelisted. Others have more mixed results, but may work well. See [PROTON.md] for more info.
 
 * [5089] - [dev post][5089 post]
 * [Budget Cuts 2] - [dev post][bc2 post]
@@ -132,28 +113,27 @@ for more info.
 
 ### Unofficial OpenHMD Support
 
-[These currently lack positional tracking functionality][openhmd], and not as
-many games support OpenHMD yet.
+[These currently lack positional tracking functionality][openhmd], and not as many games support OpenHMD yet.
 
+* Oculus Rift S
 * Microsoft Mixed Reality
-* Oculus Rift CV1
 * PSVR
-* Samsung GearVR
 
-Also check out [Monado][monado], the free and open source [OpenXR][openxr]
-implementation. It relies on OpenHMD for some devices.
+These have experimental positional tracking support [from a development branch][openhmd thaytan].
 
-If you want official Linux support for the Oculus Rift, [add your vote
-here.][rift vote] If you want, leave a comment, too (but be nice!)
+* Oculus Rift CV1
+* Oculus Rift DK2
+
+Also check out [Monado][monado], the free and open source [OpenXR][openxr] implementation. It relies on OpenHMD for some devices.
+
+If you want official Linux support for the Oculus Rift, [add your vote here.][rift vote] If you want, leave a nice comment, too.
 
 ### Unofficial ALVR Support (Experimental)
 
-Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air 
-Light VR).
+Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air Light VR).
 
 > Stream VR games from your PC to your headset via Wi-Fi.\
-> ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated 
-  Rendering for a smoother experience.\
+> ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated Rendering for a smoother experience.\
 > All games that work with an Oculus Rift (s) should work with ALVR. 
 
 ALVR currently supports:
@@ -164,9 +144,7 @@ ALVR currently supports:
 
 ### Graphics Cards 
 
-Both NVIDIA and AMD graphics cards are now fully supported. For Nvidia users, 
-be sure to have at least the NVIDIA 470.42.01 driver installed, available since 
-June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
+For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
 
 ----
 
@@ -306,6 +284,7 @@ June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018).
   [index camera]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231
   [archwiki rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [openhmd]: http://www.openhmd.net/index.php/devices/
+  [openhmd thaytan]: https://github.com/thaytan/OpenHMD/tree/rift-kalman-filter
   [rift vote]: https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support
 
 <!--Graphics Cards-->
