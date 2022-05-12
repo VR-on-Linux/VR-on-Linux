@@ -1,16 +1,5 @@
 # Modding Skyrim VR
 
-Force Proton version: 6.3
-
-Run once. Check if you can hear NPC dialog in the Intro. 
-If not, install xact via protontricks:
-
-	protontricks 611670 xact
-
-And change your launch command to:
-
-	WINEDLLOVERRIDES="xaudio2_7=n,b;x3daudio1_7=n,b" %command%
-
 ## SKSEVR
 
 Required for all mods which use scripting.
@@ -26,8 +15,6 @@ This build does work: https://drive.google.com/file/d/1SBzd-yIGHA0dnQEWqkSt-sbzN
 		[Loader]
 		RuntimeName=SkyrimVR-bak.exe 
 
-
-
 ## SkyUI VR
 
 The standard UI is a bit cumbersome to use in VR. 
@@ -38,7 +25,7 @@ https://github.com/Odie/skyui-vr/releases/download/v1.0-beta.4/SkyUI-VR.v1.0-bet
 - unpack in: `steamapps/common/SkyrimVR`
 - in `SkyUI - VR` directory:
   - rename `interface` to `Interface`
-  - rename `script`s to `Scripts`
+  - rename `scripts` to `Scripts`
   - move contents of directory into `Data`
 
 ## HIGGS
@@ -48,7 +35,6 @@ Adds hand interaction and Alyx style gravity gloves.
 https://www.nexusmods.com/skyrimspecialedition/mods/43930
 
 - unpack in: `steamapps/common/SkyrimVR/Data`
-
 
 ## VRIK
 
@@ -70,7 +56,6 @@ In `steamapps/compatdata/611670/pfx/drive_c/users/steamuser/AppData/Local/Skyrim
 	*vrik.esp
 	*higgs_vr.esp
 
-
 ### Create `loadorder.txt` with content:
 
 	Skyrim.esm
@@ -83,7 +68,6 @@ In `steamapps/compatdata/611670/pfx/drive_c/users/steamuser/AppData/Local/Skyrim
 	vrik.esp
 	higgs_vr.esp
 
-
 ## True 3D Sound
 
 For binaural/positional audio.
@@ -95,7 +79,6 @@ extract in `steamapps/common/SkyrimVR`
 Change your launch command to:
 
 	WINEDLLOVERRIDES="xaudio2_7=n,b;x3daudio1_7=n,b" %command%
-
 
 ## Non-essential
 
