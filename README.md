@@ -56,7 +56,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Open Brush][openbrush] - [Linux builds][openbrush builds] - fork of the open sourced 3D painting app Tilt Brush
 * [Simula][simula] - VR window manager for Linux that runs on top of Godot
 * [SteamVR][steamvr linux github] - Valve's VR software system
-* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app<!-- * [Unity][unity] - proprietary game engine; OpenVR works on Linux (A previous version of Unity worked with OpenVR on Linux, but Valve's Unity XR plugin needs fixing before this can be uncommented. See [unity xr]) -->
+* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app<!-- * A previous version of Unity worked with OpenVR on Linux, but Valve's Unity XR plugin needs fixing. See [unity xr]) -->
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
 * [Vircadia](https://vircadia.com) - [issues](#13) - open source social VR metaverse, successor of High Fidelity
 * [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
@@ -220,7 +220,7 @@ For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available
   [openbrush builds]: https://openbrush.itch.io/openbrush
   [simula]: https://github.com/SimulaVR/Simula
   [soundstage vr]: https://github.com/ChristophHaag/soundstagevr
-  [soundstage-linux]: /issues/5#note_93726156
+  [soundstage-linux]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/5#note_93726156
   [unity xr]: https://github.com/ValveSoftware/unity-xr-plugin/issues?q=is%3Aissue+linux+is%3Aopen
   [unreal]: https://www.unrealengine.com/
   [vr-video]: https://git.dec05eba.com/vr-video-player/about/
