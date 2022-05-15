@@ -22,7 +22,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Dungeon Hero][dungeon hero]
 * [Everspace][everspace] - [dev comment][everspace dev]
 * [Fake Racing][fakeracing]
-* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce]
+* [Half-Life: Alyx][hl alyx] - [announcement][hl alyx announce] - [issues][hl alyx issues]
 * [Google Earth VR][google earth vr]  - on Steam Play whitelist
 * [Groove Gunner][groove gunner]
 * [Locomancer][locomancer]
@@ -181,6 +181,7 @@ For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available
   [google earth vr]: https://store.steampowered.com/app/348250
   [hl alyx]: https://store.steampowered.com/app/546560/HalfLife_Alyx/
   [hl alyx announce]: https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078
+  [hl alyx issues]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/?search=Alyx&sort=title_asc&state=opened
   [locomancer]: https://store.steampowered.com/app/490250/
   [munch vr]: https://store.steampowered.com/app/549000
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
@@ -294,7 +295,7 @@ For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available
   
 <!--Acknowledgements-->
 
-  [teq]: https://steamcommunity.com/id/toq
+  [teq]: https://steamcommunity.com/id/tangoechoquebec
   [old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [forum]: https://steamcommunity.com/app/250820/discussions/5/
   [/r/linux_gaming]: https://www.reddit.com/r/linux_gaming
