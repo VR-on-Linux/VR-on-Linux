@@ -4,7 +4,7 @@ This was created because ProtonDB does not have a way to filter for only "VR Sup
 
 Tweaks may be required, and updates may change how well it works with Proton, so be sure to read the latest reviews on ProtonDB.
 
-Also check out the list of native/supported VR hardware and software [on Gitlab](https://gitlab.com/-/ide/project/vr-on-linux/VR-on-Linux/) or [on Steam](https://steamcommunity.com/app/250820/discussions/5/4839692156566904474/).
+Also check out the list of native/supported VR hardware and software [on Gitlab](https://gitlab.com/vr-on-linux/VR-on-Linux) or [on Steam](https://steamcommunity.com/app/250820/discussions/5/4839692156566904474/).
 
 + [A Fisherman's Tale](https://store.steampowered.com/app/559330) - [ProtonDB](https://www.protondb.com/app/559330)
 + [Acan's Call: Act 1](https://store.steampowered.com/app/501180) - [ProtonDB](https://www.protondb.com/app/501180)
