@@ -161,7 +161,7 @@ You should try to get the latest graphics drivers that are available. For Nvidia
   [Steam Play]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
   [what issues you have here]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues
   [Proton]: https://github.com/ValveSoftware/Proton/
-  [the list on Gitlab]: https://gitlab.com/vr-on-linux/VR-on-Linux/Proton/
+  [the list on Gitlab]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/tree/master/Proton
   [the Steam forum thread]: https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/
 
 <!--Confirmed Working: Games-->
