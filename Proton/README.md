@@ -1,8 +1,10 @@
 This list contains many VR titles which are *not* whitelisted or native (so you will not get support from Valve or the game developers) but were confirmed to work well.
 
-This was created because ProtonDB does not have a way to filter for only "VR Supported" or "VR Only" games.
+This was created because ProtonDB does not have a way to filter for only "VR Supported" or "VR Only" games, only by user tags: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
 
 Tweaks may be required, and updates may change how well it works with Proton, so be sure to read the latest reviews on ProtonDB.
+
+Also check out the list of native/supported VR hardware and software [on Gitlab](https://gitlab.com/-/ide/project/vr-on-linux/VR-on-Linux/) or [on Steam](https://steamcommunity.com/app/250820/discussions/5/4839692156566904474/).
 
 + [A Fisherman's Tale](https://store.steampowered.com/app/559330) - [ProtonDB](https://www.protondb.com/app/559330)
 + [Acan's Call: Act 1](https://store.steampowered.com/app/501180) - [ProtonDB](https://www.protondb.com/app/501180)
@@ -38,17 +40,21 @@ Tweaks may be required, and updates may change how well it works with Proton, so
 + [FORM](https://store.steampowered.com/app/408520) - [ProtonDB](https://www.protondb.com/app/408520)
 + [Fruit Ninja VR](https://store.steampowered.com/app/486780) - [ProtonDB](https://www.protondb.com/app/486780)
 + [Gal*Gun VR](https://store.steampowered.com/app/678520) - [ProtonDB](https://www.protondb.com/app/678520)
++ [Gorilla Tag](https://store.steampowered.com/app/1533390) - [ProtonDB](https://www.protondb.com/app/1533390)
 + [GORN](https://store.steampowered.com/app/578620) - [ProtonDB](https://www.protondb.com/app/578620)
 + [Hellblade: Senua's Sacrifice VR Edition](https://store.steampowered.com/app/747350) - [ProtonDB](https://www.protondb.com/app/747350)
 + [Home - A VR Spacewalk](https://store.steampowered.com/app/512270) - [ProtonDB](https://www.protondb.com/app/512270)
 + [Hot Dogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540) - [ProtonDB](https://www.protondb.com/app/450540)
 + [I Expect You To Die](https://store.steampowered.com/app/587430) - [ProtonDB](https://www.protondb.com/app/587430)
++ [I Expect You To Die 2](https://store.steampowered.com/app/1499120) - [ProtonDB](https://www.protondb.com/app/1499120)
 + [In Death](https://store.steampowered.com/app/605450) - [ProtonDB](https://www.protondb.com/app/605450)
++ [Iron Wolf VR](https://store.steampowered.com/app/552080) - [ProtonDB](https://www.protondb.com/app/552080)*
 + [Jet Island](https://store.steampowered.com/app/587220) - [ProtonDB](https://www.protondb.com/app/587220)
 + [Job Simulator](https://store.steampowered.com/app/448280) - [ProtonDB](https://www.protondb.com/app/448280)
 + [Just In Time Incorporated](https://store.steampowered.com/app/592030) - [ProtonDB](https://www.protondb.com/app/592030)
 + [Karnage Chronicles](https://store.steampowered.com/app/611160) - [ProtonDB](https://www.protondb.com/app/611160)
 + [KartKraft](https://store.steampowered.com/app/406350) - [ProtonDB](https://www.protondb.com/app/406350)*
++ [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800) - [ProtonDB](https://www.protondb.com/app/341800)*
 + [Lazerbait](https://store.steampowered.com/app/529150) - [ProtonDB](https://www.protondb.com/app/529150)
 + [Lunar Flight](https://store.steampowered.com/app/208600) - [ProtonDB](https://www.protondb.com/app/208600)*
 + [Mini Motor Racing X](https://store.steampowered.com/app/1303990) - [ProtonDB](https://www.protondb.com/app/1303990)
@@ -65,12 +71,15 @@ Tweaks may be required, and updates may change how well it works with Proton, so
 + [Pistol Whip](https://store.steampowered.com/app/1079800) - [ProtonDB](https://www.protondb.com/app/1079800)
 + [PolyDome](https://store.steampowered.com/app/483680) - [ProtonDB](https://www.protondb.com/app/483680)
 + [Project CARS 2](https://store.steampowered.com/app/378860) - [ProtonDB](https://www.protondb.com/app/378860)*
++ [Propagation VR](https://store.steampowered.com/app/1533390) - [ProtonDB](https://www.protondb.com/app/1363430)
 + [PROZE: Prologue](https://store.steampowered.com/app/912560) - [ProtonDB](https://www.protondb.com/app/912560)
 + [Psychonauts in the Rhombus of Ruin](https://store.steampowered.com/app/788690) - [ProtonDB](https://www.protondb.com/app/788690)
++ [Race the Sun](https://store.steampowered.com/app/253030) - [ProtonDB](https://www.protondb.com/app/253030)*
 + [Racket: Nx](https://store.steampowered.com/app/428080) - [ProtonDB](https://www.protondb.com/app/428080)
 + [Red Matter](https://store.steampowered.com/app/966680) - [ProtonDB](https://www.protondb.com/app/966680)
 + [Redout: Enhanced Edition](https://store.steampowered.com/app/517710) - [ProtonDB](https://www.protondb.com/app/517710)*
 + [Rick and Morty: Virtual Rick-ality](https://store.steampowered.com/app/469610) - [ProtonDB](https://www.protondb.com/app/469610)
++ [Rolling Line](https://store.steampowered.com/app/754150) - [ProtonDB](https://www.protondb.com/app/754150)*
 + [RPG Merchant](https://store.steampowered.com/app/789290) - [ProtonDB](https://www.protondb.com/app/789290)
 + [Sopwith VR](https://store.steampowered.com/app/998660) - [ProtonDB](https://www.protondb.com/app/998660)
 + [SpaceEngine](https://store.steampowered.com/app/314650) - [ProtonDB](https://www.protondb.com/app/314650)*
