@@ -35,7 +35,7 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 * [Serious Sam 3 VR: BFE][serious sam 3]
 * [Serious Sam VR: The First Encounter][serious sam vr1] - [dev post][ssvr1post]
 * [Serious Sam VR: The Second Encounter][serious sam vr2]
-* [sphereFACE][sphereface] - [issue](#2)
+* [sphereFACE][sphereface] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/2)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Universe Sandbox 2][universe sandbox 2] - [discussion][universe sandbox 2 discussion]
 * [Vivecraft](http://www.vivecraft.org/)
@@ -47,18 +47,18 @@ Also see [PROTON.md] for unsupported games that may work with [Proton][proton].
 ##### Other Software
 
 * [Blender][blender] - open source 3D graphics software (modeling, animation...)
-* [Exokit][exokit] - [issue](#3) - VR/AR/XR engine for JavaScript
+* [Exokit][exokit] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3) - VR/AR/XR engine for JavaScript
 * [FreeCAD][freecad] OpenXR fork - open source CAD modeling software
-* [Gaia Sky VR][gaia sky vr] - [issue](#4) - 3D universe application
+* [Gaia Sky VR][gaia sky vr] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4) - 3D universe application
 * [Godot][godot] - open source game engine, requires [plugin][godot plugin]
 * [libsurvive][libsurvive] - open source Lighthouse tracking system
 * [Monado][monado] - [blog post][monado post] - free and open source [OpenXR][openxr] runtime
 * [Open Brush][openbrush] - [Linux builds][openbrush builds] - fork of the open sourced 3D painting app Tilt Brush
 * [Simula][simula] - VR window manager for Linux that runs on top of Godot
 * [SteamVR][steamvr linux github] - Valve's VR software system
-* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app<!-- * A previous version of Unity worked with OpenVR on Linux, but Valve's Unity XR plugin needs fixing. See [unity xr]) -->
+* [SoundStage VR][soundstage vr] - [Linux builds][soundstage-linux] - music app
 * [Unreal Engine][unreal] - proprietary game engine; VR on Linux with 4.16+
-* [Vircadia](https://vircadia.com) - [issues](#13) - open source social VR metaverse, successor of High Fidelity
+* [Vircadia](https://vircadia.com) - [issues](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/13) - open source social VR metaverse, successor of High Fidelity
 * [vr-video-player][vr-video] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
 * [xrdesktop][xrdesktop] - [Announcement][xrdesktop post] - interact with the Linux desktop in XR
 

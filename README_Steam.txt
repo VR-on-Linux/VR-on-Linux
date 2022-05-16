@@ -9,7 +9,7 @@ This document is VR-focused, but augmented reality (AR) applications will also b
 
 Make sure to use the latest graphics drivers and Linux kernel available to you. At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is required for the SteamVR beta. For more details on SteamVR for Linux, [url=https://github.com/ValveSoftware/SteamVR-for-Linux]click here.[/url]
 
-Also see [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/blob/master/PROTON.md]PROTON.md[/url] for unsupported games that may work with [url=https://github.com/ValveSoftware/Proton/]Proton.[/url]
+For unsupported games that may work with [url=https://github.com/ValveSoftware/Proton/]Proton,[/url] [url=https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/]see the list in the other thread.[/url]
 
 [h2]Confirmed Working[/h2]
 [h3]Games[/h3][list]
@@ -23,7 +23,7 @@ Also see [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/blob/master/PROTON.md
 [*][url=https://store.steampowered.com/app/1481600/Fake_Racing/]Fake Racing[/url]
 [*][url=https://store.steampowered.com/app/546560/HalfLife_Alyx/]Half-Life: Alyx[/url] - [url=https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078]announcement[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/?search=Alyx&sort=title_asc&state=opened]issues[/url]
 [*][url=https://store.steampowered.com/app/348250]Google Earth VR[/url]  - on Steam Play whitelist
-[*][Groove Gunner][groove gunner]
+[*][url=https://store.steampowered.com/app/976930]Groove Gunner[/url]
 [*][url=https://store.steampowered.com/app/490250/]Locomancer[/url]
 [*][url=https://store.steampowered.com/app/549000]Munch VR[/url] - [url=https://steamcommunity.com/games/549000/announcements/detail/254855783331915882]announcement[/url]
 [*][url=https://store.steampowered.com/app/740250/Neos_VR/]Neos VR[/url] - [url=https://store.steampowered.com/newshub/app/740250/view/3300515414498852519]announcement[/url]
@@ -34,7 +34,7 @@ Also see [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/blob/master/PROTON.md
 [*][url=https://store.steampowered.com/app/567670]Serious Sam 3 VR: BFE[/url]
 [*][url=https://store.steampowered.com/app/552450]Serious Sam VR: The First Encounter[/url] - [url=https://steamcommunity.com/games/552450/announcements/detail/508182627702316801]dev post[/url]
 [*][url=https://store.steampowered.com/app/552460]Serious Sam VR: The Second Encounter[/url]
-[*][url=https://store.steampowered.com/app/485680]sphereFACE[/url] - [url=#2]issue[/url]
+[*][url=https://store.steampowered.com/app/485680]sphereFACE[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/2]issue[/url]
 [*][url=https://store.steampowered.com/app/552440/]The Talos Principle VR[/url]
 [*][url=https://store.steampowered.com/app/230290]Universe Sandbox 2[/url] - [url=https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727]discussion[/url]
 [*][url=http://www.vivecraft.org/]Vivecraft[/url]
@@ -45,9 +45,9 @@ Also see [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/blob/master/PROTON.md
 
 [h3]Other Software[/h3][list]
 [*][url=https://www.blender.org/]Blender[/url] - open source 3D graphics software (modeling, animation...)
-[*][url=https://github.com/webmixedreality/exokit]Exokit[/url] - [url=#3]issue[/url] - VR/AR/XR engine for JavaScript
+[*][url=https://github.com/webmixedreality/exokit]Exokit[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3]issue[/url] - VR/AR/XR engine for JavaScript
 [*][url=https://github.com/kwahoo2/FreeCAD/releases]FreeCAD[/url] OpenXR fork - open source CAD modeling software
-[*][url=https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme]Gaia Sky VR[/url] - [url=#4]issue[/url] - 3D universe application
+[*][url=https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme]Gaia Sky VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4]issue[/url] - 3D universe application
 [*][url=https://godotengine.org/]Godot[/url] - open source game engine, requires [url=https://github.com/GodotVR/godot_openvr]plugin[/url]
 [*][url=https://github.com/cntools/libsurvive]libsurvive[/url] - open source Lighthouse tracking system
 [*][url=https://monado.dev]Monado[/url] - [url=https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html]blog post[/url] - free and open source [url=https://www.khronos.org/openxr/]OpenXR[/url] runtime
