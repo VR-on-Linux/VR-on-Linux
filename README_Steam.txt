@@ -95,8 +95,8 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux Github[/url] (development beta)[list]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96]Bluetooth does not work[/url][list]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320]No power management for base stations[/url][list]
-[*]v1 workaround: [url=https://github.com/risa2000/lhctrl]lhctrl[/url]
-[*]v2: [url=https://github.com/risa2000/lh2ctrl]lh2ctrl[/url], [url=https://github.com/jeroen1602/lighthouse_pm]lighthouse_pm[/url], [url=https://github.com/nouser2013/lighthouse-v2-manager]lighthouse-v2-manager[/url][/list]
+[*]v1 (Vive) workaround: [url=https://github.com/risa2000/lhctrl]lhctrl[/url]
+[*]v2 (Index, Vive Pro): [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lh2ctrl]lh2ctrl[/url], [url=https://github.com/nouser2013/lighthouse-v2-manager]lighthouse-v2-manager[/url][/list]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list][/list]
 [*]Oculus Rift development kits (DK1, DK2) - [url=https://wiki.archlinux.org/index.php/Oculus_Rift]ArchWiki: Oculus Rift[/url][/list]
 

@@ -104,8 +104,8 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 * HTC Vive/Vive Pro and Valve Index via [SteamVR] (development beta)
     * [Bluetooth does not work]
         * [No power management for base stations]
-          * v1 workaround: [lhctrl]
-          * v2: [lh2ctrl], [lighthouse_pm], [lighthouse-v2-manager]
+          * v1 (Vive) workaround: [lhctrl] (for Vive)
+          * v2 (Index, Vive Pro): [Lighthouse PM] (Android), [lh2ctrl], [lighthouse-v2-manager]
     * [Index camera does not work]
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
@@ -281,7 +281,7 @@ You should try to get the latest graphics drivers that are available. For Nvidia
   [No power management for base stations]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
   [lhctrl]: https://github.com/risa2000/lhctrl
   [lh2ctrl]: https://github.com/risa2000/lh2ctrl
-  [lighthouse_pm]: https://github.com/jeroen1602/lighthouse_pm
+  [Lighthouse PM]: https://github.com/jeroen1602/lighthouse_pm
   [lighthouse-v2-manager]: https://github.com/nouser2013/lighthouse-v2-manager
   [Bluetooth does not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96
   [Index camera does not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231
