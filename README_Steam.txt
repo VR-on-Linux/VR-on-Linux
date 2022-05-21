@@ -90,14 +90,15 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 
 [hr]
 [h1]VR Hardware Status[/h1]
-[h2]Confirmed Working[/h2]
+[h2]Confirmed Working[/h2][list]
 [*]HTC Vive/Vive Pro and Valve Index via SteamVR -
-[url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux Github[/url] (development beta)[list]
-[*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96]Bluetooth does not work[/url][list]
-[*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320]No power management for base stations[/url][list]
+[url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux Github[/url] (development beta)
+[*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96]Bluetooth does not work[/url]
+[*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320]No power management for base stations[/url]
 [*]v1 (Vive) workaround: [url=https://github.com/risa2000/lhctrl]lhctrl[/url]
-[*]v2 (Index, Vive Pro): [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lh2ctrl]lh2ctrl[/url], [url=https://github.com/nouser2013/lighthouse-v2-manager]lighthouse-v2-manager[/url][/list]
-[*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list][/list]
+[*]v2 (Index, Vive Pro): [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lh2ctrl]lh2ctrl[/url], [url=https://github.com/nouser2013/lighthouse-v2-manager]lighthouse-v2-manager[/url]
+[*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url]
+[*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
 [*]Oculus Rift development kits (DK1, DK2) - [url=https://wiki.archlinux.org/index.php/Oculus_Rift]ArchWiki: Oculus Rift[/url][/list]
 
 [h2]Unofficial OpenHMD Support[/h2]
