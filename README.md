@@ -108,6 +108,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
           * v2 (Index, Vive Pro): [Lighthouse PM] (Android), [lh2ctrl], [lighthouse-v2-manager]
     * [Index camera does not work]
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
+* [Tundra Trackers](https://tundra-labs.com/) (untested but should work, uses Valve's firmware)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
 ### Unofficial OpenHMD Support
