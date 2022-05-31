@@ -99,6 +99,7 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 [*]v2 (Index, Vive Pro): [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lh2ctrl]lh2ctrl[/url], [url=https://github.com/nouser2013/lighthouse-v2-manager]lighthouse-v2-manager[/url][/list]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list]
 [*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
+[*][url=https://tundra-labs.com/]Tundra Trackers[/url] (untested but should work, uses Valve's firmware)
 [*]Oculus Rift development kits (DK1, DK2) - [url=https://wiki.archlinux.org/index.php/Oculus_Rift]ArchWiki: Oculus Rift[/url][/list]
 
 [h2]Unofficial OpenHMD Support[/h2]
