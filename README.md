@@ -55,6 +55,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [libsurvive] - open source Lighthouse tracking system
 * [Monado] - [blog post][monado post] - free and open source [OpenXR][openxr] runtime
 * [Open Brush] - [Linux builds][openbrush builds] - fork of the open sourced 3D painting app Tilt Brush
+* [Overte] - open-source social VR metaverse, non-profit fork of Vircadia
 * [ShellSaber] - Beat Saber mod manager written in POSIX-compliant shell script
 * [Simula] - VR window manager for Linux that runs on top of Godot
 * [SteamVR] - Valve's VR software system
@@ -220,6 +221,7 @@ You should try to get the latest graphics drivers that are available. For Nvidia
   [OpenXR]: https://www.khronos.org/openxr/
   [Open Brush]: https://github.com/icosa-gallery/open-brush#readme
   [openbrush builds]: https://openbrush.itch.io/openbrush
+  [Overte]: https://overte.org
   [ShellSaber]: https://github.com/Ominitay/ShellSaber
   [Simula]: https://github.com/SimulaVR/Simula
   [SoundStage VR]: https://github.com/ChristophHaag/soundstagevr
