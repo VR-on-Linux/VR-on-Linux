@@ -112,7 +112,6 @@ Also check out the list of native/supported VR hardware and software [on Gitlab]
 + [VR Paradise (sexual content)](https://store.steampowered.com/app/896890) - [ProtonDB](https://www.protondb.com/app/896890)
 + [VR Regatta - The Sailing Game](https://store.steampowered.com/app/468240) - [ProtonDB](https://www.protondb.com/app/468240)
 + [VR The Diner Duo](https://store.steampowered.com/app/530120) - [ProtonDB](https://www.protondb.com/app/530120)
-+ [VRChat](https://store.steampowered.com/app/438100) - [ProtonDB](https://www.protondb.com/app/438100)*
 + [VTOL VR](https://store.steampowered.com/app/667970) - [ProtonDB](https://www.protondb.com/app/667970)
 + [Westworld Awakening](https://store.steampowered.com/app/1133320) - [ProtonDB](https://www.protondb.com/app/1133320)
 + [Windlands](https://store.steampowered.com/app/428370) - [ProtonDB](https://www.protondb.com/app/428370)
