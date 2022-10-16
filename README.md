@@ -110,7 +110,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
           * v1 or v2: [steamvr_utils](https://github.com/DavidRisch/steamvr_utils)
     * [Index camera does not work]
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
-* [Tundra Trackers](https://tundra-labs.com/) (untested but should work, uses Valve's firmware)
+* [Tundra Trackers](https://tundra-labs.com/)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
 ### Unofficial OpenHMD Support

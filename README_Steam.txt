@@ -100,7 +100,7 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 [*]v1 or v2: [url=https://github.com/DavidRisch/steamvr_utils]steamvr_utils[/url][/list]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list]
 [*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
-[*][url=https://tundra-labs.com/]Tundra Trackers[/url] (untested but should work, uses Valve's firmware)
+[*][url=https://tundra-labs.com/]Tundra Trackers[/url]
 [*]Oculus Rift development kits (DK1, DK2) - [url=https://wiki.archlinux.org/index.php/Oculus_Rift]ArchWiki: Oculus Rift[/url][/list]
 
 [h2]Unofficial OpenHMD Support[/h2]
