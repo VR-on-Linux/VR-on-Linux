@@ -47,7 +47,8 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 ##### Other Software
 
 * [Beataroni] - graphical Beat Saber mod installer
-* [Blender] - open source 3D graphics software (modeling, animation...)
+* [Blender] - open source 3D graphics software (modeling, animation, etc.)
+    * See [Configuring Peripherals] in the Blender Manual
 * [Exokit] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3) - VR/AR/XR engine for JavaScript
 * [FreeCAD] OpenXR fork - open source CAD modeling software
 * [Gaia Sky VR] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4) - 3D universe application
@@ -211,6 +212,7 @@ You should try to get the latest graphics drivers that are available. For Nvidia
 
   [Beataroni]: https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni
   [Blender]: https://www.blender.org/
+  [Configuring Peripherals]: https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays
   [Exokit]: https://github.com/webmixedreality/exokit
   [FreeCAD]: https://github.com/kwahoo2/FreeCAD/releases
   [Gaia Sky VR]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme

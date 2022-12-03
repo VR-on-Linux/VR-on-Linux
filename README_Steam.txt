@@ -1,9 +1,9 @@
-Made a new thread to replace the old one, since very few people have been finding this on Gitlab:
+Originally from an old thread on this forum, efforts moved to Gitlab, and now is on both.
 
 https://gitlab.com/vr-on-linux/VR-on-Linux
 
 [h1]VR Software Status[/h1]
-Objective: Investigate software such as [url=https://store.steampowered.com/search?vrsupport=401%2C402&os=linux]these native titles on Steam[/url] to find whether they actually support virtual reality (VR) on Linux. In addition, [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play[/url] whitelisted software will also be tracked. Please post [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues]what issues you have here.[/url]
+Objective: Investigate software such as [url=https://store.steampowered.com/search?vrsupport=401%2C402&os=linux]these native titles on Steam[/url] to find whether they actually support virtual reality (VR) on Linux. In addition, [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play[/url] whitelisted software will also be tracked. Please post whatever issues you have.
 
 This document is VR-focused, but augmented reality (AR) applications will also be included. (Together, VR and AR are known as XR.)
 
@@ -45,7 +45,8 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 
 [h3]Other Software[/h3][list]
 [*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - graphical Beat Saber mod installer
-[*][url=https://www.blender.org/]Blender[/url] - open source 3D graphics software (modeling, animation...)
+[*][url=https://www.blender.org/]Blender[/url] - open source 3D graphics software (modeling, animation, etc.)
+[list][*]See [url=https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays]Configuring Peripherals[/url] in the Blender Manual[/list]
 [*][url=https://github.com/webmixedreality/exokit]Exokit[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3]issue[/url] - VR/AR/XR engine for JavaScript
 [*][url=https://github.com/kwahoo2/FreeCAD/releases]FreeCAD[/url] OpenXR fork - open source CAD modeling software
 [*][url=https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme]Gaia Sky VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4]issue[/url] - 3D universe application
