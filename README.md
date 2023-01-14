@@ -149,6 +149,79 @@ ALVR currently supports:
 
 You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.
 
+# Troubleshooting
+
+## SteamVR
+
+### Rainbow pixels at the edge of my viewport (AMDGPU)
+
+SteamVR only renders what can actually be seen by the player. This results in two ovals being drawn on the HMD. SteamVR does not touch the outside of those ovals. That results in random pixels from the VRAM segment the frame buffer was allocated on.
+You can probably see these if you move your eyes quick enough and are looking at a dark scene in VR.
+
+You can tell the RADV driver to always zero the frame buffer to avoid this. I am not sure if this results in a performance penalty or not.
+
+**Fix**
+- Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=zerovram`
+  - NOTE: You can add multiple options to `RADV_DEBUG` by separating them with a comma (`,`). Example: `RADV_DEBUG=zerovram,nodcc`
+
+### SteamVR doesn't start on Wayland
+
+If you have environment variables that force Qt or SDL apps to run in Wayland mode, SteamVR might not start at all.
+
+**Fix**
+- Add these environment variables to the launch options of SteamVR: `QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11`
+
+### SteamVR does not use direct mode on Wayland (window appears on monitor)
+
+If this has never worked for you on Wayland, make sure your compositor supports the `wp_drm_lease_device_v1` protocol. (As of writing both Sway and KWin support it)
+
+**Fix**
+- Use a compositor that supports `wp_drm_lease_device_v1`
+- Make sure your XWayland version supports `wp_drm_lease_device_v1` (X.Org 22.1.0+)
+
+### SteamVR *occasionally* does not use direct mode on Wayland (window appears on monitor)
+
+Sometimes SteamVR fails to use direct mode. This is probably because the last instance didn't release its lease on your HMD. You can kill `XWayland` and try again (Sway automatically restarts it when needed)
+
+If your HMD is listed in the output of `xrandr`, it probably means that it's available for lease.
+
+**Fix**
+- Restart XWayland
+- Alternatively restart your compositor
+
+### No microphone input from HMD
+
+The microphone of the Valve Index is kinda finnicky. Your best bet is to use PipeWire here.
+PulseAudio can be made to work, if you figure out the correct sample-rate and stuff.
+
+**Fix**
+- Use PipeWire
+- (Maybe) Make sure you have selected the corresponding HDMI output (the Index won't capture the microphone otherwise?)
+
+### Double-vision when moving head
+
+Asynchronous reprojection is broken in SteamVR on Linux. If games generate enough frames, you won't see this. But if the games framerate is too low, you will probably experience this.
+There is no real fix, as disabling asynchronous reprojection will just reduce the perceived framerate on your HMD.
+
+**Fix**
+- Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`
+
+### Graphics artifacts in SteamVR and in overlays (AMDGPU)
+
+[Upstream issue][overlay wobble]
+
+**Fix**
+- Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=nodcc`
+  - NOTE: You can add multiple options to `RADV_DEBUG` by separating them with a comma (`,`). Example: `RADV_DEBUG=zerovram,nodcc`
+
+### Overlays are wobbling/jittering
+
+[Upstream issue][overlay wobble]
+
+This is a SteamVR bug and it can't really be fixed from the outside.
+
+There is some discussion in [this Reddit thread][overlay wobble workarounds] about some workarounds, but they can cause issues with some games.
+
 ----
 
 # Acknowledgements
@@ -297,6 +370,10 @@ You should try to get the latest graphics drivers that are available. For Nvidia
   [from a development branch]: https://github.com/thaytan/OpenHMD/tree/rift-kalman-filter
   [add your vote here]: https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support
   
+<!--SteamVR issues-->
+  [overlay wobble]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/395
+  [overlay wobble workarounds]: https://www.reddit.com/r/virtualreality_linux/comments/yucy6i/steamvr_flickering_with_asyn_reprojection_solved/
+
 <!--Acknowledgements-->
 
   [Teq]: https://steamcommunity.com/id/tangoechoquebec
