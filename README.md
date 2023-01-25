@@ -226,6 +226,9 @@ There is some discussion in [this Reddit thread][overlay wobble workarounds] abo
 
 # Acknowledgements
 
+Many thanks to:
+
+* All [contributors]
 * Steam user [Teq] for compiling [the old list] (please don't post on it)
 * Valve for [SteamVR] for Linux and [the forum]
 * Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
@@ -376,6 +379,7 @@ There is some discussion in [this Reddit thread][overlay wobble workarounds] abo
 
 <!--Acknowledgements-->
 
+  [contributors]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/graphs/master?ref_type=heads
   [Teq]: https://steamcommunity.com/id/tangoechoquebec
   [the old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [SteamVR]: https://github.com/ValveSoftware/SteamVR-for-Linux
