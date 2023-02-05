@@ -47,6 +47,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 ##### Other Software
 
 * [Beataroni] - graphical Beat Saber mod installer
+* [Bino] - video player with a focus on 3D and VR
 * [Blender] - open source 3D graphics software (modeling, animation, etc.)
     * See [Configuring Peripherals] in the Blender Manual
 * [Exokit] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3) - VR/AR/XR engine for JavaScript
@@ -247,7 +248,6 @@ Many thanks to:
 
 <!--Confirmed Working: Games-->
 
-  [BeatAroni]: https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni
   [BallisticNG]: https://store.steampowered.com/app/473770
   [ballisticng thread]: https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/
   [Balloonatics]: https://store.steampowered.com/app/744600/Balloonatics/
@@ -287,6 +287,7 @@ Many thanks to:
 <!--Confirmed Working: Other Software-->
 
   [Beataroni]: https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni
+  [Bino]: https://bino3d.org
   [Blender]: https://www.blender.org/
   [Configuring Peripherals]: https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays
   [Exokit]: https://github.com/webmixedreality/exokit
