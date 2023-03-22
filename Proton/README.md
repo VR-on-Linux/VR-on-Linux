@@ -1,3 +1,5 @@
+# VR with Proton
+
 This list contains many VR titles which are *not* whitelisted or native (so you will not get support from Valve or the game developers) but were confirmed to work well.
 
 This was created because ProtonDB does not have a way to filter for only "VR Supported" or "VR Only" games, only by user tags: https://www.protondb.com/explore?selectedFilters=userTags&selectedTags=VR
