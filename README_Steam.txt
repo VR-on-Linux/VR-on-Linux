@@ -44,7 +44,8 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/953370/ZED/]ZED[/url] - [url=https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/]dev post[/url][/list]
 
 [h3]Other Software[/h3][list]
-[*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - graphical Beat Saber mod installer
+[*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - graphical Beat Saber mod installer 
+[*][url=https://bino3d.org]Bino[/url] - video player with a focus on 3D and VR
 [*][url=https://www.blender.org/]Blender[/url] - open source 3D graphics software (modeling, animation, etc.)
 [list][*]See [url=https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays]Configuring Peripherals[/url] in the Blender Manual[/list]
 [*][url=https://github.com/webmixedreality/exokit]Exokit[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3]issue[/url] - VR/AR/XR engine for JavaScript
@@ -132,9 +133,87 @@ ALVR currently supports:[list]
 You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.
 
 [hr]
+[h1]Troubleshooting[/h1]
+
+[h2]SteamVR[/h2]
+
+[h3]Rainbow pixels at the edge of my viewport (AMDGPU)[/h3]
+
+SteamVR only renders what can actually be seen by the player. This results in two ovals being drawn on the HMD. SteamVR does not touch the outside of those ovals. That results in random pixels from the VRAM segment the frame buffer was allocated on.
+You can probably see these if you move your eyes quick enough and are looking at a dark scene in VR.
+
+You can tell the RADV driver to always zero the frame buffer to avoid this. I am not sure if this results in a performance penalty or not.
+
+[b]Fix[/b]
+[list][*]Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=zerovram`
+[list][*]NOTE: You can add multiple options to `RADV_DEBUG` by separating them with a comma (`,`). Example: `RADV_DEBUG=zerovram,nodcc`[/list][/list]
+
+[h3]SteamVR doesn't start on Wayland[/h3]
+
+If you have environment variables that force Qt or SDL apps to run in Wayland mode, SteamVR might not start at all.
+
+[b]Fix[/b]
+[list][*]Add these environment variables to the launch options of SteamVR: `QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11`[/list]
+
+[h3]SteamVR does not use direct mode on Wayland (window appears on monitor)[/h3]
+
+If this has never worked for you on Wayland, make sure your compositor supports the `wp_drm_lease_device_v1` protocol. (As of writing both Sway and KWin support it)
+
+[b]Fix[/b]
+[list][*]Use a compositor that supports `wp_drm_lease_device_v1`
+[*]Make sure your XWayland version supports `wp_drm_lease_device_v1` (X.Org 22.1.0+)[/list]
+
+[h3]SteamVR *occasionally* does not use direct mode on Wayland (window appears on monitor)[/h3]
+
+Sometimes SteamVR fails to use direct mode. This is probably because the last instance didn't release its lease on your HMD. You can kill `XWayland` and try again (Sway automatically restarts it when needed)
+
+If your HMD is listed in the output of `xrandr`, it probably means that it's available for lease.
+
+[b]Fix[/b]
+[list][*]Restart XWayland
+[*]Alternatively restart your compositor[/list]
+
+[h3]No microphone input from HMD[/h3]
+
+The microphone of the Valve Index is kinda finnicky. Your best bet is to use PipeWire here.
+PulseAudio can be made to work, if you figure out the correct sample-rate and stuff.
+
+**Fix**
+[list][*]Use PipeWire
+[*](Maybe) Make sure you have selected the corresponding HDMI output (the Index won't capture the microphone otherwise?)[/list]
+
+[h3]Double-vision when moving head[/h3]
+
+Asynchronous reprojection is broken in SteamVR on Linux. If games generate enough frames, you won't see this. But if the games framerate is too low, you will probably experience this.
+There is no real fix, as disabling asynchronous reprojection will just reduce the perceived framerate on your HMD.
+
+[b]Fix[/b]
+[list][*]Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`[/list]
+
+[h3]Graphics artifacts in SteamVR and in overlays (AMDGPU)[/h3]
+
+[url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/395]Upstream issue[/url]
+
+[b]Fix[/b]
+[list][*]Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=nodcc`
+[list][*]NOTE: You can add multiple options to `RADV_DEBUG` by separating them with a comma (`,`). Example: `RADV_DEBUG=zerovram,nodcc`[/list][/list]
+
+[h3]Overlays are wobbling/jittering[/h3]
+
+[url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/395]Upstream issue[/url]
+
+This is a SteamVR bug and it can't really be fixed from the outside.
+
+There is some discussion in [url=https://www.reddit.com/r/virtualreality_linux/comments/yucy6i/steamvr_flickering_with_asyn_reprojection_solved/]this Reddit thread[/url] about some workarounds, but they can cause issues with some games.
+
+[hr]
 [h1]Acknowledgements[/h1]
+Many thanks to:[list]
+
+[*]All [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/graphs/master?ref_type=heads]contributors[/url]
 [*]Steam user [url=https://steamcommunity.com/id/tangoechoquebec]Teq[/url] for compiling [url=https://steamcommunity.com/app/250820/discussions/5/133257959064016658/]the original list here[/url] (please don't post on it)
 [*]Valve for [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux[/url] and [url=https://steamcommunity.com/app/250820/discussions/5/]the forum[/url]
 [*]Reddit communities [url=https://www.reddit.com/r/linux_gaming]/r/linux_gaming[/url] and [url=https://www.reddit.com/r/virtualreality_linux]/r/virtualreality_linux[/url]
 [*]IRC channel [url=https://web.libera.chat/#vronlinux]#vronlinux[/url] on [url=https://libera.chat/]irc.libera.chat[/url]
 [*]Players like you
+[/list]

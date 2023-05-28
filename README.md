@@ -113,6 +113,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
     * [Index camera does not work]
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
+* [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
 ### Unofficial OpenHMD Support
