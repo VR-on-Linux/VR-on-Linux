@@ -124,10 +124,12 @@ Some Oculus headsets are supported by [url=https://alvr-org.github.io/]ALVR[/url
 [quote]Stream VR games from your PC to your headset via Wi-Fi.
 ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated Rendering for a smoother experience.
 All games that work with an Oculus Rift (s) should work with ALVR.[/quote]
+[quote]Linux support is still in beta. To be able to make audio work or run ALVR at all you may need advanced knowledge of your distro for debugging or building from source.[/quote]
 ALVR currently supports:[list]
-[*]Oculus Quest
-[*]Oculus Quest 2
-[*]Oculus Go (no controller)[/list]
+[*]Oculus Quest 1/2/Pro
+[*]Pico 4/Neo 3
+[*]Vive Focus 3/XR Elite
+[*]YVR 1/2[/list]
 
 [h2]Graphics Cards[/h2]
 You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.

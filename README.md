@@ -141,11 +141,14 @@ Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air L
 > ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated Rendering for a smoother experience.\
 > All games that work with an Oculus Rift (s) should work with ALVR. 
 
+> Linux support is still in beta. To be able to make audio work or run ALVR at all you may need advanced knowledge of your distro for debugging or building from source.
+
 ALVR currently supports:
 
-* Oculus Quest
-* Oculus Quest 2
-* Oculus Go (no controller)
+* Oculus Quest 1/2/Pro
+* Pico 4/Neo 3
+* Vive Focus 3/XR Elite
+* YVR 1/2
 
 ### Graphics Cards 
 
