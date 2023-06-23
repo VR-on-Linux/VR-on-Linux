@@ -16,6 +16,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/473770]BallisticNG[/url] - [url=https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/]discussion[/url]
 [*][url=https://store.steampowered.com/app/744600/Balloonatics/]Balloonatics[/url]
 [*][url=https://store.steampowered.com/app/620980]Beat Saber[/url] - on Steam Play whitelist
+[*][url=https://github.com/NeoSpark314/BeepSaber]BeepSaber[/url] - native Beat Saber alternative using Godot
 [*][url=https://store.steampowered.com/app/570/]Dota 2[/url]
 [*][url=https://store.steampowered.com/app/650000]Doom VFR[/url] - on Steam Play whitelist
 [*][url=https://store.steampowered.com/app/366810]Dungeon Hero[/url]
@@ -44,7 +45,8 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/953370/ZED/]ZED[/url] - [url=https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/]dev post[/url][/list]
 
 [h3]Other Software[/h3][list]
-[*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - graphical Beat Saber mod installer 
+[*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - Beat Saber mod installer 
+[*][url=https://github.com/affederaffe/BeatSaberModManager]BeatSaberModManager[/url] - Beat Saber mod installer
 [*][url=https://bino3d.org]Bino[/url] - video player with a focus on 3D and VR
 [*][url=https://www.blender.org/]Blender[/url] - open source 3D graphics software (modeling, animation, etc.)
 [list][*]See [url=https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays]Configuring Peripherals[/url] in the Blender Manual[/list]

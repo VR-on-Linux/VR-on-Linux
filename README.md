@@ -17,6 +17,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [BallisticNG] - [discussion][ballisticng thread]
 * [Balloonatics]
 * [Beat Saber] - on Steam Play whitelist
+* [BeepSaber](https://github.com/NeoSpark314/BeepSaber) - native Beat Saber alternative using Godot
 * [Dota 2]
 * [Doom VFR] - on Steam Play whitelist
 * [Dungeon Hero]
@@ -46,7 +47,8 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 
 ##### Other Software
 
-* [Beataroni] - graphical Beat Saber mod installer
+* [Beataroni] - Beat Saber mod installer
+* [BeatSaberModManager](https://github.com/affederaffe/BeatSaberModManager) - Beat Saber mod installer
 * [Bino] - video player with a focus on 3D and VR
 * [Blender] - open source 3D graphics software (modeling, animation, etc.)
     * See [Configuring Peripherals] in the Blender Manual
