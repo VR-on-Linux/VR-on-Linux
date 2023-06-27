@@ -1,6 +1,4 @@
-Originally from an old thread on this forum, efforts moved to Gitlab, and now is on both.
-
-https://gitlab.com/vr-on-linux/VR-on-Linux
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984005943]Also available as a guide[/url] or [url=https://gitlab.com/vr-on-linux/VR-on-Linux]on Gitlab,[/url] which is mirrored [url=https://github.com/VR-on-Linux/VR-on-Linux]to Github.[/url]
 
 [h1]VR Software Status[/h1]
 Objective: Investigate software such as [url=https://store.steampowered.com/search?vrsupport=401%2C402&os=linux]these native titles on Steam[/url] to find whether they actually support virtual reality (VR) on Linux. In addition, [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play[/url] whitelisted software will also be tracked. Please post whatever issues you have.
@@ -182,7 +180,7 @@ If your HMD is listed in the output of `xrandr`, it probably means that it's ava
 The microphone of the Valve Index is kinda finnicky. Your best bet is to use PipeWire here.
 PulseAudio can be made to work, if you figure out the correct sample-rate and stuff.
 
-**Fix**
+[b]Fix[/b]
 [list][*]Use PipeWire
 [*](Maybe) Make sure you have selected the corresponding HDMI output (the Index won't capture the microphone otherwise?)[/list]
 
