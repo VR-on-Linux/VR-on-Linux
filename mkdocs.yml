@@ -47,7 +47,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: 'blue grey'
+      primary: 'light blue'
       accent: 'light green'
       toggle:
         icon: material/weather-sunny
