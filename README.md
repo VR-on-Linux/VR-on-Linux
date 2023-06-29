@@ -156,6 +156,8 @@ ALVR currently supports:
 
 You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.
 
+----
+
 # Troubleshooting
 
 ## SteamVR
