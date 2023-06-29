@@ -2,6 +2,8 @@ image: python:latest
 
 before_script:
   - pip install -r requirements.txt
+  - cp /README.md /docs/index.md
+  - cp /Proton/README.md /docs/proton.md
 
 test:
   stage: test
