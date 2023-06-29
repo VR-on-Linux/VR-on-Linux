@@ -1,6 +1,24 @@
-# The Docker image that will be used to build your app
-image: node:lts
-# Functions that should be executed before the build script is run
+image: python:latest
+
 before_script:
-  - pip install mkdocs
-  - pip install mkdocs-material
+  - pip install -r requirements.txt
+
+test:
+  stage: test
+  script:
+  - mkdocs build --strict --verbose --site-dir test
+  artifacts:
+    paths:
+    - test
+  rules:
+    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+
+pages:
+  stage: deploy
+  script:
+  - mkdocs build --strict --verbose
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

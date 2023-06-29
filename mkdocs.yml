@@ -1,0 +1,108 @@
+site_name: League of Linux · The Hub for Everything Riot Games on Linux
+site_url: https://leagueoflinux.org
+repo_url: https://gitlab.com/leagueoflinux/leagueoflinux.gitlab.io
+repo_name: League of Linux Wiki
+site_dir: public
+site_description: The Hub for Everything Riot Games on Linux
+site_author: acenomad
+copyright: Copyright Creative Commons Attribution-ShareAlike 4.0 International
+
+nav:
+  - '🏠 Home': index.md
+  - '🟢 Status and Notices': status.md
+  - '💬 Discuss': community.md
+  - '▶️ Install':
+    - '⭐ How to Install': install/index.md
+    - 'Lutris': install/lutris.md
+    - 'leagueoflegends-git': install/leagueoflegends_git.md
+    - 'Snap': install/snap.md
+    - 'Steam Deck': install/steam_deck.md
+    - 'Other': install/other.md
+  - '📈 Optimise': optimise/index.md
+  - '🛠️ Troubleshoot':
+    - '⭐ Troubleshooting and Technical Support': troubleshooting/index.md
+    - 'Common Problems and How to Solve Them': troubleshooting/solutions.md
+    - 'Logs': troubleshooting/logs.md
+    - 'Requests': troubleshooting/requests.md
+  - '⚙️ Technical Documentation':
+    - '⭐ README': tech_docs/index.md
+  - '🕹️ Other Riot Games on Linux':
+    - '⭐ Riot Games Catalogue': other_games/index.md
+    - '📱 Mobile on PC': other_games/mobile_on_pc.md
+    - 'Teamfight Tactics': other_games/teamfight_tactics.md
+    - 'Legends of Runeterra': other_games/legends_of_runeterra.md
+    - 'VALORANT': other_games/valorant.md
+    - 'Project L': other_games/project_l.md
+    - 'Wild Rift': other_games/wild_rift.md
+    - 'Ruined King': other_games/ruined_king.md
+    - 'Hextech Mayem': other_games/hextech_mayhem.md
+    - 'The Mageseeker': other_games/the_mageseeker.md
+    - 'CONV/RGENCE': other_games/convergence.md
+    - 'A Song of Nunu': other_games/song_of_nunu.md
+  - '❓ Frequently Asked Questions':
+    - 'General FAQ': faq/index.md
+    - 'Vanguard': faq/vanguard.md
+  - '🗃️ Archive':
+    - 'Archive': archive/index.md
+    - 'Patch Notes': archive/patch_threads.md
+  - 'ℹ️ About': about/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+theme:
+  name: 'material'
+  custom_dir: overrides
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  scheme: slate
+  features:
+    - search.highlight
+    - search.share
+    - header.autohide
+    - announce.dismiss
+
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'teal'
+      accent: 'amber'
+      toggle:
+        icon: material/weather-sunny
+        name: Toogle light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: 'teal'
+      accent: 'amber'
+      toggle:
+        icon: material/weather-night
+        name: Toggle dark mode
+
+extra:
+  social:
+    - icon: 'fontawesome/brands/gitlab'
+      link: 'https://gitlab.com/leagueoflinux/'
+    - icon: 'fontawesome/brands/reddit'
+      link: 'https://old.reddit.com/r/leagueoflinux'
+
+extra_css:
+  - stylesheets/extra.css
