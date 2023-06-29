@@ -240,6 +240,7 @@ Many thanks to:
 * Valve for [SteamVR] for Linux and [the forum]
 * Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
 * IRC channel [#vronlinux] on [irc.libera.chat](https://libera.chat/)
+* Acenomad for [LeagueofLinux.org](https://leagueoflinux.org/) which [VRonLinux.gitlab.io](https://VRonLinux.gitlab.io/) is based on
 * Players like you
 
 <!--Web Addresses (will not display)-->
