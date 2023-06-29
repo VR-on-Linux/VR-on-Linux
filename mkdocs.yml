@@ -32,7 +32,6 @@ markdown_extensions:
 
 theme:
   name: 'material'
-  custom_dir: overrides
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
