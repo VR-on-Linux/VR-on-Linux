@@ -1,0 +1,71 @@
+site_name: League of Linux · The Hub for Everything Riot Games on Linux
+site_url: https://leagueoflinux.org
+repo_url: https://gitlab.com/leagueoflinux/leagueoflinux.gitlab.io
+repo_name: League of Linux Wiki
+site_dir: public
+site_description: The Hub for Everything Riot Games on Linux
+site_author: acenomad
+copyright: Copyright Creative Commons Attribution-ShareAlike 4.0 International
+
+nav:
+  - '🏠 Home': index.md
+  - '🟢 Proton (Functional Titles)': proton.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+theme:
+  name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  scheme: slate
+  features:
+    - search.highlight
+    - search.share
+    - header.autohide
+    - announce.dismiss
+
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: 'teal'
+      accent: 'amber'
+      toggle:
+        icon: material/weather-sunny
+        name: Toogle light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
+      primary: 'teal'
+      accent: 'amber'
+      toggle:
+        icon: material/weather-night
+        name: Toggle dark mode
+
+extra:
+  social:
+    - icon: 'fontawesome/brands/gitlab'
+      link: 'https://gitlab.com/leagueoflinux/'
+    - icon: 'fontawesome/brands/reddit'
+      link: 'https://old.reddit.com/r/leagueoflinux'
+
+extra_css:
+  - stylesheets/extra.css

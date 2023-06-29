@@ -1,0 +1,26 @@
+image: python:latest
+
+before_script:
+  - pip install -r requirements.txt
+  - cp README.md ./docs/index.md
+  - cp ./Proton/README.md ./docs/proton.md
+
+test:
+  stage: test
+  script:
+  - mkdocs build --strict --verbose --site-dir test
+  artifacts:
+    paths:
+    - test
+  rules:
+    - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
+
+pages:
+  stage: deploy
+  script:
+  - mkdocs build --strict --verbose
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
