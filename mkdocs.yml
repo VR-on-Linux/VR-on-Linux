@@ -8,8 +8,8 @@ site_author: acenomad
 copyright: Copyright Creative Commons Attribution-ShareAlike 4.0 International
 
 nav:
-  - '🏠 Home': README.md
-  - '🟢 Proton (Unsupported but Works)': Proton/README.md
+  - '🏠 Home': index.md
+  - '🟢 Proton (Functional Titles)': proton.md
 
 plugins:
   - search
