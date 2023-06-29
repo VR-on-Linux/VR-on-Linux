@@ -47,15 +47,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: 'teal'
-      accent: 'amber'
+      primary: 'blue grey'
+      accent: 'light green'
       toggle:
         icon: material/weather-sunny
         name: Toogle light mode
     - media: "(prefers-color-scheme: light)"
       scheme: light
-      primary: 'teal'
-      accent: 'amber'
+      primary: 'blue grey'
+      accent: 'light green'
       toggle:
         icon: material/weather-night
         name: Toggle dark mode
