@@ -1,0 +1,6 @@
+# The Docker image that will be used to build your app
+image: node:lts
+# Functions that should be executed before the build script is run
+before_script:
+  - pip install mkdocs
+  - pip install mkdocs-material
