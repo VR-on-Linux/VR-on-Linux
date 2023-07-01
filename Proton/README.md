@@ -23,6 +23,7 @@ Also check out the list of native/supported VR hardware and software [on Gitlab]
 + [Borderlands 2 VR](https://store.steampowered.com/app/991260) - [ProtonDB](https://www.protondb.com/app/991260)
 + [BOXVR](https://store.steampowered.com/app/641960) - [ProtonDB](https://www.protondb.com/app/641960)
 + [Budget Cuts](https://store.steampowered.com/app/400940) - [ProtonDB](https://www.protondb.com/app/400940)
++ [ChilloutVR](https://store.steampowered.com/app/661130/) - [ProtonDB](https://www.protondb.com/app/661130)
 + [COMPOUND](https://store.steampowered.com/app/615120) - [ProtonDB](https://www.protondb.com/app/615120)
 + [Cosmic Trip](https://store.steampowered.com/app/427240) - [ProtonDB](https://www.protondb.com/app/427240)
 + [Crisis VRigade](https://store.steampowered.com/app/939000) - [ProtonDB](https://www.protondb.com/app/939000)

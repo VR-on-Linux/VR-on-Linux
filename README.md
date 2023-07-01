@@ -18,7 +18,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [Balloonatics]
 * [Beat Saber] - on Steam Play whitelist
 * [BeepSaber](https://github.com/NeoSpark314/BeepSaber) - native Beat Saber alternative using Godot
-* [Dota 2]
+<!-- * [Dota 2] (VR mode broke) -->
 * [Doom VFR] - on Steam Play whitelist
 * [Dungeon Hero]
 * [Everspace] - [dev comment][everspace dev]
