@@ -35,7 +35,7 @@ theme:
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
-  logo: 
+  logo: assets/icon.png
   favicon: 
   scheme: slate
   features:
