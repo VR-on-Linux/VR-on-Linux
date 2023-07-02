@@ -5,7 +5,7 @@
 Required for all mods which use scripting.
 The official SKSEVR release will not work with wine.
 
-This build does work: https://drive.google.com/file/d/1SBzd-yIGHA0dnQEWqkSt-sbzNyGJna_R/view
+This build does work: <https://drive.google.com/file/d/1SBzd-yIGHA0dnQEWqkSt-sbzNyGJna_R/view>
 
 - unpack in: `steamapps/common/SkyrimVR`
 - rename `SkyrimVR.exe` to `SkyrimVR-bak.exe`
@@ -20,7 +20,7 @@ This build does work: https://drive.google.com/file/d/1SBzd-yIGHA0dnQEWqkSt-sbzN
 The standard UI is a bit cumbersome to use in VR. 
 SkyUI is a nicer replacement and a requirement for VRIK.
 
-https://github.com/Odie/skyui-vr/releases/download/v1.0-beta.4/SkyUI-VR.v1.0-beta.4.7z
+<https://github.com/Odie/skyui-vr/releases/download/v1.0-beta.4/SkyUI-VR.v1.0-beta.4.7z>
 
 - unpack in: `steamapps/common/SkyrimVR`
 - in `SkyUI - VR` directory:
@@ -32,7 +32,7 @@ https://github.com/Odie/skyui-vr/releases/download/v1.0-beta.4/SkyUI-VR.v1.0-bet
 
 Adds hand interaction and Alyx style gravity gloves.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/43930
+<https://www.nexusmods.com/skyrimspecialedition/mods/43930>
 
 - unpack in: `steamapps/common/SkyrimVR/Data`
 
@@ -40,7 +40,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/43930
 
 Adds a player avatar, weapon holsters and gestures.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/23416
+<https://www.nexusmods.com/skyrimspecialedition/mods/23416>
 
 - download both VRIK + optional bindings file
 - unpack both in: `steamapps/common/SkyrimVR/Data`
@@ -72,7 +72,7 @@ In `steamapps/compatdata/611670/pfx/drive_c/users/steamuser/AppData/Local/Skyrim
 
 For binaural/positional audio.
 
-https://www.nexusmods.com/skyrimspecialedition/mods/1897
+<https://www.nexusmods.com/skyrimspecialedition/mods/1897>
 
 extract in `steamapps/common/SkyrimVR`
 
@@ -86,16 +86,16 @@ Some basic mods for better visuals.
 Need a mod manager to install these.
 
 See:
-- https://github.com/frostworx/steamtinkerlaunch
-- https://www.reddit.com/r/SteamTinkerLaunch/comments/q1785a/vortex_mod_manager_mod_organizer_2_specialk_added/
+- <https://github.com/frostworx/steamtinkerlaunch>
+- <https://www.reddit.com/r/SteamTinkerLaunch/comments/q1785a/vortex_mod_manager_mod_organizer_2_specialk_added/>
 
 ### Visual
-- SMIM: https://www.nexusmods.com/skyrimspecialedition/mods/659/
-- WICO: https://www.nexusmods.com/skyrimspecialedition/mods/2136
-- Onyx VR Weathers: https://www.nexusmods.com/skyrimspecialedition/mods/36227
-- Flora Overhaul (hurts performance a bit): https://www.nexusmods.com/skyrimspecialedition/mods/2154
+- SMIM: <https://www.nexusmods.com/skyrimspecialedition/mods/659/>
+- WICO: <https://www.nexusmods.com/skyrimspecialedition/mods/2136>
+- Onyx VR Weathers: <https://www.nexusmods.com/skyrimspecialedition/mods/36227>
+- Flora Overhaul (hurts performance a bit): <https://www.nexusmods.com/skyrimspecialedition/mods/2154>
 - Textures:
-	- https://www.nexusmods.com/skyrimspecialedition/mods/2347
+	- <https://www.nexusmods.com/skyrimspecialedition/mods/2347>
 
 ### Other
-- achievements mods enabler (Don't get punished for making the game playable): https://www.nexusmods.com/skyrimspecialedition/mods/245
+- achievements mods enabler (Don't get punished for making the game playable): <https://www.nexusmods.com/skyrimspecialedition/mods/245>
