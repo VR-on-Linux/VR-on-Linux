@@ -10,6 +10,7 @@ copyright: Copyright Creative Commons Attribution-ShareAlike 4.0 International
 nav:
   - '🏠 Native/Supported Titles': index.md
   - '🟢 Proton (Other Functional Titles)': proton.md
+  - '⚙️ Modding Skyrim VR': SkyrimVRModding.md
 
 plugins:
   - search
