@@ -15,7 +15,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/744600/Balloonatics/]Balloonatics[/url]
 [*][url=https://store.steampowered.com/app/620980]Beat Saber[/url] - on Steam Play whitelist
 [*][url=https://github.com/NeoSpark314/BeepSaber]BeepSaber[/url] - native Beat Saber alternative using Godot
-[*][url=https://store.steampowered.com/app/650000]Doom VFR[/url] - on Steam Play whitelist
+[*][url=https://store.steampowered.com/app/650000]Doom VFR[/url] - on Steam Play whitelist - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23]issue for AMD GPUs[/url]
 [*][url=https://store.steampowered.com/app/366810]Dungeon Hero[/url]
 [*][url=https://store.steampowered.com/app/396750]Everspace[/url] - [url=https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274]dev comment[/url]
 [*][url=https://store.steampowered.com/app/1481600/Fake_Racing/]Fake Racing[/url]
@@ -206,6 +206,10 @@ There is no real fix, as disabling asynchronous reprojection will just reduce th
 This is a SteamVR bug and it can't really be fixed from the outside.
 
 There is some discussion in [url=https://www.reddit.com/r/virtualreality_linux/comments/yucy6i/steamvr_flickering_with_asyn_reprojection_solved/]this Reddit thread[/url] about some workarounds, but they can cause issues with some games.
+
+[h3]Potential issues with newer versions[/h3]
+
+If experiencing issues with performance or with launching a specific title, try reverting SteamVR to an older version such as 1.14, which can be found under Library > Add "Tools" to filter > SteamVR > Properties > Betas. (Note: 1.14 is not compatible with Wayland and must be used with X11.)
 
 [hr]
 [h1]Acknowledgements[/h1]

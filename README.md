@@ -18,7 +18,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [Balloonatics]
 * [Beat Saber] - on Steam Play whitelist
 * [BeepSaber](https://github.com/NeoSpark314/BeepSaber) - native Beat Saber alternative using Godot
-* [Doom VFR] - on Steam Play whitelist
+* [Doom VFR] - on Steam Play whitelist - [issue for AMD GPUs](https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23)
 * [Dungeon Hero]
 * [Everspace] - [dev comment][everspace dev]
 * [Fake Racing]
@@ -229,6 +229,10 @@ There is no real fix, as disabling asynchronous reprojection will just reduce th
 This is a SteamVR bug and it can't really be fixed from the outside.
 
 There is some discussion in [this Reddit thread][overlay wobble workarounds] about some workarounds, but they can cause issues with some games.
+
+### Potential issues with newer versions
+
+If experiencing issues with performance or with launching a specific title, try reverting SteamVR to an older version such as 1.14, which can be found under Library > Add "Tools" to filter > SteamVR > Properties > Betas. (Note: 1.14 is not compatible with Wayland and must be used with X11.)
 
 ----
 
