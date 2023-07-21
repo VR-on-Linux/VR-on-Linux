@@ -206,19 +206,65 @@ PulseAudio can be made to work, if you figure out the correct sample-rate and st
 - Use PipeWire
 - (Maybe) Make sure you have selected the corresponding HDMI output (the Index won't capture the microphone otherwise?)
 
-### Double-vision when moving head
+### Double vision when moving head
 
-Asynchronous reprojection is broken in SteamVR on Linux. If games generate enough frames, you won't see this. But if the games framerate is too low, you will probably experience this.
-There is no real fix, as disabling asynchronous reprojection will just reduce the perceived framerate on your HMD.
+Asynchronous reprojection is broken on some AMD Vulkan drivers for Linux and possibly Nvidia (TODO: please test). If games generate enough frames, you won't see this, but otherwise, you probably will.
 
 **Fix**
+- Refer to *Use alternative Vulkan drivers* in order to try another driver
+
+**Fix, if all other options are exhausted**
+Either:
+- Reduce the resolution until reprojection is no longer an issue
+- Enable Legacy Reprojection Mode for the game, it performs better (which does the same as `enableLinuxVulkanAsync`?)
+- Use SteamVR 1.14, where reprojection works fine on RADV, refer to *Using older SteamVR versions*
 - Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`
+
+### Games crash before anything renders
+
+This is most likely caused by the Vulkan driver.
+
+**Fix**
+- Refer to "Use alternative Vulkan drivers" in order to try another driver
+
+### Use alternative Vulkan drivers
+
+#### AMD
+**Short overview of Vulkan drivers**
+- RADV: Ships with Mesa, required by SteamVR
+- AMDVLK: Open source, reprojection is not broken on SteamVR >1.14, may perform better than RADV
+- AMDGPU-PRO: Proprietary, reprojection is TODO, performs TODO
+
+**Instructions**
+1. Install AMDVLK drivers and optionally AMDGPU-PRO drivers, however the latter should not be installed system-wide, instead use [amdgpu-pro-vulkan-only](https://github.com/Frogging-Family/amdgpu-pro-vulkan-only)
+2. Since `AMD_VULKAN_ICD` causes issues (more on that [here](https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23#note_1472796145)), add these entries to `/etc/environment`, making RADV the default driver in the process:
+```
+DISABLE_LAYER_AMD_SWITCHABLE_GRAPHICS_1=1
+VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/radeon_icd.i686.json:/usr/share/vulkan/icd.d/radeon_icd.x86_64.json
+
+```
+3. In order to use AMDVLK or AMDGPU-PRO Vulkan drivers for games, set these variables **only** for the games (not SteamVR), appending `%command%` if it's a Steam game launch argument:
+- AMDVLK:
+```
+VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/amd_icd32.json:/usr/share/vulkan/icd.d/amd_icd64.json
+```
+- AMDGPU-PRO (depends on where it's installed):
+```
+VK_ICD_FILENAMES=/opt/amdgpu-pro/etc/vulkan/icd.d/amd_icd64.json:/opt/amdgpu-pro/etc/vulkan/icd.d/amd_icd32.json
+```
+
+#### Nvidia
+TODO
 
 ### Graphics artifacts in SteamVR and in overlays (AMDGPU)
 
 [Upstream issue][overlay wobble]
 
 **Fix**
+- (Applies to SteamVR >1.14) Reinstall SteamVR and reject superuser access, [setting `cap_sys_nice` causes issues](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/576)
+- Otherwise, use SteamVR 1.14 as per *Using older SteamVR versions*
+
+**Old fix**
 - Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=nodcc`
   - NOTE: You can add multiple options to `RADV_DEBUG` by separating them with a comma (`,`). Example: `RADV_DEBUG=zerovram,nodcc`
 
@@ -230,9 +276,21 @@ This is a SteamVR bug and it can't really be fixed from the outside.
 
 There is some discussion in [this Reddit thread][overlay wobble workarounds] about some workarounds, but they can cause issues with some games.
 
-### Potential issues with newer versions
+### Using older SteamVR versions
 
-If experiencing issues with performance or with launching a specific title, try reverting SteamVR to an older version such as 1.14, which can be found under Library > Add "Tools" to filter > SteamVR > Properties > Betas. (Note: 1.14 is not compatible with Wayland and must be used with X11.)
+SteamVR 1.14 is the version to fall back to in case of certain issues.
+
+**Note:** It does not work on Wayland and games run under Proton versions >5.13 won't work.
+
+On AMD, it fixes reprojection for games run with RADV, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
+
+**Instructions**
+1. Right click SteamVR in Steam
+2. Select **Properties...**
+3. Go to the **Betas** tab
+4. Under **Beta Participation**, select **linux_v1.14**
+5. Refer to [this issue comment](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/465#issuecomment-932174544) to fix vrwebhelper
+6. Select **Proton 5.13** for each Windows game you want to play with this SteamVR version
 
 ----
 
