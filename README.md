@@ -280,7 +280,7 @@ There is some discussion in [this Reddit thread][overlay wobble workarounds] abo
 
 SteamVR 1.14 is the version to fall back to in case of certain issues.
 
-**Note:** It does not work on Wayland and games run under Proton versions >5.13 won't work.
+**Note:** It does not work on Wayland.
 
 On AMD, it fixes reprojection for games run with RADV, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
 
@@ -290,7 +290,7 @@ On AMD, it fixes reprojection for games run with RADV, and doesn't crash or intr
 3. Go to the **Betas** tab
 4. Under **Beta Participation**, select **linux_v1.14**
 5. Refer to [this issue comment](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/465#issuecomment-932174544) to fix vrwebhelper
-6. Select **Proton 5.13** for each Windows game you want to play with this SteamVR version
+6. For each Windows Unity game or any other Windows game that crashes, select **Proton 5.13**, which should make the game playable
 
 ----
 
