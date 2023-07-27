@@ -15,6 +15,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/744600/Balloonatics/]Balloonatics[/url]
 [*][url=https://store.steampowered.com/app/620980]Beat Saber[/url] - on Steam Play whitelist
 [*][url=https://github.com/NeoSpark314/BeepSaber]BeepSaber[/url] - native Beat Saber alternative using Godot
+[*][url=https://store.steampowered.com/app/650000]Doom VFR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23]issue for AMD GPUs[/url]
 [*][url=https://store.steampowered.com/app/366810]Dungeon Hero[/url]
 [*][url=https://store.steampowered.com/app/396750]Everspace[/url] - [url=https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274]dev comment[/url]
 [*][url=https://store.steampowered.com/app/1481600/Fake_Racing/]Fake Racing[/url]
