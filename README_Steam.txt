@@ -154,7 +154,7 @@ You can tell the RADV driver to always zero the frame buffer to avoid this. I am
 If you have environment variables that force Qt or SDL apps to run in Wayland mode, SteamVR might not start at all.
 
 [b]Fix[/b]
-[list][*]Add these environment variables to the launch options of SteamVR: `QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11`[/list]
+[list][*]Add these environment variables to the launch options of SteamVR: [code]QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11[/code][/list]
 
 [h3]SteamVR does not use direct mode on Wayland (window appears on monitor)[/h3]
 
@@ -162,7 +162,7 @@ If this has never worked for you on Wayland, make sure your compositor supports 
 
 [b]Fix[/b]
 [list][*]Use a compositor that supports `wp_drm_lease_device_v1`
-[*]Make sure your XWayland version supports `wp_drm_lease_device_v1` (X.Org 22.1.0+)[/list]
+[*]Make sure your XWayland version supports `wp_drm_lease_device_v1` ([noparse]X.Org[/noparse] 22.1.0+)[/list]
 
 [h3]SteamVR *occasionally* does not use direct mode on Wayland (window appears on monitor)[/h3]
 
@@ -185,17 +185,66 @@ PulseAudio can be made to work, if you figure out the correct sample-rate and st
 
 [h3]Double-vision when moving head[/h3]
 
-Asynchronous reprojection is broken in SteamVR on Linux. If games generate enough frames, you won't see this. But if the games framerate is too low, you will probably experience this.
-There is no real fix, as disabling asynchronous reprojection will just reduce the perceived framerate on your HMD.
+Asynchronous reprojection is broken on some AMD Vulkan drivers for Linux and possibly Nvidia (TODO: please test). If games generate enough frames, you won't see this, but otherwise, you probably will.
 
 [b]Fix[/b]
-[list][*]Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`[/list]
+[list]
+[*]Refer to [i]Use alternative Vulkan drivers[/i] in order to try another driver
+[/list]
+
+[b]Fix, if all other options are exhausted[/b]
+Either:
+[list]
+[*]Reduce the resolution until reprojection is no longer an issue
+[*]Enable Legacy Reprojection Mode for the game, it performs better (which does the same as `enableLinuxVulkanAsync`?)
+[*]Use SteamVR 1.14, where reprojection works fine on RADV, refer to [i]Using older SteamVR versions[/i]
+[*]Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`[/list]
+
+[h3]Games crash before anything renders[/h3]
+
+This is most likely caused by the Vulkan driver.
+
+[b]Fix[/b]
+[list]
+[*]Refer to "Use alternative Vulkan drivers" in order to try another driver
+[/list]
+
+[h3]Use alternative Vulkan drivers[/h3]
+
+[b][u]AMD[/u][/b]
+
+[b]Short overview of Vulkan drivers[/b]
+[list]
+[*]RADV: Ships with Mesa, required by SteamVR
+[*]AMDVLK: Open source, reprojection is not broken on SteamVR >1.14, may perform better than RADV
+[*]AMDGPU-PRO: Proprietary, reprojection is TODO, performs TODO
+[/list]
+
+[b]Instructions[/b]
+[olist]
+[*]Install AMDVLK drivers and optionally AMDGPU-PRO drivers, however the latter should not be installed system-wide, instead use [url=https://github.com/Frogging-Family/amdgpu-pro-vulkan-only]amdgpu-pro-vulkan-only[/url]
+[*]Since AMD_VULKAN_ICD causes issues (more on that [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23#note_1472796145]here[/url]), add these entries to `/etc/environment`, making RADV the default driver in the process:
+[code]DISABLE_LAYER_AMD_SWITCHABLE_GRAPHICS_1=1
+VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/radeon_icd.i686.json:/usr/share/vulkan/icd.d/radeon_icd.x86_64.json[/code]
+[*]In order to use AMDVLK or AMDGPU-PRO Vulkan drivers for games, set these variables [b]only[/b] for the games (not SteamVR), appending %command% if it's a Steam game launch argument:
+[list][*]AMDVLK: VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/amd_icd32.json:/usr/share/vulkan/icd.d/amd_icd64.json
+[*]AMDGPU-PRO (depends on where it's installed): VK_ICD_FILENAMES=/opt/amdgpu-pro/etc/vulkan/icd.d/amd_icd64.json:/opt/amdgpu-pro/etc/vulkan/icd.d/amd_zricd32.json[/list][/olist]
+
+[b][u]Nvidia[/u][/b]
+
+TODO
 
 [h3]Graphics artifacts in SteamVR and in overlays (AMDGPU)[/h3]
 
 [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/395]Upstream issue[/url]
 
-[b]Fix[/b]
+[list]
+[*](Applies to SteamVR >1.14) Reinstall SteamVR and reject superuser access, [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/576]setting `cap_sys_nice` causes issues[/url]
+[*]Otherwise, use SteamVR 1.14 as per [i]Using older SteamVR versions[/i]
+[/list]
+
+[b]Old fix[/b]
+
 [list][*]Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=nodcc`
 [list][*]NOTE: You can add multiple options to `RADV_DEBUG` by separating them with a comma (`,`). Example: `RADV_DEBUG=zerovram,nodcc`[/list][/list]
 
@@ -207,9 +256,23 @@ This is a SteamVR bug and it can't really be fixed from the outside.
 
 There is some discussion in [url=https://www.reddit.com/r/virtualreality_linux/comments/yucy6i/steamvr_flickering_with_asyn_reprojection_solved/]this Reddit thread[/url] about some workarounds, but they can cause issues with some games.
 
-[h3]Potential issues with newer versions[/h3]
+### Using older SteamVR versions
 
-If experiencing issues with performance or with launching a specific title, try reverting SteamVR to an older version such as 1.14, which can be found under Library > Add "Tools" to filter > SteamVR > Properties > Betas. (Note: 1.14 is not compatible with Wayland and must be used with X11.)
+SteamVR 1.14 is the version to fall back to in case of certain issues.
+
+[b]Note:[/b] It does not work on Wayland.
+
+On AMD, it fixes reprojection for games run with RADV, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
+
+[b]Instructions[/b]
+[olist]
+[*]Right click SteamVR in Steam
+[*]Select [b]Properties...[/b]
+[*]Go to the [b]Betas[/b] tab
+[*]Under [b]Beta Participation[/b], select [b]linux_v1.14[/b]
+[*]Refer to [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/465#issuecomment-932174544]this issue comment[/url] to fix vrwebhelper
+[*]For each Windows Unity game or any other Windows game that crashes, select [b]Proton 5.13[/b], which should make the game playable
+[/olist]
 
 [hr]
 [h1]Acknowledgements[/h1]
