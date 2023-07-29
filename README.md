@@ -106,11 +106,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 ### Confirmed Working
 
 * HTC Vive/Vive Pro and Valve Index via [SteamVR] (development beta)
-    * [Bluetooth does not work]
-        * [No power management for base stations]
-          * v1 (Vive) workaround: [lhctrl] (for Vive)
-          * v2 (Index, Vive Pro): [Lighthouse PM] (Android), [lh2ctrl], [lighthouse-v2-manager]
-          * v1 or v2: [steamvr_utils](https://github.com/DavidRisch/steamvr_utils)
+    * [Index base station updates do not work]
     * [Index camera does not work]
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
@@ -438,6 +434,7 @@ Many thanks to:
   [Lighthouse PM]: https://github.com/jeroen1602/lighthouse_pm
   [lighthouse-v2-manager]: https://github.com/nouser2013/lighthouse-v2-manager
   [Bluetooth does not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96
+  [Index base station updates do not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/294
   [Index camera does not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231
   [ArchWiki: Oculus Rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
   [These currently lack positional tracking functionality]: http://www.openhmd.net/index.php/devices/

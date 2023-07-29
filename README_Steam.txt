@@ -92,13 +92,8 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 [hr]
 [h1]VR Hardware Status[/h1]
 [h2]Confirmed Working[/h2][list]
-[*]HTC Vive/Vive Pro and Valve Index via SteamVR -
-[url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux Github[/url] (development beta)
-[list][*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/96]Bluetooth does not work[/url][/list]
-[list][*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320]No power management for base stations[/url]
-[list][*]v1 (Vive) workaround: [url=https://github.com/risa2000/lhctrl]lhctrl[/url]
-[*]v2 (Index, Vive Pro): [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lh2ctrl]lh2ctrl[/url], [url=https://github.com/nouser2013/lighthouse-v2-manager]lighthouse-v2-manager[/url]
-[*]v1 or v2: [url=https://github.com/DavidRisch/steamvr_utils]steamvr_utils[/url][/list]
+[*]HTC Vive/Vive Pro and Valve Index via [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR[/url] (development beta)
+[list][*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/294]Index base station updates do not work[/url]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list]
 [*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
 [*][url=https://tundra-labs.com/]Tundra Trackers[/url]
