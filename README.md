@@ -204,17 +204,13 @@ PulseAudio can be made to work, if you figure out the correct sample-rate and st
 
 ### Double vision when moving head
 
-Asynchronous reprojection is broken on some AMD Vulkan drivers for Linux and possibly Nvidia (TODO: please test). If games generate enough frames, you won't see this, but otherwise, you probably will.
+On SteamVR versions >1.14, asynchronous reprojection is broken on all drivers and hardware. If games generate enough frames, you won't see this, but otherwise, you probably will.
 
 **Fix**
-- Refer to *Use alternative Vulkan drivers* in order to try another driver
-
-**Fix, if all other options are exhausted**
 Either:
-- Reduce the resolution until reprojection is no longer an issue
-- Enable Legacy Reprojection Mode for the game, it performs better (which does the same as `enableLinuxVulkanAsync`?)
-- Use SteamVR 1.14, where reprojection works fine on RADV, refer to *Using older SteamVR versions*
-- Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`
+- Use SteamVR 1.14, refer to *Using older SteamVR versions*
+- Enable Legacy Reprojection Mode for each game, then reduce the resolution until the experience is stable (otherwise a similar effect will be present)
+- If asynchronous reprojection causes issues on SteamVR 1.14, disable it by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`
 
 ### Games crash before anything renders
 
@@ -250,7 +246,7 @@ VK_ICD_FILENAMES=/opt/amdgpu-pro/etc/vulkan/icd.d/amd_icd64.json:/opt/amdgpu-pro
 ```
 
 #### Nvidia
-TODO
+NVK driver has become part of Mesa, however it is not finished yet and does not yield the expected performance.
 
 ### Graphics artifacts in SteamVR and in overlays (AMDGPU)
 
@@ -278,7 +274,7 @@ SteamVR 1.14 is the version to fall back to in case of certain issues.
 
 **Note:** It does not work on Wayland.
 
-On AMD, it fixes reprojection for games run with RADV, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
+It fixes asynchronous reprojection, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
 
 **Instructions**
 1. Right click SteamVR in Steam
