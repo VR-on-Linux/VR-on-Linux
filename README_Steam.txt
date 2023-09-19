@@ -26,6 +26,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/549000]Munch VR[/url] - [url=https://steamcommunity.com/games/549000/announcements/detail/254855783331915882]announcement[/url]
 [*][url=https://store.steampowered.com/app/740250/Neos_VR/]Neos VR[/url] - [url=https://store.steampowered.com/newshub/app/740250/view/3300515414498852519]announcement[/url]
 [*][url=https://gitlab.com/madsbuvi/openmw]OpenMW (VR fork)[/url] - [url=https://gitlab.com/madsbuvi/openmw/-/issues/33#note_441945362]issue[/url]
+[*][url=https://github.com/Gistix/portal2vr]Portal 2 VR[/url] (mod) - [url=https://youtu.be/iM-ooCtjbl0]video[/url]
 [*][url=https://store.steampowered.com/app/379420]Polynomial 2[/url] - [url=https://steamcommunity.com/app/379420/discussions/0/135512305401923487/?tscn=1501357291#c1471966894875192367]discussion[/url]
 [*][url=https://github.com/Codes4Fun/RBDOOM-3-BFG]RBDOOM-3-BFG[/url]
 [*][url=https://store.steampowered.com/app/564310]Serious Sam Fusion 2017[/url]
@@ -42,7 +43,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/953370/ZED/]ZED[/url] - [url=https://www.reddit.com/r/linux_gaming/comments/c5ry16/zed_releases_for_linux_today_this_game_was/]dev post[/url][/list]
 
 [h3]Other Software[/h3][list]
-[*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - Beat Saber mod installer 
+[*][url=https://github.com/geefr/beatsaber-linux-goodies/tree/live/Beataroni]Beataroni[/url] - graphical Beat Saber mod installer 
 [*][url=https://github.com/affederaffe/BeatSaberModManager]BeatSaberModManager[/url] - Beat Saber mod installer
 [*][url=https://bino3d.org]Bino[/url] - video player with a focus on 3D and VR
 [*][url=https://www.blender.org/]Blender[/url] - open source 3D graphics software (modeling, animation, etc.)
