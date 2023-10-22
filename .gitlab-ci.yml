@@ -5,6 +5,7 @@ before_script:
   - cp ./README.md ./docs/index.md
   - cp ./Proton/README.md ./docs/proton.md
   - cp ./SkyrimVRModding.md ./docs/SkyrimVRModding.md
+  - cp ./CONTRIBUTING.md ./docs/CONTRIBUTING.md
 
 test:
   stage: test
