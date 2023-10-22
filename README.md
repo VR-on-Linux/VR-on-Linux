@@ -292,12 +292,12 @@ It fixes asynchronous reprojection, and doesn't crash or introduce graphics arti
 
 Many thanks to:
 
-* All [contributors]
+* All contributors [on Gitlab] and in Steam comments
 * Steam user [Teq] for compiling [the old list] (please don't post on it)
 * Valve for [SteamVR] for Linux and [the forum]
 * Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
 * IRC channel [#vronlinux] on [irc.libera.chat](https://libera.chat/)
-* Acenomad for [LeagueofLinux.org](https://leagueoflinux.org/) which [VRonLinux.gitlab.io](https://VRonLinux.gitlab.io/) is based on
+* [MkDocs,](https://www.mkdocs.org/) [Material for MkDocs,](https://squidfunk.github.io/mkdocs-material/) and [LeagueofLinux.org](https://leagueoflinux.org/) which [VRonLinux.org](https://vronlinux.org) is based on
 * Players like you
 
 <!--Web Addresses (will not display)-->
@@ -445,7 +445,7 @@ Many thanks to:
 
 <!--Acknowledgements-->
 
-  [contributors]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/graphs/master?ref_type=heads
+  [on Gitlab]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/graphs/master?ref_type=heads
   [Teq]: https://steamcommunity.com/id/tangoechoquebec
   [the old list]: https://steamcommunity.com/app/250820/discussions/5/133257959064016658/
   [SteamVR]: https://github.com/ValveSoftware/SteamVR-for-Linux
