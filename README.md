@@ -279,6 +279,7 @@ SteamVR 1.14 is the version to fall back to in case of certain issues.
 It fixes asynchronous reprojection, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
 
 **Instructions**
+
 1. Right click SteamVR in Steam
 2. Select **Properties...**
 3. Go to the **Betas** tab
