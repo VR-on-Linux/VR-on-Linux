@@ -61,6 +61,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://github.com/ChristophHaag/soundstagevr]SoundStage VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/5#note_93726156]Linux builds[/url] - music app
 [*][url=https://vircadia.com]Vircadia[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/13]issues[/url] - open source social VR metaverse, successor of High Fidelity
 [*][url=https://git.dec05eba.com/vr-video-player/about/]vr-video-player[/url] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
+[*][url=https://github.com/galister/WlxOverlay]WlxOverlay[/url] - lightweight OpenVR overlay for Wayland and X11 desktops
 [*][url=https://gitlab.freedesktop.org/xrdesktop/xrdesktop]xrdesktop[/url] - [url=https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html]Announcement[/url] - interact with the Linux desktop in XR[/list]
 
 [h2]Confirmed Planned[/h2]
