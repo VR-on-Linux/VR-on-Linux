@@ -275,10 +275,11 @@ On AMD, it fixes reprojection for games run with RADV, and doesn't crash or intr
 [h1]Acknowledgements[/h1]
 Many thanks to:[list]
 
-[*]All [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/graphs/master?ref_type=heads]contributors[/url]
+[*]All contributors [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/graphs/master?ref_type=heads]on Gitlab[/url] and in Steam comments
 [*]Steam user [url=https://steamcommunity.com/id/tangoechoquebec]Teq[/url] for compiling [url=https://steamcommunity.com/app/250820/discussions/5/133257959064016658/]the original list here[/url] (please don't post on it)
 [*]Valve for [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux[/url] and [url=https://steamcommunity.com/app/250820/discussions/5/]the forum[/url]
 [*]Reddit communities [url=https://www.reddit.com/r/linux_gaming]/r/linux_gaming[/url] and [url=https://www.reddit.com/r/virtualreality_linux]/r/virtualreality_linux[/url]
 [*]IRC channel [url=https://web.libera.chat/#vronlinux]#vronlinux[/url] on [url=https://libera.chat/]irc.libera.chat[/url]
+[*][url=https://www.mkdocs.org/]MkDocs,[/url] [url=https://squidfunk.github.io/mkdocs-material/]Material for MkDocs,[/url] and [url=https://leagueoflinux.org/]League of Linux[/url] which [url=https://vronlinux.org]VRonLinux.org[/url] is based on
 [*]Players like you
 [/list]
