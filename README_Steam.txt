@@ -280,6 +280,6 @@ Many thanks to:[list]
 [*]Valve for [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux[/url] and [url=https://steamcommunity.com/app/250820/discussions/5/]the forum[/url]
 [*]Reddit communities [url=https://www.reddit.com/r/linux_gaming]/r/linux_gaming[/url] and [url=https://www.reddit.com/r/virtualreality_linux]/r/virtualreality_linux[/url]
 [*]IRC channel [url=https://web.libera.chat/#vronlinux]#vronlinux[/url] on [url=https://libera.chat/]irc.libera.chat[/url]
-[*][url=https://www.mkdocs.org/]MkDocs,[/url] [url=https://squidfunk.github.io/mkdocs-material/]Material for MkDocs,[/url] and [url=https://leagueoflinux.org/]League of Linux[/url] which [url=https://vronlinux.org]VRonLinux.org[/url] is based on
+[*][url=https://www.mkdocs.org/]MkDocs,[/url] [url=https://squidfunk.github.io/mkdocs-material/]Material for MkDocs,[/url] and [url=https://leagueoflinux.org/]League of Linux[/url] which [url=https://vronlinux.org]VRonLinux[/url] is based on
 [*]Players like you
 [/list]
