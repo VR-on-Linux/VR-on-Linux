@@ -96,6 +96,8 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 [h2]Confirmed Working[/h2][list]
 [*]HTC Vive/Vive Pro and Valve Index via [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR[/url] (development beta)
 [list][*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/294]Index base station updates do not work[/url]
+[*]Vive/1.0 [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320]base station power management[/url] does not work
+[list][*]Try: [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lhctrl]lhctrl[/url]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list]
 [*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
 [*][url=https://tundra-labs.com/]Tundra Trackers[/url]

@@ -108,8 +108,10 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 ### Confirmed Working
 
 * HTC Vive/Vive Pro and Valve Index via [SteamVR] (development beta)
-    * [Index base station updates do not work]
-    * [Index camera does not work]
+  * [Index base station updates do not work]
+  * [Index camera does not work]
+  * Vive/1.0 [base station power management] does not work
+    * Try: [Lighthouse PM] (Android), [lhctrl]
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
 * [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
@@ -427,7 +429,7 @@ Many thanks to:
 
 <!--VR Hardware Status-->
 
-  [No power management for base stations]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
+  [base station power management]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
   [lhctrl]: https://github.com/risa2000/lhctrl
   [lh2ctrl]: https://github.com/risa2000/lh2ctrl
   [Lighthouse PM]: https://github.com/jeroen1602/lighthouse_pm
