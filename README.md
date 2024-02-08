@@ -359,7 +359,7 @@ Many thanks to:
   [Configuring Peripherals]: https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays
   [Exokit]: https://github.com/webmixedreality/exokit
   [FreeCAD]: https://github.com/kwahoo2/FreeCAD/releases
-  [Gaia Sky VR]: https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme
+  [Gaia Sky VR]: https://codeberg.org/gaiasky/gaiasky/src/branch/master/VR.md
   [Godot]: https://godotengine.org/
   [godot plugin]: https://github.com/GodotVR/godot_openvr
   [libsurvive]: https://github.com/cntools/libsurvive
