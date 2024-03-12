@@ -52,21 +52,27 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [Bino] - video player with a focus on 3D and VR
 * [Blender] - open source 3D graphics software (modeling, animation, etc.)
     * See [Configuring Peripherals] in the Blender Manual
+* [Envision] - experimental graphical tool to get you a full Monado or WiVRn setup up and running (unstable)
 * [Exokit] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3) - VR/AR/XR engine for JavaScript
 * [FreeCAD] OpenXR fork - open source CAD modeling software
 * [Gaia Sky VR] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4) - 3D universe application
 * [Godot] - open source game engine, requires [plugin][godot plugin]
 * [libsurvive] - open source Lighthouse tracking system
+* [LÖVR](https://lovr.org/) - Lua XR engine, written in C, which supports overlays on monado
+    * [lovr-playspace](https://github.com/SpookySkeletons/lovr-playspace) - Room boundary overlay for OpenXR, made with LÖVR
 * [Monado] - [blog post][monado post] - free and open source [OpenXR][openxr] runtime
 * [Open Brush] - [Linux builds][openbrush builds] - fork of the open sourced 3D painting app Tilt Brush
+* [OpenComposite](https://gitlab.com/znixian/OpenOVR) - Reimplementation of OpenVR, translating calls to OpenXR - play SteamVR games without SteamVR
 * [Overte] - open-source social VR metaverse, non-profit fork of Vircadia
 * [ShellSaber] - Beat Saber mod manager written in POSIX-compliant shell script
 * [Simula] - VR window manager for Linux that runs on top of Godot
+* [Stardust XR](https://stardustxr.org/) - XR display server for Linux-based distros - allows developers to make XR widgets or interfaces, run them among others
 * [SteamVR] - Valve's VR software system
 * [SoundStage VR] - [Linux builds][soundstage-linux] - music app
 * [Unreal Engine] - proprietary game engine; VR on Linux with 4.16+
 * [Vircadia](https://vircadia.com) - [issues](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/13) - open source social VR metaverse, successor of High Fidelity
 * [vr-video-player] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
+* [WiVRn](https://github.com/Meumeu/WiVRn) - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
 * [WlxOverlay-S](https://github.com/galister/wlx-overlay-s) - access your Wayland/X11 desktop from within SteamVR/Monado 
 * [xrdesktop] - [Announcement][xrdesktop post] - interact with the Linux desktop in XR
 
@@ -300,6 +306,7 @@ Many thanks to:
 * Valve for [SteamVR] for Linux and [the forum]
 * Reddit communities [/r/linux_gaming] and [/r/virtualreality_linux]
 * IRC channel [#vronlinux] on [irc.libera.chat](https://libera.chat/)
+* [Linux VR Adventures wiki] and [community]
 * [MkDocs,](https://www.mkdocs.org/) [Material for MkDocs,](https://squidfunk.github.io/mkdocs-material/) and [LeagueofLinux.org](https://leagueoflinux.org/) which [VRonLinux.org](https://vronlinux.org) is based on
 * Players like you
 
@@ -456,3 +463,5 @@ Many thanks to:
   [/r/linux_gaming]: https://www.reddit.com/r/linux_gaming
   [/r/virtualreality_linux]: https://www.reddit.com/r/virtualreality_linux
   [#vronlinux]: https://web.libera.chat/#vronlinux
+  [Linux VR Adventures wiki]: https://lvra.gitlab.io/
+  [community]: https://lvra.gitlab.io/docs/community/
