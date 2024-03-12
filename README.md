@@ -52,7 +52,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [Bino] - video player with a focus on 3D and VR
 * [Blender] - open source 3D graphics software (modeling, animation, etc.)
     * See [Configuring Peripherals] in the Blender Manual
-* [Envision] - experimental graphical tool to get you a full Monado or WiVRn setup up and running (unstable)
+* [Envision](https://gitlab.com/gabmus/envision) - experimental graphical tool to get you a full Monado or WiVRn setup up and running (unstable)
 * [Exokit] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3) - VR/AR/XR engine for JavaScript
 * [FreeCAD] OpenXR fork - open source CAD modeling software
 * [Gaia Sky VR] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4) - 3D universe application
@@ -152,10 +152,11 @@ Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air L
 
 ALVR currently supports:
 
-* Oculus Quest 1/2/Pro
+* Oculus Quest 1/2/3/Pro
 * Pico 4/Neo 3
 * Vive Focus 3/XR Elite
 * YVR 1/2
+* Lynx R1
 
 ### Graphics Cards 
 
