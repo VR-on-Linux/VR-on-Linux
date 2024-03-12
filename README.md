@@ -123,23 +123,6 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 * [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
-### Unofficial OpenHMD Support
-
-[These currently lack positional tracking functionality], and not as many games support OpenHMD yet.
-
-* Oculus Rift S
-* Microsoft Mixed Reality
-* PSVR
-
-These have experimental positional tracking support [from a development branch].
-
-* Oculus Rift CV1
-* Oculus Rift DK2
-
-Also check out [Monado], the free and open source [OpenXR] implementation. It relies on OpenHMD for some devices.
-
-If you want official Linux support for the Oculus Rift, [add your vote here]. If you want, leave a nice comment, too.
-
 ### Unofficial ALVR Support (Experimental)
 
 Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air Light VR).
@@ -446,9 +429,7 @@ Many thanks to:
   [Index base station updates do not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/294
   [Index camera does not work]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231
   [ArchWiki: Oculus Rift]: https://wiki.archlinux.org/index.php/Oculus_Rift
-  [These currently lack positional tracking functionality]: http://www.openhmd.net/index.php/devices/
   [from a development branch]: https://github.com/thaytan/OpenHMD/tree/rift-kalman-filter
-  [add your vote here]: https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support
   
 <!--SteamVR issues-->
   [overlay wobble]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/395
