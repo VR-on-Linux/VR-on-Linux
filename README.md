@@ -66,6 +66,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [Overte] - open-source social VR metaverse, non-profit fork of Vircadia
 * [ShellSaber] - Beat Saber mod manager written in POSIX-compliant shell script
 * [Simula] - VR window manager for Linux that runs on top of Godot
+* [SPHVR](https://gitlab.com/lubosz/sphvr) - spherical media player using Vulkan for rendering - can play stereoscopic videos to your headset
 * [Stardust XR](https://stardustxr.org/) - XR display server for Linux-based distros - allows developers to make XR widgets or interfaces, run them among others
 * [SteamVR] - Valve's VR software system
 * [SoundStage VR] - [Linux builds][soundstage-linux] - music app
