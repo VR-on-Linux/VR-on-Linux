@@ -126,7 +126,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 
 ### Unofficial ALVR Support (Experimental)
 
-Some Oculus headsets are supported by [ALVR](https://alvr-org.github.io/) (Air Light VR).
+Some Oculus headsets are supported by [ALVR](https://github.com/alvr-org/alvr) (Air Light VR).
 
 > Stream VR games from your PC to your headset via Wi-Fi.\
 > ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated Rendering for a smoother experience.\
