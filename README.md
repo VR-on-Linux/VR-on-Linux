@@ -114,12 +114,12 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 
 ### Confirmed Working
 
-* HTC Vive/Vive Pro and Valve Index via [SteamVR] (development beta)
+* HTC Vive/Vive Pro and [Valve Index] via [SteamVR] (development beta)
     * [Index base station updates do not work]
     * [Index camera does not work]
     * Vive/1.0 [base station power management] does not work
         * Try: [Lighthouse PM] (Android), [lhctrl]
-* Bigscreen Beyond - does not work [on Nvidia], but works with [Monado] on AMD with a [kernel patch]; SteamVR works on AMD after Monado has run
+* [Bigscreen Beyond] - does not work [on Nvidia], but works with [Monado] on AMD with a [kernel patch]; SteamVR works on AMD after Monado has run
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
 * [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
@@ -422,6 +422,8 @@ Many thanks to:
 
 <!--VR Hardware Status-->
   
+  [Valve Index]: https://www.valvesoftware.com/en/index
+  [Bigscreen Beyond]: https://www.bigscreenvr.com/
   [on Nvidia]: https://forums.developer.nvidia.com/t/bigscreen-beyond-hmd-unable-to-be-initialized-on-nvidia-possibly-due-to-dsc-bpp-issue/294108
   [kernel patch]: https://gist.github.com/TayouVR/af8635a4b8e1d02d038be1be1d221c83
   [base station power management]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
