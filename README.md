@@ -119,6 +119,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
     * [Index camera does not work]
     * Vive/1.0 [base station power management] does not work
         * Try: [Lighthouse PM] (Android), [lhctrl]
+* Bigscreen Beyond - does not work [on Nvidia], but works with [Monado] on AMD with a [kernel patch]; SteamVR works on AMD after Monado has run
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
 * [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
@@ -420,7 +421,9 @@ Many thanks to:
   [tilt brush post]: https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623
 
 <!--VR Hardware Status-->
-
+  
+  [on Nvidia]: https://forums.developer.nvidia.com/t/bigscreen-beyond-hmd-unable-to-be-initialized-on-nvidia-possibly-due-to-dsc-bpp-issue/294108
+  [kernel patch]: https://gist.github.com/TayouVR/af8635a4b8e1d02d038be1be1d221c83
   [base station power management]: https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320
   [lhctrl]: https://github.com/risa2000/lhctrl
   [lh2ctrl]: https://github.com/risa2000/lh2ctrl
