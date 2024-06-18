@@ -13,7 +13,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [h3]Games[/h3][list]
 [*][url=https://store.steampowered.com/app/473770]BallisticNG[/url] - [url=https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/]discussion[/url]
 [*][url=https://store.steampowered.com/app/744600/Balloonatics/]Balloonatics[/url]
-[*][url=https://store.steampowered.com/app/620980]Beat Saber[/url] - on Steam Play whitelist
+[*][url=https://store.steampowered.com/app/620980]Beat Saber[/url] - on Steam Play whitelist - also see this [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2337011257]modding guide[/url]
 [*][url=https://github.com/NeoSpark314/BeepSaber]BeepSaber[/url] - native Beat Saber alternative using Godot
 [*][url=https://store.steampowered.com/app/650000]Doom VFR[/url] - on Steam Play whitelist - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23]issue for AMD GPUs[/url]
 [*][url=https://store.steampowered.com/app/366810]Dungeon Hero[/url]

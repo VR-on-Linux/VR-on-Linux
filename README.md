@@ -16,7 +16,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 
 * [BallisticNG] - [discussion][ballisticng thread]
 * [Balloonatics]
-* [Beat Saber] - on Steam Play whitelist
+* [Beat Saber] - on Steam Play whitelist - also see this [modding guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2337011257)
 * [BeepSaber](https://github.com/NeoSpark314/BeepSaber) - native Beat Saber alternative using Godot
 * [Doom VFR] - on Steam Play whitelist - [issue for AMD GPUs](https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23)
 * [Dungeon Hero]
