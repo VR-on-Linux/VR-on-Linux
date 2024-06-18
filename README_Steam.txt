@@ -1,4 +1,4 @@
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984005943]Also available as a guide[/url] or [url=https://gitlab.com/vr-on-linux/VR-on-Linux]on Gitlab,[/url] which is mirrored [url=https://github.com/VR-on-Linux/VR-on-Linux]to Github.[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984005943]Also available as a guide[/url] and [url=https://vronlinux.org/]a website[/url].
 
 [h1]VR Software Status[/h1]
 Objective: Investigate software such as [url=https://store.steampowered.com/search?vrsupport=401%2C402&os=linux]these native titles on Steam[/url] to find whether they actually support virtual reality (VR) on Linux. In addition, [url=https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561]Steam Play[/url] whitelisted software will also be tracked. Please post whatever issues you have.
@@ -50,18 +50,22 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [list][*]See [url=https://docs.blender.org/manual/en/latest/getting_started/configuration/hardware.html#hardware-head-mounted-displays]Configuring Peripherals[/url] in the Blender Manual[/list]
 [*][url=https://github.com/webmixedreality/exokit]Exokit[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/3]issue[/url] - VR/AR/XR engine for JavaScript
 [*][url=https://github.com/kwahoo2/FreeCAD/releases]FreeCAD[/url] OpenXR fork - open source CAD modeling software
-[*][url=https://gitlab.com/langurmonkey/gaiasky/tree/vr#readme]Gaia Sky VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4]issue[/url] - 3D universe application
+[*][url=https://gaia.ari.uni-heidelberg.de/gaiasky/docs/master/Gaia-sky-vr.html]Gaia Sky VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4]issue[/url] - 3D universe application
 [*][url=https://godotengine.org/]Godot[/url] - open source game engine, requires [url=https://github.com/GodotVR/godot_openvr]plugin[/url]
 [*][url=https://github.com/cntools/libsurvive]libsurvive[/url] - open source Lighthouse tracking system
 [*][url=https://monado.dev]Monado[/url] - [url=https://www.collabora.com/news-and-blog/news-and-events/introducing-monado.html]blog post[/url] - free and open source [url=https://www.khronos.org/openxr/]OpenXR[/url] runtime
 [*][url=https://github.com/icosa-gallery/open-brush#readme]Open Brush[/url] - [url=https://openbrush.itch.io/openbrush]Linux builds[/url] - fork of the open sourced 3D painting app Tilt Brush
+[*][url=https://gitlab.com/znixian/OpenOVR]OpenComposite[/url] - Reimplementation of OpenVR, translating calls to OpenXR - play SteamVR games without SteamVR
 [*][url=https://github.com/Ominitay/ShellSaber]ShellSaber[/url] - graphical Beat Saber mod installer
 [*][url=https://github.com/SimulaVR/Simula]Simula[/url] - VR window manager for Linux that runs on top of Godot
+[*][url=https://gitlab.com/lubosz/sphvr]SPHVR[/url] - spherical media player using Vulkan for rendering - can play stereoscopic videos to your headset
+[*][url=https://stardustxr.org/]Stardust XR[/url] - XR display server for Linux-based distros - allows developers to make XR widgets or interfaces, run them among others
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR[/url] - Valve's VR software system
 [*][url=https://github.com/ChristophHaag/soundstagevr]SoundStage VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/5#note_93726156]Linux builds[/url] - music app
 [*][url=https://vircadia.com]Vircadia[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/13]issues[/url] - open source social VR metaverse, successor of High Fidelity
 [*][url=https://git.dec05eba.com/vr-video-player/about/]vr-video-player[/url] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
-[*][url=https://github.com/galister/WlxOverlay]WlxOverlay[/url] - lightweight OpenVR overlay for Wayland and X11 desktops
+[*][url=https://github.com/Meumeu/WiVRn]WiVRn[/url] - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
+[*][url=https://github.com/galister/wlx-overlay-s]WlxOverlay-S[/url] - access your Wayland/X11 desktop from within SteamVR/Monado 
 [*][url=https://gitlab.freedesktop.org/xrdesktop/xrdesktop]xrdesktop[/url] - [url=https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html]Announcement[/url] - interact with the Linux desktop in XR[/list]
 
 [h2]Confirmed Planned[/h2]
@@ -94,40 +98,26 @@ Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compa
 [hr]
 [h1]VR Hardware Status[/h1]
 [h2]Confirmed Working[/h2][list]
-[*]HTC Vive/Vive Pro and Valve Index via [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR[/url] (development beta)
+[*]HTC Vive/Vive Pro and [url=https://www.valvesoftware.com/en/index]Valve Index[/url] via [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR[/url] (development beta)
 [list][*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/294]Index base station updates do not work[/url]
-[*]Vive/1.0 [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320]base station power management[/url] does not work
-[list][*]Try: [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lhctrl]lhctrl[/url]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list]
+[*][url=https://www.bigscreenvr.com/]Bigscreen Beyond[/url] - does not work [url=https://forums.developer.nvidia.com/t/bigscreen-beyond-hmd-unable-to-be-initialized-on-nvidia-possibly-due-to-dsc-bpp-issue/294108]on Nvidia[/url], but works with Monado on AMD with a [url=https://gist.github.com/TayouVR/af8635a4b8e1d02d038be1be1d221c83]kernel patch[/url]; SteamVR works on AMD after Monado has run
 [*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
 [*][url=https://tundra-labs.com/]Tundra Trackers[/url]
 [*]Oculus Rift development kits (DK1, DK2) - [url=https://wiki.archlinux.org/index.php/Oculus_Rift]ArchWiki: Oculus Rift[/url][/list]
 
-[h2]Unofficial OpenHMD Support[/h2]
-[url=http://www.openhmd.net/index.php/devices/]These currently lack positional tracking functionality[/url], and not as many games support OpenHMD yet.[list]
-[*]Oculus Rift S
-[*]Microsoft Mixed Reality
-[*]PSVR[/list]
-
-These have experimental positional tracking support [url=https://github.com/thaytan/OpenHMD/tree/rift-kalman-filter]from a development branch[/url].[list]
-[*]Oculus Rift CV1
-[*]Oculus Rift DK2[/list]
-
-Also check out [url=https://monado.dev]Monado[/url], the free and open source [url=https://www.khronos.org/openxr/]OpenXR[/url] implementation. It relies on OpenHMD for some devices.
-
-If you want official Linux support for the Oculus Rift, [url=https://oculus.uservoice.com/forums/918556-oculus-rift-s-and-rift/suggestions/32672992-add-linux-support]add your vote here.[/url] If you want, leave a nice comment, too.
-
 [h2]Unofficial ALVR Support (Experimental)[/h2]
-Some Oculus headsets are supported by [url=https://alvr-org.github.io/]ALVR[/url] (Air Light VR).
+Some Oculus headsets are supported by [url=github.com/alvr-org/alvr]ALVR[/url] (Air Light VR).
 [quote]Stream VR games from your PC to your headset via Wi-Fi.
 ALVR uses technologies like Asynchronous Timewarp and Fixed Foveated Rendering for a smoother experience.
 All games that work with an Oculus Rift (s) should work with ALVR.[/quote]
 [quote]Linux support is still in beta. To be able to make audio work or run ALVR at all you may need advanced knowledge of your distro for debugging or building from source.[/quote]
 ALVR currently supports:[list]
-[*]Oculus Quest 1/2/Pro
+[*]Oculus Quest 1/2/3/Pro
 [*]Pico 4/Neo 3
 [*]Vive Focus 3/XR Elite
-[*]YVR 1/2[/list]
+[*]YVR 1/2
+[*]Lynx R1[/list]
 
 [h2]Graphics Cards[/h2]
 You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.
@@ -282,6 +272,7 @@ Many thanks to:[list]
 [*]Valve for [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR for Linux[/url] and [url=https://steamcommunity.com/app/250820/discussions/5/]the forum[/url]
 [*]Reddit communities [url=https://www.reddit.com/r/linux_gaming]/r/linux_gaming[/url] and [url=https://www.reddit.com/r/virtualreality_linux]/r/virtualreality_linux[/url]
 [*]IRC channel [url=https://web.libera.chat/#vronlinux]#vronlinux[/url] on [url=https://libera.chat/]irc.libera.chat[/url]
+[*][url=https://lvra.gitlab.io/]Linux VR Adventures wiki[/url] and [url=https://lvra.gitlab.io/docs/community/]community[/url]
 [*][url=https://www.mkdocs.org/]MkDocs,[/url] [url=https://squidfunk.github.io/mkdocs-material/]Material for MkDocs,[/url] and [url=https://leagueoflinux.org/]League of Linux[/url] which [url=https://vronlinux.org]VRonLinux[/url] is based on
 [*]Players like you
 [/list]
