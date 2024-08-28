@@ -9,7 +9,7 @@ Make sure to use the latest graphics drivers and Linux kernel available to you. 
 
 For unsupported games that may work with [url=https://github.com/ValveSoftware/Proton/]Proton,[/url] see [url=https://vronlinux.org/proton/]Proton - VRonLinux.org[/url] or [url=https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/]the Steam forum thread[/url].
 
-[h2]Supported/Native[/h2]
+[h2]Native/Supported[/h2]
 [h3]Games[/h3][list]
 [*][url=https://store.steampowered.com/app/473770]BallisticNG[/url] - [url=https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/]discussion[/url]
 [*][url=https://store.steampowered.com/app/744600/Balloonatics/]Balloonatics[/url]
