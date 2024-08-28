@@ -7,9 +7,9 @@ This document is VR-focused, but augmented reality (AR) applications will also b
 
 Make sure to use the latest graphics drivers and Linux kernel available to you. At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is required for the SteamVR beta. For more details on SteamVR for Linux, [url=https://github.com/ValveSoftware/SteamVR-for-Linux]click here.[/url]
 
-For unsupported games that may work with [url=https://github.com/ValveSoftware/Proton/]Proton,[/url] see [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/tree/master/Proton]the list on Gitlab[/url] or [url=https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/]the Steam forum thread[/url].
+For unsupported games that may work with [url=https://github.com/ValveSoftware/Proton/]Proton,[/url] see [url=https://vronlinux.org/proton/]Proton - VRonLinux.org[/url] or [url=https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/]the Steam forum thread[/url].
 
-[h2]Confirmed Working[/h2]
+[h2]Supported/Native[/h2]
 [h3]Games[/h3][list]
 [*][url=https://store.steampowered.com/app/473770]BallisticNG[/url] - [url=https://steamcommunity.com/app/473770/discussions/9/3288067088117151530/]discussion[/url]
 [*][url=https://store.steampowered.com/app/744600/Balloonatics/]Balloonatics[/url]
@@ -67,33 +67,6 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://github.com/Meumeu/WiVRn]WiVRn[/url] - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
 [*][url=https://github.com/galister/wlx-overlay-s]WlxOverlay-S[/url] - access your Wayland/X11 desktop from within SteamVR/Monado 
 [*][url=https://gitlab.freedesktop.org/xrdesktop/xrdesktop]xrdesktop[/url] - [url=https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html]Announcement[/url] - interact with the Linux desktop in XR[/list]
-
-[h2]Confirmed Planned[/h2]
-The developers will try to make a Linux version at some point. May or may not be released.[list]
-[*][url=https://store.steampowered.com/app/520010]Climbey[/url] - [url=https://steamcommunity.com/app/520010/discussions/0/133257959063050510/#c1368380934259432022]dev comment[/url]
-[*][url=https://store.steampowered.com/app/619500]cyubevr[/url] - [url=https://steamcommunity.com/games/619500/announcements/detail/1699428479882614708/]dev post[/url]
-[*][url=https://store.steampowered.com/app/422860]Holodance[/url] - [url=https://steamcommunity.com/app/422860/discussions/0/1697167355224768144/#c1697167355224998756]dev comment
-[*][url=https://store.steampowered.com/app/488760]Left-Hand Path[/url] - [url=https://reddit.com/r/Vive/comments/7c1kmi/l/dpmwb4o/?context=3]dev post[/url]
-[*][url=https://store.steampowered.com/app/238280]Legend of Dungeon[/url] - [url=https://steamcommunity.com/app/238280/discussions/0/135509823662970415/]dev post[/url]
-[*][url=https://store.steampowered.com/app/435490]Pierhead Arcade[/url] - [url=https://steamcommunity.com/app/435490/discussions/0/133258593403413970/?tscn=1489091768]dev post[/url]
-[*][url=https://store.steampowered.com/app/489380]QuiVr[/url] - [url=https://steamcommunity.com/app/489380/discussions/0/133258092240841267/?tscn=1487964739#c133258092241433588]dev post[/url][/list]
-
-[h2]Confirmed Not Working (Natively)[/h2][list]
-[*][url=https://store.steampowered.com/app/233610]Distance[/url] - [url=https://steamcommunity.com/app/233610/discussions/0/135512305401859168/#c2949168687313272972]mod comment[/url][/list] (works with Proton)
-
-[h2]Not Currently Planned[/h2]
-Some have great [url=https://github.com/ValveSoftware/Proton/]Proton[/url] compatibility, but are not whitelisted. Others have more mixed results, but may work well. See [url=https://gitlab.com/vr-on-linux/VR-on-Linux/Proton]the list on Gitlab[/url] or [url=https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/]the Steam forum thread for more info.[/url][list]
-[*][url=https://store.steampowered.com/app/414510]5089[/url] - [url=https://steamcommunity.com/app/414510/discussions/0/458606877328345110/?tscn=1488516436]dev post[/url]
-[*][url=https://store.steampowered.com/app/1092430/]Budget Cuts 2[/url] - [url=https://steamcommunity.com/app/1092430/discussions/0/1693843461177999079/#c1738882605425299335]dev post[/url]
-[*][url=https://store.steampowered.com/app/511690]Duck Force[/url]] - [url=https://steamcommunity.com/app/511690/discussions/0/343785574533821511/#c1290690926869411890]duck force dev[/url]
-[*][url=https://store.steampowered.com/app/448280/]Job Simulator[/url] - [url=https://steamcommunity.com/app/448280/discussions/0/412449508293339269/#c135509823665930598]dev post[/url]
-[*][url=https://store.steampowered.com/app/433600/]Legend of Luca[/url] - [url=https://steamcommunity.com/app/433600/discussions/0/135511027315876295/?tscn=1492031383]dev post[/url]
-[*][url=https://store.steampowered.com/app/450540/]Hot Dogs, Horseshoes, and Hand Grenades[/url] - [url=https://www.reddit.com/r/H3VR/comments/5vj1ws/linux_support]dev post[/url]
-[*][url=https://store.steampowered.com/app/428080/]Racket: Nx[/url] - [url=https://steamcommunity.com/app/428080/discussions/0/133258593391051295/]dev post[/url]
-[*][url=https://store.steampowered.com/app/436320/]Raw Data[/url] - [url=https://steamcommunity.com/app/436320/discussions/0/144513248274232587/?tscn=1488917004]dev post[/url]
-[*][url=https://store.steampowered.com/app/327880/]Sublevel Zero[/url] - [url=https://steamcommunity.com/app/327880/discussions/0/412447613577448648/?tscn=1488620416]dev post[/url]
-[*][url=https://store.steampowered.com/app/264710/]Subnautica[/url] - [url=https://steamcommunity.com/app/264710/discussions/0/490123938436996887/]dev post[/url]
-[*][url=https://store.steampowered.com/app/327140/]Tilt Brush[/url] - [url=https://www.phoronix.com/forums/forum/software/linux-gaming/934616-trying-the-steamvr-beta-on-linux-feels-more-like-an-early-alpha?p=934623#post934623]dev post[/url][/list]
 
 [hr]
 [h1]VR Hardware Status[/h1]

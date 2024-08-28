@@ -10,9 +10,9 @@ Make sure to use the latest graphics drivers and Linux kernel available to you. 
 
 For unsupported games that may work with [Proton], see [the list on Gitlab] or [the Steam forum thread].
 
-### Confirmed Working
+## Supported/Native
 
-##### Games
+### Games
 
 * [BallisticNG] - [discussion][ballisticng thread]
 * [Balloonatics]
@@ -45,7 +45,7 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 * [ZED] - [dev post][zed-vr]
 
-##### Other Software
+### Other Software
 
 * [Beataroni] - Beat Saber mod installer
 * [BeatSaberModManager](https://github.com/affederaffe/BeatSaberModManager) - Beat Saber mod installer
@@ -76,6 +76,8 @@ For unsupported games that may work with [Proton], see [the list on Gitlab] or [
 * [WiVRn](https://github.com/Meumeu/WiVRn) - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
 * [WlxOverlay-S](https://github.com/galister/wlx-overlay-s) - access your Wayland/X11 desktop from within SteamVR/Monado 
 * [xrdesktop] - [Announcement][xrdesktop post] - interact with the Linux desktop in XR
+
+<!--
 
 ### Confirmed Planned
 
@@ -108,11 +110,14 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 * [Sublevel Zero] - [dev post][sublevel zero post]
 * [Subnautica] - [dev post][subnautica post]
 
+-->
+
 ----
+
 
 # VR Hardware Status
 
-### Confirmed Working
+## Confirmed Working
 
 * HTC Vive/Vive Pro and [Valve Index] via [SteamVR] (development beta)
     * [Index base station updates do not work]
@@ -125,7 +130,7 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 * [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
-### Unofficial ALVR Support (Experimental)
+## Unofficial ALVR Support (Experimental)
 
 Some Oculus headsets are supported by [ALVR](https://github.com/alvr-org/alvr) (Air Light VR).
 
@@ -143,7 +148,7 @@ ALVR currently supports:
 * YVR 1/2
 * Lynx R1
 
-### Graphics Cards 
+## Graphics Cards 
 
 You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.
 
