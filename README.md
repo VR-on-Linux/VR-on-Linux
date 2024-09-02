@@ -1,6 +1,6 @@
 <!--For a short line, feel free to use the [link text](URL) format. For longer lines, you may want to use the [link text][link reference name], and put the URL after its name in the bottom section with the others.-->
 
-![Tux with VR headset](https://gitlab.com/vr-on-linux/VR-on-Linux/raw/master/docs/assets/tux-vr.plain.svg){ align=right }
+![Tux with VR headset](https://gitlab.com/vr-on-linux/VR-on-Linux/raw/master/docs/assets/tux-vr.plain.svg){ align=right }{: style="height:192px;width:192px"}
 
 # VR Software Status
 
