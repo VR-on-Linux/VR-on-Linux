@@ -1,5 +1,7 @@
 <!--For a short line, feel free to use the [link text](URL) format. For longer lines, you may want to use the [link text][link reference name], and put the URL after its name in the bottom section with the others.-->
 
+![Tux with VR headset](https://dummyimage.com/600x400/eee/aaa){ align=right }
+
 # VR Software Status
 
 Objective: Investigate software such as [these native titles on Steam] to find whether they actually support virtual reality (VR) on Linux. In addition, [Steam Play] whitelisted software will also be tracked. Please post [what issues you have here].
