@@ -1,6 +1,6 @@
 <!--For a short line, feel free to use the [link text](URL) format. For longer lines, you may want to use the [link text][link reference name], and put the URL after its name in the bottom section with the others.-->
 
-![Tux with VR headset](https://dummyimage.com/600x400/eee/aaa){ align=right }
+![Tux with VR headset](docs/assets/tux-vr-3.png){ align=right }
 
 # VR Software Status
 
