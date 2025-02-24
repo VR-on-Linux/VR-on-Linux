@@ -8,9 +8,10 @@ site_author: yaomtc
 copyright: Copyright Creative Commons Attribution-ShareAlike 4.0 International
 
 nav:
+  - 'VR Database - User Reviews': 'https://db.vronlinux.org//'
   - '🏠 Native/Supported Titles': index.md
   - '🟢 Proton (Functional Titles)': proton.md
-  - '⚙️ Modding Skyrim VR': SkyrimVRModding.md
+  - '⚙️ Moddisng Skyrim VR': SkyrimVRModding.md
   - '🛠️ Contributing': CONTRIBUTING.md
 
 plugins:
