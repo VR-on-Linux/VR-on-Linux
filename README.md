@@ -21,7 +21,6 @@ For unsupported games that may work with [Proton], see [Proton - Functional Titl
 * [Beat Saber] - on Steam Play whitelist - also see this [modding guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2337011257)
 * [BeepSaber](https://github.com/NeoSpark314/BeepSaber) - native Beat Saber alternative using Godot
 * [Doom VFR] - on Steam Play whitelist - [issue for AMD GPUs](https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/23)
-* [Dungeon Hero]
 * [Everspace] - [dev comment][everspace dev]
 * [Fake Racing]
 * [Half-Life: Alyx] - [announcement][hl alyx announce] - [issues][hl alyx issues]
