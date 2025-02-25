@@ -31,7 +31,6 @@ For unsupported games that may work with [Proton], see [Proton - Functional Titl
 * [Munch VR] - [announcement][munch vr announce]
 * [Neos VR] - [announcement][neos vr post]
 * [OpenMW (VR fork)] - [issue][openmw issue]
-* [Portal 2 VR](https://github.com/Gistix/portal2vr) (mod) - [video](https://youtu.be/iM-ooCtjbl0)
 * [Polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
 * [Serious Sam Fusion 2017](https://store.steampowered.com/app/564310)
