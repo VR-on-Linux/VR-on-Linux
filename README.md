@@ -28,6 +28,7 @@ For unsupported games that may work with [Proton], see [Proton - Functional Titl
 * [Google Earth VR] - on Steam Play whitelist
 * [Groove Gunner]
 * [Locomancer]
+* [Minetest VR](https://dustlabs.io/minetestvr.html) - Open source Minecraft alternative in VR (alpha release, expect bugs/no polish)
 * [Munch VR] - [announcement][munch vr announce]
 * [Neos VR] - [announcement][neos vr post]
 * [OpenMW (VR fork)] - [issue][openmw issue]
