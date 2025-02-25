@@ -43,7 +43,6 @@ For unsupported games that may work with [Proton], see [Proton - Functional Titl
 * [Universe Sandbox 2] - [discussion][universe sandbox 2 discussion]
 * [Vivecraft](http://www.vivecraft.org/)
 * [X-Plane] - [discussion][xplane discussion]
-* [vkQuakeVR]
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 * [ZED] - [dev post][zed-vr]
 
@@ -321,7 +320,6 @@ Many thanks to:
   [Beat Saber]: https://store.steampowered.com/app/620980
   [Doom VFR]: https://store.steampowered.com/app/650000
   [Dota 2]: https://store.steampowered.com/app/570/
-  [Dungeon Hero]: https://store.steampowered.com/app/366810
   [Everspace]: https://store.steampowered.com/app/396750
   [everspace dev]: https://steamcommunity.com/app/396750/discussions/0/1290691308569316537/?ctp=7#c3223871682611119274
   [Fake Racing]: https://store.steampowered.com/app/1481600/Fake_Racing/
@@ -343,7 +341,6 @@ Many thanks to:
   [ssvr1post]: https://steamcommunity.com/games/552450/announcements/detail/508182627702316801
   [Serious Sam VR: The Second Encounter]: https://store.steampowered.com/app/552460
   [SphereFACE]: https://store.steampowered.com/app/485680
-  [vkQuakeVR]: https://github.com/VsevolodGolovanov/vkQuakeVR
   [X-Plane]: https://store.steampowered.com/app/269950
   [xplane discussion]: https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/
   [Universe sandbox 2]: https://store.steampowered.com/app/230290
