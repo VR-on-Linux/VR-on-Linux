@@ -209,7 +209,6 @@ On SteamVR versions >1.14, asynchronous reprojection is broken on all drivers an
 
 **Fix**
 Either:
-- Use SteamVR 1.14, refer to *Using older SteamVR versions*
 - Enable Legacy Reprojection Mode for each game, then reduce the resolution until the experience is stable (otherwise a similar effect will be present)
 - If asynchronous reprojection causes issues on SteamVR 1.14, disable it by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`
 
@@ -254,8 +253,7 @@ NVK driver has become part of Mesa, however it is not finished yet and does not 
 [Upstream issue][overlay wobble]
 
 **Fix**
-- (Applies to SteamVR >1.14) Reinstall SteamVR and reject superuser access, [setting `cap_sys_nice` causes issues](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/576)
-- Otherwise, use SteamVR 1.14 as per *Using older SteamVR versions*
+- Reinstall SteamVR and reject superuser access, [setting `cap_sys_nice` causes issues](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/576)
 
 **Old fix**
 - Add this environment variable to the launch options of SteamVR: `RADV_DEBUG=nodcc`
@@ -268,23 +266,6 @@ NVK driver has become part of Mesa, however it is not finished yet and does not 
 This is a SteamVR bug and it can't really be fixed from the outside.
 
 There is some discussion in [this Reddit thread][overlay wobble workarounds] about some workarounds, but they can cause issues with some games.
-
-### Using older SteamVR versions
-
-SteamVR 1.14 is the version to fall back to in case of certain issues.
-
-**Note:** It does not work on Wayland.
-
-It fixes asynchronous reprojection, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
-
-**Instructions**
-
-1. Right click SteamVR in Steam
-2. Select **Properties...**
-3. Go to the **Betas** tab
-4. Under **Beta Participation**, select **linux_v1.14**
-5. Refer to [this issue comment](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/465#issuecomment-932174544) to fix vrwebhelper
-6. For each Windows Unity game or any other Windows game that crashes, select **Proton 5.13**, which should make the game playable
 
 ----
 
