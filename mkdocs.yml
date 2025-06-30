@@ -3,15 +3,14 @@ site_url: https://vr-on-linux.gitlab.io/
 repo_url: https://gitlab.com/vr-on-linux/VR-on-Linux
 repo_name: VR on Linux repository
 site_dir: public
-site_description: Documenting the status of VR/AR software and hardware
+site_description: Documenting the status of VR/AR software and hardware on Linux
 site_author: yaomtc
 copyright: Copyright Creative Commons Attribution-ShareAlike 4.0 International
 
 nav:
-  - '👍 VR Database - User Reviews': 'https://db.vronlinux.org//'
+  - '👍 VR Database - User Reviews': 'https://db.vronlinux.org/'
   - '🏠 Native/Supported Titles': index.md
-  - '🟢 Proton (Functional Titles)': proton.md
-  - '⚙️ Moddisng Skyrim VR': SkyrimVRModding.md
+  - '⚙️ Modding Skyrim VR': SkyrimVRModding.md
   - '🛠️ Contributing': CONTRIBUTING.md
 
 plugins:

@@ -10,7 +10,7 @@ This document is VR-focused, but augmented reality (AR) applications will also b
 
 Make sure to use the latest graphics drivers and Linux kernel available to you. At a minimum, Linux kernel 4.13 with Mesa 18.2 (AMD) or Nvidia version 430.26 is required for the SteamVR beta. For more details on SteamVR for Linux, [click here.]
 
-For unsupported games that may work with [Proton], see [Proton - Functional Titles] or [the Steam forum thread].
+For unsupported games that may work with [Proton], please check out the VR software database: https://db.vronlinux.org/
 
 ## Native/Supported
 
@@ -289,8 +289,6 @@ Many thanks to:
   [Steam Play]: https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561
   [what issues you have here]: https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues
   [Proton]: https://github.com/ValveSoftware/Proton/
-  [Proton - Functional Titles]: https://vronlinux.org/proton/
-  [the Steam forum thread]: https://steamcommunity.com/app/250820/discussions/5/4839692156569764298/
 
 <!--Confirmed Working: Games-->
 
