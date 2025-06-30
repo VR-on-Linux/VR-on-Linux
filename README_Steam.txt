@@ -159,7 +159,6 @@ Either:
 [list]
 [*]Reduce the resolution until reprojection is no longer an issue
 [*]Enable Legacy Reprojection Mode for the game, it performs better (which does the same as `enableLinuxVulkanAsync`?)
-[*]Use SteamVR 1.14, where reprojection works fine on RADV, refer to [i]Using older SteamVR versions[/i]
 [*]Disable async reprojection (degrades perceived performance) by setting `"enableLinuxVulkanAsync" : false` under the `steamvr` section at `~/.steam/steam/config/steamvr.vrsettings`[/list]
 
 [h3]Games crash before anything renders[/h3]
@@ -202,7 +201,6 @@ TODO
 
 [list]
 [*](Applies to SteamVR >1.14) Reinstall SteamVR and reject superuser access, [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/576]setting `cap_sys_nice` causes issues[/url]
-[*]Otherwise, use SteamVR 1.14 as per [i]Using older SteamVR versions[/i]
 [/list]
 
 [b]Old fix[/b]
@@ -217,24 +215,6 @@ TODO
 This is a SteamVR bug and it can't really be fixed from the outside.
 
 There is some discussion in [url=https://www.reddit.com/r/virtualreality_linux/comments/yucy6i/steamvr_flickering_with_asyn_reprojection_solved/]this Reddit thread[/url] about some workarounds, but they can cause issues with some games.
-
-### Using older SteamVR versions
-
-SteamVR 1.14 is the version to fall back to in case of certain issues.
-
-[b]Note:[/b] It does not work on Wayland.
-
-On AMD, it fixes reprojection for games run with RADV, and doesn't crash or introduce graphics artifacts, unlike the newer versions do.
-
-[b]Instructions[/b]
-[olist]
-[*]Right click SteamVR in Steam
-[*]Select [b]Properties...[/b]
-[*]Go to the [b]Betas[/b] tab
-[*]Under [b]Beta Participation[/b], select [b]linux_v1.14[/b]
-[*]Refer to [url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/465#issuecomment-932174544]this issue comment[/url] to fix vrwebhelper
-[*]For each Windows Unity game or any other Windows game that crashes, select [b]Proton 5.13[/b], which should make the game playable
-[/olist]
 
 [hr]
 [h1]Acknowledgements[/h1]
