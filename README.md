@@ -29,10 +29,10 @@ For unsupported games that may work with [Proton], please check out the VR softw
 * [Locomancer]
 * [Minetest VR](https://dustlabs.io/minetestvr.html) - Open source Minecraft alternative in VR (alpha release, expect bugs/no polish)
 * [Munch VR] - [announcement][munch vr announce]
-* [Neos VR] - [announcement][neos vr post]
 * [OpenMW (VR fork)] - [issue][openmw issue]
 * [Polynomial 2] - [discussion][polynomial 2 thread]
 * [RBDOOM-3-BFG](https://github.com/Codes4Fun/RBDOOM-3-BFG)
+* [Resonite]
 * [Serious Sam Fusion 2017](https://store.steampowered.com/app/564310)
 * [Serious Sam 3 VR: BFE]
 * [Serious Sam VR: The First Encounter] - [dev post][ssvr1post]
@@ -308,8 +308,7 @@ Many thanks to:
   [Locomancer]: https://store.steampowered.com/app/490250/
   [Munch VR]: https://store.steampowered.com/app/549000
   [munch vr announce]: https://steamcommunity.com/games/549000/announcements/detail/254855783331915882
-  [Neos VR]: https://store.steampowered.com/app/740250/Neos_VR/
-  [neos vr post]: https://store.steampowered.com/newshub/app/740250/view/3300515414498852519
+  [Resonite]: https://store.steampowered.com/app/2519830/Resonite/
   [OpenMW (VR fork)]: https://gitlab.com/madsbuvi/openmw
   [openmw issue]: https://gitlab.com/madsbuvi/openmw/-/issues/33#note_441945362
   [Polynomial 2]: https://store.steampowered.com/app/379420
