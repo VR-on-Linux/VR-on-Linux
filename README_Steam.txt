@@ -22,6 +22,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/546560/HalfLife_Alyx/]Half-Life: Alyx[/url] - [url=https://steamcommunity.com/games/546560/announcements/detail/3758762298552654078]announcement[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/?search=Alyx&sort=title_asc&state=opened]issues[/url]
 [*][url=https://store.steampowered.com/app/348250]Google Earth VR[/url]  - on Steam Play whitelist
 [*][url=https://store.steampowered.com/app/976930]Groove Gunner[/url]
+[*][url=https://github.com/LorenDB/kaon]Kaon[/url] - utility to help you use UEVR (Universal Unreal Engine VR Mod) on Linux
 [*][url=https://store.steampowered.com/app/490250/]Locomancer[/url]
 [*][url=https://store.steampowered.com/app/549000]Munch VR[/url] - [url=https://steamcommunity.com/games/549000/announcements/detail/254855783331915882]announcement[/url]
 [*][url=https://gitlab.com/madsbuvi/openmw]OpenMW (VR fork)[/url] - [url=https://gitlab.com/madsbuvi/openmw/-/issues/33#note_441945362]issue[/url]

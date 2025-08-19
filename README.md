@@ -57,6 +57,7 @@ For unsupported games that may work with [Proton], please check out the VR softw
 * [FreeCAD] OpenXR fork - open source CAD modeling software
 * [Gaia Sky VR] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/4) - 3D universe application
 * [Godot] - open source game engine, requires [plugin][godot plugin]
+* [Kaon](https://github.com/LorenDB/kaon) - utility to help you use UEVR (Universal Unreal Engine VR Mod) on Linux
 * [libsurvive] - open source Lighthouse tracking system
 * [LÖVR](https://lovr.org/) - Lua XR engine, written in C, which supports overlays on monado
     * [lovr-playspace](https://github.com/SpookySkeletons/lovr-playspace) - Room boundary overlay for OpenXR, made with LÖVR
