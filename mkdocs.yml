@@ -68,8 +68,6 @@ extra:
       link: 'https://gitlab.com/vr-on-linux/VR-on-Linux'
     - icon: 'fontawesome/brands/steam'
       link: 'https://steamcommunity.com/sharedfiles/filedetails/?id=2984005943'
-    - icon: 'fontawesome/brands/steam'
-      link: 'https://steamcommunity.com/app/250820/discussions/5/4839692156566904474/'
     - icon: 'fontawesome/brands/github'
       link: 'https://github.com/VR-on-Linux/VR-on-Linux'
 
