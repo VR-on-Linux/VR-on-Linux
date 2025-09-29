@@ -65,7 +65,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://github.com/ChristophHaag/soundstagevr]SoundStage VR[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/5#note_93726156]Linux builds[/url] - music app
 [*][url=https://vircadia.com]Vircadia[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/-/issues/13]issues[/url] - open source social VR metaverse, successor of High Fidelity
 [*][url=https://git.dec05eba.com/vr-video-player/about/]vr-video-player[/url] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
-[*][url=https://github.com/Meumeu/WiVRn]WiVRn[/url] - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
+[*][url=https://github.com/WiVRn/WiVRn]WiVRn[/url] - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
 [*][url=https://github.com/galister/wlx-overlay-s]WlxOverlay-S[/url] - access your Wayland/X11 desktop from within SteamVR/Monado 
 [*][url=https://gitlab.freedesktop.org/xrdesktop/xrdesktop]xrdesktop[/url] - [url=https://www.collabora.com/news-and-blog/news-and-events/moving-the-linux-desktop-to-another-reality.html]Announcement[/url] - interact with the Linux desktop in XR[/list]
 

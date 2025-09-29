@@ -74,7 +74,7 @@ For unsupported games that may work with [Proton], please check out the VR softw
 * [Unreal Engine] - proprietary game engine; VR on Linux with 4.16+
 * [Vircadia](https://vircadia.com) - [issues](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/13) - open source social VR metaverse, successor of High Fidelity
 * [vr-video-player] - play stereoscopic 3D videos (and some non-VR games) on your VR headset
-* [WiVRn](https://github.com/Meumeu/WiVRn) - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
+* [WiVRn](https://github.com/WiVRn/WiVRn) - OpenXR streaming application - lets you run OpenXR apps on a computer and display them on a standalone headset
 * [WlxOverlay-S](https://github.com/galister/wlx-overlay-s) - access your Wayland/X11 desktop from within SteamVR/Monado 
 * [xrdesktop] - [Announcement][xrdesktop post] - interact with the Linux desktop in XR
 
