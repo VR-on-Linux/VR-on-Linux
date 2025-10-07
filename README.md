@@ -128,7 +128,9 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
 * [Bigscreen Beyond] - does not work [on Nvidia], but works with [Monado] on AMD with a [kernel patch]; SteamVR works on AMD after Monado has run
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
-* [SlimeVR Full-Body Tracker](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker)
+* [SlimeVR](https://slimevr.dev/) Full Body Tracker
+* [HaritoraX](https://en.shiftall.net/products/haritorax2) trackers when connected to SlimeVR via [SlimeTora](https://github.com/OCSYT/SlimeTora)
+
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
 ## Unofficial ALVR Support (Experimental)
@@ -143,15 +145,16 @@ Some Oculus headsets are supported by [ALVR](https://github.com/alvr-org/alvr) (
 
 ALVR currently supports:
 
-* Oculus Quest 1/2/3/Pro
-* Pico 4/Neo 3
-* Vive Focus 3/XR Elite
-* YVR 1/2
+* Apple Vision Pro
+* Quest 1/2/3/3S/Pro
+* Pico Neo 3/4/4 Ultra
+* Play For Dream YVR 1/2/MR
+* Vive Focus 3/Vision/XR Elite
 * Lynx R1
 
 ## Graphics Cards 
 
-You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel graphics are not currently supported by SteamVR.
+You should try to get the latest graphics drivers that are available. For Nvidia users, have at least the NVIDIA 470.42.01 driver installed, available since June 22, 2021. For AMD users, have at least Mesa 18.2 (September 2018). Intel's new "Arc" dedicated graphics cards (Xe/Alchemist/Battlemage) are also functional with SteamVR.
 
 ----
 
