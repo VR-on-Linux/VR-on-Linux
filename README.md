@@ -40,7 +40,7 @@ For unsupported games that may work with [Proton], please check out the VR softw
 * [sphereFACE] - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/2)
 * [The Talos Principle VR](https://store.steampowered.com/app/552440/)
 * [Universe Sandbox 2] - [discussion][universe sandbox 2 discussion]
-* [Vivecraft](http://www.vivecraft.org/)
+* [Vivecraft](http://www.vivecraft.org/) - [issue](https://gitlab.com/vr-on-linux/VR-on-Linux/issues/32)
 * [X-Plane] - [discussion][xplane discussion]
 * [Zaccaria Pinball](https://store.steampowered.com/app/444930/)
 * [ZED] - [dev post][zed-vr]

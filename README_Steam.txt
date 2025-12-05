@@ -37,7 +37,7 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*][url=https://store.steampowered.com/app/485680]sphereFACE[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/2]issue[/url]
 [*][url=https://store.steampowered.com/app/552440/]The Talos Principle VR[/url]
 [*][url=https://store.steampowered.com/app/230290]Universe Sandbox 2[/url] - [url=https://steamcommunity.com/app/230290/discussions/0/1488866180597515211/?ctp=2#c2590022385666315727]discussion[/url]
-[*][url=http://www.vivecraft.org/]Vivecraft[/url]
+[*][url=http://www.vivecraft.org/]Vivecraft[/url] - [url=https://gitlab.com/vr-on-linux/VR-on-Linux/issues/32]issue[/url]
 [*][url=https://store.steampowered.com/app/269950]X-Plane[/url] - [url=https://forums.x-plane.org/index.php?/forums/topic/157332-xplane-vr-on-linux/]discussion[/url]
 [*][url=https://github.com/VsevolodGolovanov/vkQuakeVR]vkQuakeVR[/url]
 [*][url=https://store.steampowered.com/app/444930/]Zaccaria Pinball[/url]
