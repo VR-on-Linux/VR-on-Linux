@@ -124,13 +124,12 @@ Some have great [Proton] compatibility, but are not whitelisted. Others have mor
     * [Index base station updates do not work]
     * [Index camera does not work]
     * Vive/1.0 [base station power management] does not work
-        * Try: [Lighthouse PM] (Android), [lhctrl]
+        * Try: [Lighthouse PM] (Android), [lhctrl], [Lighthouse](https://github.com/ShayBox/Lighthouse)
 * [Bigscreen Beyond] - does not work [on Nvidia], but works with [Monado] on AMD with a [kernel patch]; SteamVR works on AMD after Monado has run
 * [Vive Trackers](https://www.vive.com/us/accessory/tracker3/)
 * [Tundra Trackers](https://tundra-labs.com/)
 * [SlimeVR](https://slimevr.dev/) Full Body Tracker
 * [HaritoraX](https://en.shiftall.net/products/haritorax2) trackers when connected to SlimeVR via [SlimeTora](https://github.com/OCSYT/SlimeTora)
-
 * Oculus Rift development kits (DK1, DK2) - [ArchWiki: Oculus Rift]
 
 ## Unofficial ALVR Support (Experimental)

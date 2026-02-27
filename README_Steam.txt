@@ -75,6 +75,8 @@ For unsupported games that may work with [url=https://github.com/ValveSoftware/P
 [*]HTC Vive/Vive Pro and [url=https://www.valvesoftware.com/en/index]Valve Index[/url] via [url=https://github.com/ValveSoftware/SteamVR-for-Linux]SteamVR[/url] (development beta)
 [list][*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/294]Index base station updates do not work[/url]
 [*][url=https://github.com/ValveSoftware/SteamVR-for-Linux/issues/231]Index camera does not work[/url][/list]
+[list][*]Vive/1.0 [base station power management](https://github.com/ValveSoftware/SteamVR-for-Linux/issues/320) does not work
+[*]Try: [url=https://github.com/jeroen1602/lighthouse_pm]Lighthouse PM[/url] (Android), [url=https://github.com/risa2000/lhctrl]lhctrl[/url], [url=https://github.com/ShayBox/Lighthouse]Lighthouse[/url][/list]
 [*][url=https://www.bigscreenvr.com/]Bigscreen Beyond[/url] - does not work [url=https://forums.developer.nvidia.com/t/bigscreen-beyond-hmd-unable-to-be-initialized-on-nvidia-possibly-due-to-dsc-bpp-issue/294108]on Nvidia[/url], but works with Monado on AMD with a [url=https://gist.github.com/TayouVR/af8635a4b8e1d02d038be1be1d221c83]kernel patch[/url]; SteamVR works on AMD after Monado has run
 [*][url=https://www.vive.com/us/accessory/tracker3/]Vive Trackers[/url]
 [*][url=https://tundra-labs.com/]Tundra Trackers[/url]
