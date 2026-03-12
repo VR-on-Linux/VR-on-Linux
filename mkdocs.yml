@@ -12,7 +12,7 @@ nav:
   - '🏠 Native/Supported Titles': index.md
   - '⚙️ Modding Skyrim VR': SkyrimVRModding.md
   - '🛠️ Contributing': CONTRIBUTING.md
-  - '🤝 Linux VR Adventures Wiki': 'https://lvra.gitlab.io/'
+  - '🤝 Linux VR Adventures Wiki': 'https://wiki.vronlinux.org/'
 
 plugins:
   - search
